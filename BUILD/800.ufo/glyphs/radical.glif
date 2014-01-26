@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+  <advance width="1195"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="1055" y="1577" type="line"/>
+      <point x="613" y="110" type="line"/>
+      <point x="553" y="320" type="line"/>
+      <point x="358" y="951" type="line"/>
+      <point x="42" y="864" type="line"/>
+      <point x="59" y="739" type="line"/>
+      <point x="264" y="800" type="line"/>
+      <point x="583" y="-168" type="line"/>
+      <point x="724" y="-168" type="line"/>
+      <point x="1250" y="1577" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

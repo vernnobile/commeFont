@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R" format="1">
+  <advance width="1509"/>
+  <unicode hex="0052"/>
+  <outline>
+    <contour>
+      <point x="168" y="0" type="line"/>
+      <point x="567" y="0" type="line"/>
+      <point x="567" y="657" type="line"/>
+      <point x="490" y="597" type="line"/>
+      <point x="814" y="596" type="line"/>
+      <point x="732" y="654" type="line"/>
+      <point x="1006" y="0" type="line"/>
+      <point x="1432" y="0" type="line"/>
+      <point x="1432" y="12" type="line"/>
+      <point x="1130" y="682" type="line"/>
+      <point x="1095" y="611" type="line"/>
+      <point x="1188" y="643"/>
+      <point x="1369" y="755"/>
+      <point x="1369" y="1006" type="curve"/>
+      <point x="1378" y="1347"/>
+      <point x="1245" y="1516"/>
+      <point x="168" y="1456" type="curve"/>
+    </contour>
+    <contour>
+      <point x="567" y="769" type="line"/>
+      <point x="567" y="1299" type="line"/>
+      <point x="503" y="1220" type="line"/>
+      <point x="923" y="1244"/>
+      <point x="1013" y="1168"/>
+      <point x="1010" y="1025" type="curve"/>
+      <point x="1008" y="898"/>
+      <point x="899" y="828"/>
+      <point x="760" y="829" type="curve"/>
+      <point x="522" y="829" type="line"/>
+    </contour>
+    <contour>
+      <point x="762" y="1456" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="752" y="0" type="move" name="bot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>722</integer>
+            <key>width</key>
+            <integer>96</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1355</integer>
+            <key>width</key>
+            <integer>94</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1122</integer>
+            <key>width</key>
+            <integer>117</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>839</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

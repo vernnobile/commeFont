@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle" format="1">
+  <advance width="655"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="245" y="718" type="line"/>
+      <point x="409" y="718" type="line"/>
+      <point x="458" y="1377" type="line"/>
+      <point x="146" y="1377" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="1346"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="177" y="317" type="line"/>
+      <point x="1141" y="317" type="line"/>
+      <point x="1141" y="462" type="line"/>
+      <point x="177" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="177" y="576" type="line"/>
+      <point x="1141" y="576" type="line"/>
+      <point x="1141" y="721" type="line"/>
+      <point x="177" y="721" type="line"/>
+    </contour>
+    <component base="Y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

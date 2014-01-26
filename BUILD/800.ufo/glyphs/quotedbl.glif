@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="1">
+  <advance width="884"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="174" y="876" type="line"/>
+      <point x="373" y="876" type="line"/>
+      <point x="340" y="1375" type="line"/>
+      <point x="81" y="1375" type="line"/>
+    </contour>
+    <contour>
+      <point x="556" y="876" type="line"/>
+      <point x="752" y="876" type="line"/>
+      <point x="734" y="1375" type="line"/>
+      <point x="462" y="1375" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

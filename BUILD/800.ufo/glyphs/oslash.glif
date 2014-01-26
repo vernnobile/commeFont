@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="1259"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="237" y="-126" type="line"/>
+      <point x="315" y="-179" type="line"/>
+      <point x="1059" y="1210" type="line"/>
+      <point x="975" y="1263" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

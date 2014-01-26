@@ -1,18 +1,7 @@
-# Object files
-*.o
-*.ko
+# FontForge backups
 
-# Libraries
-*.lib
-*.a
+*.sfd~
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# OSX stuff
 
-# Executables
-*.exe
-*.out
-*.app
+.DS*

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="1">
+  <advance width="1223"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="541" y="1516" type="line"/>
+      <point x="93" y="733" type="line"/>
+      <point x="534" y="-45" type="line"/>
+      <point x="674" y="-45" type="line"/>
+      <point x="1128" y="733" type="line"/>
+      <point x="684" y="1516" type="line"/>
+    </contour>
+    <contour>
+      <point x="938" y="736" type="curve"/>
+      <point x="713" y="313"/>
+      <point x="823" y="584"/>
+      <point x="597" y="160" type="curve"/>
+      <point x="374" y="580"/>
+      <point x="501" y="313"/>
+      <point x="283" y="735" type="curve"/>
+      <point x="507" y="1157"/>
+      <point x="386" y="891"/>
+      <point x="613" y="1311" type="curve"/>
+      <point x="829" y="887"/>
+      <point x="720" y="1155"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

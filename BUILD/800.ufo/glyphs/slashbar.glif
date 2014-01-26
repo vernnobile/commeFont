@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashbar" format="1">
+  <advance width="261"/>
+  <outline>
+    <contour>
+      <point x="136" y="442" type="line"/>
+      <point x="822" y="659" type="line"/>
+      <point x="822" y="914" type="line"/>
+      <point x="136" y="696" type="line"/>
+    </contour>
+    <contour>
+      <point x="406" y="654" type="move" name="_mid"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

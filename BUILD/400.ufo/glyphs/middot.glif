@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="middot" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="period" yOffset="513"/>
+    <contour>
+      <point x="316" y="623" type="move" name="_mid"/>
+    </contour>
+  </outline>
+</glyph>

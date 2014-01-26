@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright" format="1">
+  <advance width="886"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="136" y="1556" type="line"/>
+      <point x="266" y="1427"/>
+      <point x="416" y="1164"/>
+      <point x="416" y="646" type="curve"/>
+      <point x="680" y="646" type="line"/>
+      <point x="680" y="1013"/>
+      <point x="542" y="1426"/>
+      <point x="395" y="1596" type="curve"/>
+      <point x="136" y="1596" type="line"/>
+    </contour>
+    <contour>
+      <point x="395" y="-303" type="line"/>
+      <point x="542" y="-133"/>
+      <point x="680" y="279"/>
+      <point x="680" y="646" type="curve"/>
+      <point x="416" y="646" type="line"/>
+      <point x="416" y="129"/>
+      <point x="266" y="-145"/>
+      <point x="136" y="-274" type="curve"/>
+      <point x="136" y="-303" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

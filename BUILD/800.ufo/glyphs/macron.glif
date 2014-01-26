@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="1">
+  <advance width="1028"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="148" y="1259" type="line"/>
+      <point x="876" y="1259" type="line"/>
+      <point x="876" y="1418" type="line"/>
+      <point x="148" y="1418" type="line"/>
+    </contour>
+    <contour>
+      <point x="504" y="1331" type="move" name="_mid"/>
+    </contour>
+    <contour>
+      <point x="513" y="1082" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

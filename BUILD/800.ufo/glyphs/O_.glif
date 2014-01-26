@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="1">
+  <advance width="1665"/>
+  <unicode hex="004F"/>
+  <outline>
+    <contour>
+      <point x="112" y="723" type="curve"/>
+      <point x="112" y="245"/>
+      <point x="377" y="-22"/>
+      <point x="834" y="-22" type="curve"/>
+      <point x="1294" y="-22"/>
+      <point x="1553" y="243"/>
+      <point x="1553" y="725" type="curve"/>
+      <point x="1553" y="1200"/>
+      <point x="1292" y="1476"/>
+      <point x="833" y="1476" type="curve"/>
+      <point x="376" y="1476"/>
+      <point x="112" y="1201"/>
+    </contour>
+    <contour>
+      <point x="1125" y="722" type="curve"/>
+      <point x="1125" y="425"/>
+      <point x="1023" y="262"/>
+      <point x="835" y="262" type="curve"/>
+      <point x="646" y="262"/>
+      <point x="539" y="424"/>
+      <point x="539" y="722" type="curve"/>
+      <point x="539" y="1017"/>
+      <point x="646" y="1192"/>
+      <point x="834" y="1192" type="curve"/>
+      <point x="1024" y="1192"/>
+      <point x="1125" y="1017"/>
+    </contour>
+    <contour>
+      <point x="822" y="1456" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="794" y="-1" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-19</integer>
+            <key>width</key>
+            <integer>96</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1372</integer>
+            <key>width</key>
+            <integer>96</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>150</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1390</integer>
+            <key>width</key>
+            <integer>122</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

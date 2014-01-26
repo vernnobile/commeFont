@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="624"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="128" y="1082" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="506" y="0" type="line"/>
+      <point x="506" y="1082" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="1082" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="348" y="0" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

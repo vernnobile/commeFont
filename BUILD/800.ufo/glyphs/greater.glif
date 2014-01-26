@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="1">
+  <advance width="1107"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="83" y="1046" type="line"/>
+      <point x="678" y="737" type="line"/>
+      <point x="83" y="456" type="line"/>
+      <point x="83" y="192" type="line"/>
+      <point x="1030" y="658" type="line"/>
+      <point x="1030" y="802" type="line"/>
+      <point x="83" y="1299" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
