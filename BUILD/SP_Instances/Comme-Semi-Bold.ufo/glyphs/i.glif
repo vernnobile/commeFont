@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="1">
-  <advance width="578"/>
+  <advance width="608"/>
   <unicode hex="0069"/>
   <outline>
-    <component base="dotlessi" xOffset="5"/>
-    <component base="dotaccent" xOffset="-27"/>
+    <component base="dotlessi" xOffset="13"/>
+    <component base="dotaccent" xOffset="36"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-      </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>136</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
       <dict>
