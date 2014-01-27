@@ -4,12 +4,13 @@
   <unicode hex="0127"/>
   <outline>
     <component base="h"/>
-    <component base="macron" xOffset="-100" yOffset="-85"/>
+    <component base="macron" xOffset="-150" yOffset="-64"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict/>
+      <dict>
+      </dict>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>

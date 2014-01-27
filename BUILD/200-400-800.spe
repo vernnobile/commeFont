@@ -8,10 +8,10 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="24.0" />
-<data name="previewtext" value="nooooonnnonnnonaoaneenooeoaaasssssnon" />
+<data name="previewTypeSize" value="44.0" />
+<data name="previewtext" value="j/dotlessj /jcircumflex /eacute e /Aacute/dcroat/uni1E02/Oslash/Oslashacute/dotlessi/idblgrave/ecaron" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68561525287" />
+<data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
 <axis maximum="1000.0" minimum="0.0" name="new_axis_1" shortname="xx" />
 

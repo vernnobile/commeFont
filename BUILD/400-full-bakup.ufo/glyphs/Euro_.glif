@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="1391"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="-49" y="528" type="line"/>
+      <point x="808" y="528" type="line"/>
+      <point x="816" y="639" type="line"/>
+      <point x="211" y="639" type="line"/>
+      <point x="211" y="819" type="line"/>
+      <point x="816" y="819" type="line"/>
+      <point x="824" y="927" type="line"/>
+      <point x="-36" y="927" type="line"/>
+      <point x="-42" y="819" type="line"/>
+      <point x="125" y="819" type="line"/>
+      <point x="125" y="639" type="line"/>
+      <point x="-41" y="639" type="line"/>
+    </contour>
+    <component base="C" xOffset="-78.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Euro</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1391</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

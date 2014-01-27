@@ -2,7 +2,14 @@
 <glyph name="fj" format="1">
   <advance width="1566"/>
   <outline>
-    <component base="j"/>
-    <component base="f" xOffset="717"/>
+    <component base="j" xOffset="819"/>
+    <component base="f" xOffset="16"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

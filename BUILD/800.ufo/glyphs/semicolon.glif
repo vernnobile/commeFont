@@ -4,14 +4,14 @@
   <unicode hex="003B"/>
   <outline>
     <contour>
-      <point x="234" y="-357" type="curve"/>
-      <point x="415" y="-313" type="line"/>
-      <point x="370" y="-373"/>
-      <point x="503" y="465"/>
+      <point x="234" y="-335" type="curve"/>
+      <point x="408" y="-357" type="line"/>
+      <point x="434" y="-261"/>
+      <point x="493" y="109"/>
       <point x="503" y="248" type="curve"/>
       <point x="258" y="248" type="line"/>
-      <point x="271" y="429"/>
-      <point x="187" y="-538"/>
+      <point x="258" y="106"/>
+      <point x="245" y="-195"/>
     </contour>
     <contour>
       <point x="385" y="778" type="curve" smooth="yes"/>
@@ -31,7 +31,8 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict/>
+      <dict>
+      </dict>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>

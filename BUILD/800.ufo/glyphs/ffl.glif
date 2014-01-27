@@ -2,8 +2,15 @@
 <glyph name="ffl" format="1">
   <advance width="2470"/>
   <outline>
-    <component base="l"/>
-    <component base="f" xOffset="772"/>
-    <component base="f" xOffset="1621"/>
+    <component base="l" xOffset="1635"/>
+    <component base="f" xOffset="-50"/>
+    <component base="f" xOffset="799"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

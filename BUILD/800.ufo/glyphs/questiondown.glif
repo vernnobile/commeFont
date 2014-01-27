@@ -3,12 +3,13 @@
   <advance width="1089"/>
   <unicode hex="00BF"/>
   <outline>
-    <component base="question" xOffset="-14456" yOffset="1355" xScale="-3.20" yScale="-3.20"/>
+    <component base="question" xScale="-1.0" yScale="-1.0" xOffset="1000" yOffset="1253"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict/>
+      <dict>
+      </dict>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>

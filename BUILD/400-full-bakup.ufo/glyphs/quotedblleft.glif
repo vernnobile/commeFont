@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft" format="1">
+  <advance width="937"/>
+  <unicode hex="201C"/>
+  <outline>
+    <contour>
+      <point x="164" y="951" type="line"/>
+      <point x="358" y="951" type="line"/>
+      <point x="461" y="1476" type="line"/>
+      <point x="346" y="1476" type="line"/>
+    </contour>
+    <contour>
+      <point x="474" y="951" type="line"/>
+      <point x="668" y="951" type="line"/>
+      <point x="771" y="1476" type="line"/>
+      <point x="656" y="1476" type="line"/>
+    </contour>
+    <component base="quotedblright" xOffset="13894.5" yOffset="2408"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedblleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>937</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

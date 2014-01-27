@@ -4,7 +4,7 @@
   <unicode hex="0060"/>
   <outline>
     <contour>
-      <point x="448" y="1207" type="line"/>
+      <point x="425" y="1207" type="line"/>
       <point x="631" y="1207" type="line"/>
       <point x="459" y="1617" type="line"/>
       <point x="82" y="1617" type="line"/>
@@ -16,7 +16,8 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict/>
+      <dict>
+      </dict>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>

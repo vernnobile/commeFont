@@ -56,13 +56,14 @@
       <point x="517" y="877" type="line"/>
     </contour>
     <contour>
-      <point x="724" y="1456" type="move" name="top"/>
+      <point x="704" y="1456" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict/>
+      <dict>
+      </dict>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>

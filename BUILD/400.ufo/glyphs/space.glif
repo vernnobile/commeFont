@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="space" format="1">
-  <advance width="596"/>
+  <advance width="518"/>
   <unicode hex="0020"/>
   <outline>
   </outline>
@@ -28,7 +28,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>596</integer>
+          <integer>518</integer>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

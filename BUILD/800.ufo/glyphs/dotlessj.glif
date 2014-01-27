@@ -17,7 +17,7 @@
       <point x="567" y="1082" type="line"/>
     </contour>
     <contour>
-      <point x="389" y="1082" type="move" name="top"/>
+      <point x="375" y="1082" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -44,7 +44,8 @@
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict/>
+      <dict>
+      </dict>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>

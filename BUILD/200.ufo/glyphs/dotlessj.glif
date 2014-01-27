@@ -18,7 +18,7 @@
       <point x="312" y="1082" type="line"/>
     </contour>
     <contour>
-      <point x="264" y="1082" type="move" name="top"/>
+      <point x="267" y="1082" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -43,6 +43,9 @@
             <integer>142</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

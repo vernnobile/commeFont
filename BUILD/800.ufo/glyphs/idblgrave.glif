@@ -2,7 +2,14 @@
 <glyph name="idblgrave" format="1">
   <advance width="624"/>
   <outline>
-    <component base="i"/>
+    <component base="dotlessi"/>
     <component base="dblgravecomb" xOffset="-268"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
