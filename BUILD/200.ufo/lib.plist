@@ -44,8 +44,6 @@
 				<string>Abreve</string>
 				<string>Aogonek</string>
 				<string>uni01CD</string>
-				<string>uni01DE</string>
-				<string>Aringacute</string>
 				<string>uni0200</string>
 				<string>uni0202</string>
 				<string>uni0226</string>
@@ -163,7 +161,6 @@
 				<string>Uhungarumlaut</string>
 				<string>Uogonek</string>
 				<string>uni01D3</string>
-				<string>uni01D5</string>
 				<string>uni0214</string>
 				<string>uni0216</string>
 				<string>V</string>
@@ -216,7 +213,6 @@
 				<string>abreve</string>
 				<string>aogonek</string>
 				<string>uni01CE</string>
-				<string>uni01DF</string>
 				<string>uni0201</string>
 				<string>uni0203</string>
 				<string>uni0227</string>
@@ -267,8 +263,6 @@
 				<string>ibreve</string>
 				<string>iogonek</string>
 				<string>uni01D0</string>
-				<string>uni0209</string>
-				<string>uni020B</string>
 				<string>j</string>
 				<string>jcircumflex</string>
 				<string>uni01F0</string>
@@ -298,13 +292,9 @@
 				<string>ohungarumlaut</string>
 				<string>uni01D2</string>
 				<string>uni01EB</string>
-				<string>uni01ED</string>
 				<string>uni020D</string>
 				<string>uni020F</string>
-				<string>uni022B</string>
-				<string>uni022D</string>
 				<string>uni022F</string>
-				<string>uni0231</string>
 				<string>p</string>
 				<string>uni1E57</string>
 				<string>q</string>
@@ -338,10 +328,6 @@
 				<string>uhungarumlaut</string>
 				<string>uogonek</string>
 				<string>uni01D4</string>
-				<string>uni01D6</string>
-				<string>uni01D8</string>
-				<string>uni01DA</string>
-				<string>uni01DC</string>
 				<string>uni0215</string>
 				<string>uni0217</string>
 				<string>v</string>
@@ -366,7 +352,6 @@
 				<string>ordmasculine</string>
 				<string>germandbls</string>
 				<string>ae</string>
-				<string>uni01E3</string>
 				<string>aeacute</string>
 				<string>eth</string>
 				<string>oslash</string>
@@ -394,14 +379,9 @@
 				<string>uni01C8</string>
 				<string>uni01CB</string>
 				<string>uni01F2</string>
-				<string>uni02BC</string>
 				<string>circumflex</string>
 				<string>caron</string>
 				<string>uni0307</string>
-				<string>uni030F</string>
-				<string>uni0311</string>
-				<string>uni031B</string>
-				<string>uni0326</string>
 				<string>zero</string>
 				<string>one</string>
 				<string>two</string>
@@ -545,6 +525,13 @@
 				<string>fj</string>
 				<string>slashbar</string>
 				<string>foundryicon</string>
+				<string>commaturnedabovecomb</string>
+				<string>idblgrave</string>
+				<string>caron.alt</string>
+				<string>iinvertedbreve</string>
+				<string>breveinvertedcomb</string>
+				<string>dblgravecomb</string>
+				<string>dblgravecmb</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1016,9 +1003,6 @@
 		<string>middot</string>
 		<string>onesuperior</string>
 		<string>threesuperior</string>
-		<string>twosuperior</string>
-		<string>fi</string>
-		<string>fl</string>
 		<string>pi</string>
 		<string>uni2126</string>
 		<string>estimated</string>
@@ -1033,7 +1017,6 @@
 		<string>dotlessj</string>
 		<string>kgreenlandic</string>
 		<string>tcedilla</string>
-		<string>foursuperior</string>
 		<string>CR</string>
 		<string>commaaccent</string>
 		<string>apostrophemod</string>
@@ -1051,6 +1034,15 @@
 		<string>breveinvertedcomb</string>
 		<string>dblgravecomb</string>
 		<string>dblgravecmb</string>
+		<string>aemacron</string>
+		<string>uniFB01</string>
+		<string>uniFB02</string>
+		<string>uni2074</string>
+		<string>Aringacute</string>
+		<string>uni00B3</string>
+		<string>uni00B2</string>
+		<string>aringacute</string>
+		<string>uni00B9</string>
 	</array>
 </dict>
 </plist>

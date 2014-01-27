@@ -9,13 +9,11 @@
 	<key>descender</key>
 	<integer>-556</integer>
 	<key>familyName</key>
-	<string>Comme Skinny --0_xx1549_93</string>
-	<key>openTypeHeadCreated</key>
-	<string>2014/01/06 15:10:34</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Comme Skinny</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>--0_xx1549_93</string>
+	<string>Comme</string>
+	<key>openTypeNameDesigner</key>
+	<string>Vernon Adams</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>code.newtypography.co.uk</string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
@@ -41,58 +39,32 @@
 	<integer>-862</integer>
 	<key>openTypeOS2SuperscriptYSize</key>
 	<integer>-1480</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>NeWT</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>900</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
-	<key>postscriptBlueFuzz</key>
-	<integer>0</integer>
-	<key>postscriptBlueScale</key>
-	<real>-0.015800000000000002</real>
-	<key>postscriptBlueShift</key>
-	<integer>-2</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-20</integer>
-		<integer>0</integer>
-		<integer>1082</integer>
-		<integer>1102</integer>
-		<integer>1456</integer>
-		<integer>1476</integer>
 	</array>
-	<key>postscriptFullName</key>
-	<string>Comme Skinny --0_xx1549_93</string>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>1540</integer>
-		<integer>1560</integer>
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>38</integer>
-		<integer>303</integer>
-		<integer>344</integer>
-		<integer>352</integer>
-		<integer>365</integer>
-		<integer>380</integer>
-		<integer>384</integer>
-		<integer>418</integer>
-		<integer>439</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>363</integer>
-		<integer>441</integer>
-		<integer>469</integer>
-		<integer>469</integer>
-		<integer>484</integer>
-		<integer>488</integer>
-		<integer>552</integer>
 	</array>
-	<key>styleMapStyleName</key>
-	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Black</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>versionMajor</key>

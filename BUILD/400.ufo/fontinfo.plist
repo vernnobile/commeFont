@@ -7,15 +7,13 @@
 	<key>capHeight</key>
 	<integer>1456</integer>
 	<key>copyright</key>
-	<string>2013 © Vernon Adams</string>
+	<string>2014 © Vernon Adams</string>
 	<key>descender</key>
 	<integer>-556</integer>
 	<key>familyName</key>
-	<string>Oxygen</string>
+	<string>Comme</string>
 	<key>note</key>
 	<string></string>
-	<key>openTypeHeadCreated</key>
-	<string>2013/12/24 07:01:45</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
@@ -24,47 +22,47 @@
 	<string>Vernon Adams</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://www.oxygenfont.com</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Oxygen</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2VendorID</key>
-	<string>newt</string>
+	<string>NeWT</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-20</integer>
-		<integer>0</integer>
-		<integer>1082</integer>
-		<integer>1102</integer>
-		<integer>1456</integer>
-		<integer>1476</integer>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>1540</integer>
-		<integer>1560</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>trademark</key>
-	<string>Oxygen Font is a trademark of Vernon Adams</string>
+	<string>Comme Font is a trademark of Vernon Adams</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>versionMajor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>45</integer>
+	<integer>0</integer>
 	<key>xHeight</key>
 	<integer>1082</integer>
 </dict>

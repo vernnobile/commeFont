@@ -23,8 +23,23 @@
 	<string>Bold</string>
 	<key>com.superpolator.editor.generateInfo</key>
 	<string>Generated with LTR Superpolator version 120823_1018_beta_</string>
+	<key>com.typemytype.robofont.b.layerStrokeColor</key>
+	<array>
+		<real>1.0</real>
+		<real>0.75</real>
+		<real>0.0</real>
+		<real>0.7</real>
+	</array>
+	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
+	<array>
+		<real>0.5</real>
+		<real>0.0</real>
+		<real>0.5</real>
+		<real>0.7</real>
+	</array>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
+		<string>b</string>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>

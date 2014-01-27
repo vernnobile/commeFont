@@ -8,8 +8,8 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="44.0" />
-<data name="previewtext" value="j/dotlessj /jcircumflex /eacute e /Aacute/dcroat/uni1E02/Oslash/Oslashacute/dotlessi/idblgrave/ecaron" />
+<data name="previewTypeSize" value="100.0" />
+<data name="previewtext" value="/plusminus n/comma/o ./n on,noon;;:." />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
@@ -39,49 +39,49 @@
 </master>
 
 <!-- instance definitions -->
-<instance familyname="Comme" sequence="" stylename="100">
+<instance familyname="Comme" sequence="" stylename="Thin">
 <location>
 <dimension name="new_axis_1" xvalue="30.0" yvalue="10.0" />
 </location>
 </instance>
-<instance familyname="Comme" sequence="" stylename="200">
+<instance familyname="Comme" sequence="" stylename="Extra-Light">
 <location>
 <dimension name="new_axis_1" xvalue="160.0" />
 </location>
 </instance>
-<instance familyname="Comme" sequence="" stylename="300">
+<instance familyname="Comme" sequence="" stylename="Light">
 <location>
-<dimension name="new_axis_1" xvalue="300.0" />
+<dimension name="new_axis_1" xvalue="320.0" />
 </location>
 </instance>
-<instance familyname="Comme" sequence="" stylename="400">
+<instance familyname="Comme" sequence="" stylename="Regular">
 <location>
-<dimension name="new_axis_1" xvalue="400.0" />
+<dimension name="new_axis_1" xvalue="450.0" />
 </location>
 </instance>
-<instance familyname="Comme" sequence="" stylename="500">
+<instance familyname="Comme" sequence="" stylename="Medium">
 <location>
-<dimension name="new_axis_1" xvalue="500.0" />
+<dimension name="new_axis_1" xvalue="550.0" />
 </location>
 </instance>
-<instance familyname="Comme" sequence="" stylename="600">
-<location>
-<dimension name="new_axis_1" xvalue="600.0" />
-</location>
-</instance>
-<instance familyname="Comme" sequence="" stylename="700">
+<instance familyname="Comme" sequence="" stylename="Semi-Bold">
 <location>
 <dimension name="new_axis_1" xvalue="700.0" />
 </location>
 </instance>
-<instance familyname="Comme" sequence="" stylename="800">
+<instance familyname="Comme" sequence="" stylename="Bold">
 <location>
 <dimension name="new_axis_1" xvalue="800.0" />
 </location>
 </instance>
-<instance familyname="Comme" sequence="" stylename="900">
+<instance familyname="Comme" sequence="" stylename="Extra-Bold">
 <location>
-<dimension name="new_axis_1" xvalue="900.0" />
+<dimension name="new_axis_1" xvalue="950.0" />
+</location>
+</instance>
+<instance familyname="Comme" sequence="" stylename="Heavy">
+<location>
+<dimension name="new_axis_1" xvalue="1100.0" />
 </location>
 </instance>
 </designspace>

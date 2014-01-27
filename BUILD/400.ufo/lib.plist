@@ -202,7 +202,6 @@
 				<string>bracketright</string>
 				<string>asciicircum</string>
 				<string>underscore</string>
-				<string>grave</string>
 				<string>a</string>
 				<string>b</string>
 				<string>c</string>
@@ -240,21 +239,17 @@
 				<string>yen</string>
 				<string>brokenbar</string>
 				<string>section</string>
-				<string>dieresis</string>
 				<string>copyright</string>
 				<string>ordfeminine</string>
 				<string>guillemotleft</string>
 				<string>logicalnot</string>
 				<string>registered</string>
-				<string>macron</string>
 				<string>degree</string>
 				<string>plusminus</string>
 				<string>twosuperior</string>
 				<string>threesuperior</string>
-				<string>acute</string>
 				<string>paragraph</string>
 				<string>periodcentered</string>
-				<string>cedilla</string>
 				<string>onesuperior</string>
 				<string>ordmasculine</string>
 				<string>guillemotright</string>
@@ -327,15 +322,8 @@
 				<string>thorn</string>
 				<string>ydieresis</string>
 				<string>dotlessi</string>
-				<string>circumflex</string>
-				<string>caron</string>
-				<string>breve</string>
 				<string>dotaccent</string>
-				<string>ring</string>
 				<string>ogonek</string>
-				<string>tilde</string>
-				<string>hungarumlaut</string>
-				<string>quoteleft</string>
 				<string>quoteright</string>
 				<string>minus</string>
 				<string>utilde</string>
@@ -382,7 +370,6 @@
 				<string>product</string>
 				<string>umacron</string>
 				<string>edotaccent</string>
-				<string>uni0307</string>
 				<string>ff</string>
 				<string>fi</string>
 				<string>fj</string>
@@ -404,7 +391,6 @@
 				<string>Eng</string>
 				<string>uni1E02</string>
 				<string>Ohungarumlaut</string>
-				<string>apostrophemod</string>
 				<string>Ecaron</string>
 				<string>Lcaron</string>
 				<string>Tcommaaccent</string>
@@ -493,12 +479,10 @@
 				<string>Amacron</string>
 				<string>CR</string>
 				<string>foundryicon</string>
-				<string>uni0326</string>
 				<string>Dcaron</string>
 				<string>ij</string>
 				<string>Dcroat</string>
 				<string>infinity</string>
-				<string>commaaccent</string>
 				<string>slashbar</string>
 				<string>IJ</string>
 				<string>emdash</string>
@@ -538,7 +522,6 @@
 				<string>zcaron</string>
 				<string>scommaaccent</string>
 				<string>ebreve</string>
-				<string>uni02C9</string>
 				<string>uni021E</string>
 				<string>uni1E03</string>
 				<string>uni021A</string>
@@ -584,8 +567,6 @@
 				<string>Gcaron</string>
 				<string>Scircumflex</string>
 				<string>aeacute</string>
-				<string>breveinvertedcomb</string>
-				<string>commaturnedabovecomb</string>
 				<string>gcaron</string>
 				<string>idblgrave</string>
 				<string>iinvertedbreve</string>
@@ -635,8 +616,7 @@
 				<string>uniFB00</string>
 				<string>uniFB03</string>
 				<string>uniFB04</string>
-				<string>caron.alt</string>
-				<string>dblgravecomb</string>
+				<string>uniFB01</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1122,6 +1102,8 @@
 		<string>uniFB00</string>
 		<string>uniFB03</string>
 		<string>uniFB04</string>
+		<string>uniFB01</string>
+		<string>uniFB02</string>
 	</array>
 </dict>
 </plist>
