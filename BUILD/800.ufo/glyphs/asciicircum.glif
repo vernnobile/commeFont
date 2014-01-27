@@ -1,22 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciicircum" format="1">
-  <advance width="1355"/>
+  <advance width="1522"/>
   <unicode hex="005E"/>
   <outline>
     <contour>
-      <point x="632" y="1506" type="line"/>
-      <point x="-100" y="-37" type="line"/>
-      <point x="162" y="-37" type="line"/>
-      <point x="660" y="1114" type="line"/>
-      <point x="1209" y="-37" type="line"/>
-      <point x="1472" y="-37" type="line"/>
-      <point x="672" y="1506" type="line"/>
+      <point x="662" y="1456" type="line"/>
+      <point x="110" y="270" type="line"/>
+      <point x="482" y="270" type="line"/>
+      <point x="750" y="894" type="line"/>
+      <point x="1040" y="270" type="line"/>
+      <point x="1412" y="270" type="line"/>
+      <point x="822" y="1456" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asciicircum</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1522</integer>
+        </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>

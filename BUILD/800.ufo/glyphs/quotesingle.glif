@@ -4,16 +4,38 @@
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="245" y="718" type="line"/>
-      <point x="409" y="718" type="line"/>
-      <point x="458" y="1377" type="line"/>
-      <point x="146" y="1377" type="line"/>
+      <point x="245" y="901" type="line"/>
+      <point x="409" y="901" type="line"/>
+      <point x="458" y="1560" type="line"/>
+      <point x="146" y="1560" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotesingle</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>655</integer>
+        </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>

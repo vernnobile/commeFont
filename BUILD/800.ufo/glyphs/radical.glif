@@ -1,25 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="radical" format="1">
-  <advance width="1195"/>
+  <advance width="1401"/>
   <unicode hex="221A"/>
   <outline>
     <contour>
-      <point x="1055" y="1577" type="line"/>
-      <point x="613" y="110" type="line"/>
-      <point x="553" y="320" type="line"/>
-      <point x="358" y="951" type="line"/>
-      <point x="42" y="864" type="line"/>
-      <point x="59" y="739" type="line"/>
-      <point x="264" y="800" type="line"/>
-      <point x="583" y="-168" type="line"/>
-      <point x="724" y="-168" type="line"/>
-      <point x="1250" y="1577" type="line"/>
+      <point x="1055" y="1560" type="line"/>
+      <point x="632" y="192" type="line"/>
+      <point x="553" y="430" type="line"/>
+      <point x="367" y="971" type="line"/>
+      <point x="12" y="863" type="line"/>
+      <point x="43" y="738" type="line"/>
+      <point x="184" y="780" type="line"/>
+      <point x="533" y="-168" type="line"/>
+      <point x="844" y="-168" type="line"/>
+      <point x="1370" y="1560" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>radical</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1401</integer>
+        </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>

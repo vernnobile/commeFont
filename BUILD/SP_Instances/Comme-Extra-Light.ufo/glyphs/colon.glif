@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="1">
+  <advance width="540"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="260" y="873" type="curve" smooth="yes"/>
+      <point x="331" y="873"/>
+      <point x="351" y="924"/>
+      <point x="351" y="969" type="curve" smooth="yes"/>
+      <point x="351" y="1013"/>
+      <point x="331" y="1064"/>
+      <point x="260" y="1064" type="curve" smooth="yes"/>
+      <point x="186" y="1064"/>
+      <point x="166" y="1013"/>
+      <point x="166" y="969" type="curve" smooth="yes"/>
+      <point x="166" y="924"/>
+      <point x="188" y="873"/>
+    </contour>
+    <contour>
+      <point x="260" y="-16" type="curve" smooth="yes"/>
+      <point x="331" y="-16"/>
+      <point x="351" y="34"/>
+      <point x="351" y="80" type="curve" smooth="yes"/>
+      <point x="351" y="123"/>
+      <point x="331" y="175"/>
+      <point x="260" y="175" type="curve" smooth="yes"/>
+      <point x="186" y="175"/>
+      <point x="166" y="123"/>
+      <point x="166" y="80" type="curve" smooth="yes"/>
+      <point x="166" y="35"/>
+      <point x="188" y="-16"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>colon</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>653</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

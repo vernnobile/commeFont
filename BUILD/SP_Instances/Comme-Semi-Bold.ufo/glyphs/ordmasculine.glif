@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="1">
+  <advance width="965"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="123" y="1115" type="curve" smooth="yes"/>
+      <point x="123" y="890"/>
+      <point x="249" y="715"/>
+      <point x="480" y="715" type="curve" smooth="yes"/>
+      <point x="700" y="715"/>
+      <point x="837" y="892"/>
+      <point x="837" y="1115" type="curve" smooth="yes"/>
+      <point x="837" y="1347"/>
+      <point x="718" y="1519"/>
+      <point x="480" y="1519" type="curve" smooth="yes"/>
+      <point x="249" y="1519"/>
+      <point x="123" y="1344"/>
+    </contour>
+    <contour>
+      <point x="665" y="1112" type="curve" smooth="yes"/>
+      <point x="665" y="949"/>
+      <point x="606" y="864"/>
+      <point x="480" y="864" type="curve" smooth="yes"/>
+      <point x="363" y="864"/>
+      <point x="302" y="950"/>
+      <point x="302" y="1115" type="curve" smooth="yes"/>
+      <point x="302" y="1283"/>
+      <point x="364" y="1370"/>
+      <point x="480" y="1370" type="curve" smooth="yes"/>
+      <point x="601" y="1370"/>
+      <point x="665" y="1280"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ordmasculine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>965</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

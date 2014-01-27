@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="1">
+  <advance width="1103"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="557" y="1376" type="line"/>
+      <point x="551" y="1047" type="line"/>
+      <point x="678" y="1047" type="line"/>
+      <point x="688" y="1376" type="line"/>
+    </contour>
+    <contour>
+      <point x="551" y="45" type="line"/>
+      <point x="547" y="-303" type="line"/>
+      <point x="673" y="-303" type="line"/>
+      <point x="683" y="45" type="line"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

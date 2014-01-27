@@ -3,6 +3,35 @@
   <advance width="1151"/>
   <unicode hex="00AA"/>
   <outline>
-    <component base="a"/>
+    <component base="a" xScale="0.865007913778" yScale="0.865007913778" xOffset="65" yOffset="608"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ordfeminine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1151</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

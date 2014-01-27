@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1694"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="728" y="1456" type="line"/>
+      <point x="-73" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="402" y="441" type="line"/>
+      <point x="817" y="441" type="line"/>
+      <point x="817" y="0" type="line"/>
+      <point x="1626" y="0" type="line"/>
+      <point x="1637" y="168" type="line"/>
+      <point x="1020" y="168" type="line"/>
+      <point x="1020" y="674" type="line"/>
+      <point x="1560" y="674" type="line"/>
+      <point x="1560" y="839" type="line"/>
+      <point x="1020" y="839" type="line"/>
+      <point x="1020" y="1292" type="line"/>
+      <point x="1610" y="1292" type="line"/>
+      <point x="1620" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="817" y="592" type="line"/>
+      <point x="476" y="592" type="line"/>
+      <point x="817" y="1242" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

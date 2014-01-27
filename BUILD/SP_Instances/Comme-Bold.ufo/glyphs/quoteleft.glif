@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteleft" format="1">
-  <advance width="769"/>
+  <advance width="529"/>
   <unicode hex="2018"/>
   <outline>
     <contour>
-      <point x="386" y="977" type="line"/>
-      <point x="429" y="1464" type="line"/>
-      <point x="265" y="1464" type="line"/>
-      <point x="192" y="977" type="line"/>
+      <point x="434" y="1539" type="line"/>
+      <point x="247" y="1539" type="line"/>
+      <point x="128" y="1029" type="line"/>
+      <point x="395" y="1029" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
       <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>

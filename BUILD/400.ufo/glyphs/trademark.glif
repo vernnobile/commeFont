@@ -4,23 +4,23 @@
   <unicode hex="2122"/>
   <outline>
     <contour>
-      <point x="981" y="462" type="line"/>
-      <point x="1105" y="462" type="line"/>
+      <point x="981" y="522" type="line"/>
+      <point x="1105" y="522" type="line"/>
       <point x="1110" y="1285" type="line"/>
-      <point x="1419" y="576" type="line"/>
-      <point x="1522" y="576" type="line"/>
+      <point x="1419" y="636" type="line"/>
+      <point x="1522" y="636" type="line"/>
       <point x="1833" y="1276" type="line"/>
-      <point x="1839" y="462" type="line"/>
-      <point x="1961" y="462" type="line"/>
+      <point x="1839" y="522" type="line"/>
+      <point x="1961" y="522" type="line"/>
       <point x="1944" y="1456" type="line"/>
       <point x="1801" y="1456" type="line"/>
-      <point x="1472" y="725" type="line"/>
+      <point x="1472" y="785" type="line"/>
       <point x="1145" y="1456" type="line"/>
       <point x="998" y="1456" type="line"/>
     </contour>
     <contour>
-      <point x="396" y="462" type="line"/>
-      <point x="536" y="462" type="line"/>
+      <point x="396" y="522" type="line"/>
+      <point x="536" y="522" type="line"/>
       <point x="536" y="1342" type="line"/>
       <point x="854" y="1342" type="line"/>
       <point x="854" y="1456" type="line"/>
@@ -29,4 +29,33 @@
       <point x="396" y="1342" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>trademark</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2216</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emdash" format="1">
-  <advance width="2687.200"/>
+  <advance width="2340"/>
   <unicode hex="2014"/>
   <outline>
     <contour>
-      <point x="212" y="579" type="line"/>
-      <point x="2432" y="579" type="line"/>
-      <point x="2432" y="670" type="line"/>
-      <point x="212" y="670" type="line"/>
+      <point x="60" y="579" type="line"/>
+      <point x="2280" y="579" type="line"/>
+      <point x="2280" y="644" type="line"/>
+      <point x="60" y="644" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

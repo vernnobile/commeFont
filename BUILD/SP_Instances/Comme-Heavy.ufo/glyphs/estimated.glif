@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="estimated" format="1">
+  <advance width="1147"/>
+  <unicode hex="212E"/>
+  <outline>
+    <contour>
+      <point x="58" y="524" type="curve" smooth="yes"/>
+      <point x="58" y="214"/>
+      <point x="242" y="-20"/>
+      <point x="610" y="-20" type="curve" smooth="yes"/>
+      <point x="812" y="-20"/>
+      <point x="942" y="65"/>
+      <point x="1040" y="183" type="curve"/>
+      <point x="990" y="232" type="line"/>
+      <point x="895" y="129"/>
+      <point x="787" y="53"/>
+      <point x="610" y="53" type="curve" smooth="yes"/>
+      <point x="388" y="53"/>
+      <point x="329" y="236"/>
+      <point x="328" y="504" type="curve"/>
+      <point x="1048" y="504" type="line"/>
+      <point x="1048" y="840"/>
+      <point x="905" y="1062"/>
+      <point x="594" y="1062" type="curve" smooth="yes"/>
+      <point x="281" y="1062"/>
+      <point x="58" y="834"/>
+    </contour>
+    <contour>
+      <point x="880" y="584" type="curve"/>
+      <point x="327" y="584" type="line"/>
+      <point x="345" y="836"/>
+      <point x="433" y="1002"/>
+      <point x="600" y="1002" type="curve" smooth="yes"/>
+      <point x="804" y="1002"/>
+      <point x="880" y="812"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>estimated</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1223</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

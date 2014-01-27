@@ -497,9 +497,6 @@
 				<string>middot</string>
 				<string>onesuperior</string>
 				<string>threesuperior</string>
-				<string>twosuperior</string>
-				<string>fi</string>
-				<string>fl</string>
 				<string>pi</string>
 				<string>uni2126</string>
 				<string>estimated</string>
@@ -514,7 +511,6 @@
 				<string>dotlessj</string>
 				<string>kgreenlandic</string>
 				<string>tcedilla</string>
-				<string>foursuperior</string>
 				<string>CR</string>
 				<string>commaaccent</string>
 				<string>apostrophemod</string>
@@ -532,6 +528,15 @@
 				<string>breveinvertedcomb</string>
 				<string>dblgravecomb</string>
 				<string>dblgravecmb</string>
+				<string>aemacron</string>
+				<string>uniFB01</string>
+				<string>uniFB02</string>
+				<string>uni2074</string>
+				<string>Aringacute</string>
+				<string>uni00B3</string>
+				<string>uni00B2</string>
+				<string>aringacute</string>
+				<string>uni00B9</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

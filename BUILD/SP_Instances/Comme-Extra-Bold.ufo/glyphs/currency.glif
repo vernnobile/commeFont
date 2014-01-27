@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="currency" format="1">
+  <advance width="1110"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="799" y="1092" type="line"/>
+      <point x="730" y="1146"/>
+      <point x="652" y="1173"/>
+      <point x="561" y="1173" type="curve" smooth="yes"/>
+      <point x="474" y="1173"/>
+      <point x="389" y="1140"/>
+      <point x="323" y="1093" type="curve"/>
+      <point x="147" y="1266" type="line"/>
+      <point x="36" y="1155" type="line"/>
+      <point x="216" y="978" type="line"/>
+      <point x="174" y="908"/>
+      <point x="148" y="831"/>
+      <point x="148" y="746" type="curve" smooth="yes"/>
+      <point x="148" y="660"/>
+      <point x="175" y="579"/>
+      <point x="216" y="513" type="curve"/>
+      <point x="37" y="337" type="line"/>
+      <point x="147" y="230" type="line"/>
+      <point x="320" y="400" type="line"/>
+      <point x="388" y="348"/>
+      <point x="472" y="321"/>
+      <point x="561" y="321" type="curve" smooth="yes"/>
+      <point x="651" y="321"/>
+      <point x="732" y="352"/>
+      <point x="799" y="403" type="curve"/>
+      <point x="980" y="229" type="line"/>
+      <point x="1084" y="340" type="line"/>
+      <point x="908" y="513" type="line"/>
+      <point x="952" y="582"/>
+      <point x="975" y="660"/>
+      <point x="975" y="746" type="curve" smooth="yes"/>
+      <point x="975" y="833"/>
+      <point x="948" y="912"/>
+      <point x="907" y="978" type="curve"/>
+      <point x="1085" y="1154" type="line"/>
+      <point x="980" y="1266" type="line"/>
+    </contour>
+    <contour>
+      <point x="818" y="746" type="curve" smooth="yes"/>
+      <point x="818" y="598"/>
+      <point x="703" y="484"/>
+      <point x="561" y="484" type="curve" smooth="yes"/>
+      <point x="425" y="484"/>
+      <point x="309" y="599"/>
+      <point x="309" y="746" type="curve" smooth="yes"/>
+      <point x="309" y="892"/>
+      <point x="425" y="1010"/>
+      <point x="561" y="1010" type="curve" smooth="yes"/>
+      <point x="700" y="1010"/>
+      <point x="818" y="892"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>currency</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1164</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

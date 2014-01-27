@@ -4,22 +4,44 @@
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="174" y="876" type="line"/>
-      <point x="373" y="876" type="line"/>
-      <point x="340" y="1375" type="line"/>
-      <point x="81" y="1375" type="line"/>
+      <point x="185" y="901" type="line"/>
+      <point x="349" y="901" type="line"/>
+      <point x="398" y="1560" type="line"/>
+      <point x="86" y="1560" type="line"/>
     </contour>
     <contour>
-      <point x="556" y="876" type="line"/>
-      <point x="752" y="876" type="line"/>
-      <point x="734" y="1375" type="line"/>
-      <point x="462" y="1375" type="line"/>
+      <point x="597" y="901" type="line"/>
+      <point x="761" y="901" type="line"/>
+      <point x="810" y="1560" type="line"/>
+      <point x="498" y="1560" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedbl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>884</integer>
+        </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>

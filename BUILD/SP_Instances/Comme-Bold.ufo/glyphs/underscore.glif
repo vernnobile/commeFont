@@ -1,41 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="underscore" format="1">
-  <advance width="1053"/>
+  <advance width="973"/>
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="84" y="-280" type="line"/>
-      <point x="1057" y="-280" type="line"/>
-      <point x="1057" y="-102" type="line"/>
-      <point x="84" y="-102" type="line"/>
+      <point x="0" y="-280" type="line"/>
+      <point x="973" y="-280" type="line"/>
+      <point x="973" y="-102" type="line"/>
+      <point x="0" y="-102" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>underscore</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1136</integer>
-        </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>

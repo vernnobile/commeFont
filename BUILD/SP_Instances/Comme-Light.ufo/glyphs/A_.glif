@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="1379"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="686" y="1456" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1226" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="688" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="613" y="1456" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="216" y="0" type="line"/>
+      <point x="411" y="520" type="line"/>
+      <point x="352" y="473" type="line"/>
+      <point x="1034" y="473" type="line"/>
+      <point x="971" y="516" type="line"/>
+      <point x="1164" y="0" type="line"/>
+      <point x="1318" y="0" type="line"/>
+      <point x="761" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="662" y="1361" type="line"/>
+      <point x="965" y="539" type="line"/>
+      <point x="1004" y="586" type="line"/>
+      <point x="385" y="586" type="line"/>
+      <point x="417" y="545" type="line"/>
+      <point x="713" y="1361" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

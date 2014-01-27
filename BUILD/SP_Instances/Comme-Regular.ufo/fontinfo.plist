@@ -38,9 +38,9 @@
 	<key>openTypeOS2SuperscriptYSize</key>
 	<integer>-123</integer>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>3276</integer>
+	<integer>1775</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>820</integer>
+	<integer>444</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WeightClass</key>
@@ -48,9 +48,9 @@
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>4734</integer>
+	<integer>2564</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>-1026</integer>
+	<integer>-556</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>

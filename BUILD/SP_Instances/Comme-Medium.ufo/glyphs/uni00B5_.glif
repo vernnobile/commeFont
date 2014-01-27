@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00B5" format="1">
+  <advance width="1206"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="138" y="631" type="line"/>
+      <point x="138" y="-296" type="line"/>
+      <point x="356" y="-296" type="line"/>
+      <point x="356" y="631" type="line"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

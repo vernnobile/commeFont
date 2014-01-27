@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="1">
+  <advance width="864"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="107" y="-347" type="line"/>
+      <point x="272" y="-347" type="line"/>
+      <point x="387" y="151" type="line"/>
+      <point x="150" y="151" type="line"/>
+    </contour>
+    <contour>
+      <point x="469" y="-347" type="line"/>
+      <point x="632" y="-347" type="line"/>
+      <point x="749" y="151" type="line"/>
+      <point x="511" y="151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

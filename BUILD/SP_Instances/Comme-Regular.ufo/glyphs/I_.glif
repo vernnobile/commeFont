@@ -4,7 +4,7 @@
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="484" y="1456" type="move" name="top"/>
+      <point x="483" y="1456" type="move" name="top"/>
     </contour>
     <contour>
       <point x="485" y="0" type="move" name="ogonek"/>

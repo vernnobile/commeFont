@@ -1,55 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblbase" format="1">
-  <advance width="810"/>
+  <advance width="765"/>
   <unicode hex="201E"/>
   <outline>
     <contour>
-      <point x="139" y="-248" type="line"/>
-      <point x="246" y="-248" type="line"/>
-      <point x="371" y="219" type="line"/>
-      <point x="224" y="219" type="line"/>
+      <point x="109" y="-313" type="line"/>
+      <point x="229" y="-313" type="line"/>
+      <point x="335" y="161" type="line"/>
+      <point x="160" y="161" type="line"/>
     </contour>
     <contour>
-      <point x="409" y="-248" type="line"/>
-      <point x="514" y="-248" type="line"/>
-      <point x="643" y="219" type="line"/>
-      <point x="493" y="219" type="line"/>
+      <point x="419" y="-313" type="line"/>
+      <point x="536" y="-313" type="line"/>
+      <point x="646" y="161" type="line"/>
+      <point x="467" y="161" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>quotedblbase</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>795</integer>
-        </dict>
-      </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
-      </dict>
       <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>

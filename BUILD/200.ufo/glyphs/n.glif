@@ -30,7 +30,7 @@
       <point x="583" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="643" y="1052" type="move" name="top"/>
+      <point x="639" y="1082" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

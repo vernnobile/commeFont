@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G" format="1">
+  <advance width="1479"/>
+  <unicode hex="0047"/>
+  <outline>
+    <contour>
+      <point x="834" y="1455" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="843" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="842" y="-19" type="curve" smooth="yes"/>
+      <point x="1039" y="-19"/>
+      <point x="1181" y="12"/>
+      <point x="1324" y="65" type="curve"/>
+      <point x="1324" y="735" type="line"/>
+      <point x="876" y="735" type="line"/>
+      <point x="865" y="637" type="line"/>
+      <point x="1254" y="627" type="line"/>
+      <point x="1206" y="678" type="line"/>
+      <point x="1206" y="79" type="line"/>
+      <point x="1250" y="140" type="line"/>
+      <point x="1183" y="115"/>
+      <point x="1029" y="80"/>
+      <point x="865" y="80" type="curve" smooth="yes"/>
+      <point x="461" y="80"/>
+      <point x="272" y="339"/>
+      <point x="272" y="728" type="curve" smooth="yes"/>
+      <point x="272" y="1137"/>
+      <point x="524" y="1375"/>
+      <point x="861" y="1375" type="curve" smooth="yes"/>
+      <point x="1015" y="1375"/>
+      <point x="1149" y="1322"/>
+      <point x="1251" y="1250" type="curve"/>
+      <point x="1263" y="1250" type="line"/>
+      <point x="1310" y="1332" type="line"/>
+      <point x="1187" y="1421"/>
+      <point x="1025" y="1474"/>
+      <point x="856" y="1474" type="curve" smooth="yes"/>
+      <point x="446" y="1474"/>
+      <point x="150" y="1187"/>
+      <point x="150" y="727" type="curve" smooth="yes"/>
+      <point x="150" y="305"/>
+      <point x="379" y="-19"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

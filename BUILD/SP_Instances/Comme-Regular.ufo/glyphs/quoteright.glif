@@ -1,48 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteright" format="1">
-  <advance width="658"/>
+  <advance width="525"/>
   <unicode hex="2019"/>
   <outline>
     <contour>
-      <point x="194" y="950" type="line"/>
-      <point x="314" y="950" type="line"/>
-      <point x="495" y="1473" type="line"/>
-      <point x="296" y="1473" type="line"/>
+      <point x="158" y="1019" type="line"/>
+      <point x="288" y="1019" type="line"/>
+      <point x="397" y="1503" type="line"/>
+      <point x="204" y="1503" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>quoteright</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>653</integer>
-        </dict>
-      </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
       <dict>

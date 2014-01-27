@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="summation" format="1">
+  <advance width="1340"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="151" y="1556" type="line"/>
+      <point x="151" y="1493" type="line"/>
+      <point x="754" y="604" type="line"/>
+      <point x="127" y="-309" type="line"/>
+      <point x="127" y="-370" type="line"/>
+      <point x="1182" y="-370" type="line"/>
+      <point x="1182" y="-260" type="line"/>
+      <point x="226" y="-260" type="line"/>
+      <point x="903" y="611" type="line"/>
+      <point x="247" y="1458" type="line"/>
+      <point x="1145" y="1458" type="line"/>
+      <point x="1145" y="1556" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>summation</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1050</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

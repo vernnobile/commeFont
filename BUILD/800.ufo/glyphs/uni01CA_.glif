@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01CA" format="1">
-  <advance width="2467"/>
+  <advance width="2409.03538126"/>
   <unicode hex="01CA"/>
   <outline>
-    <component base="J"/>
-    <component base="N" xOffset="819"/>
+    <component base="J" xOffset="1590"/>
+    <component base="N"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni01CA</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>2409.035381256005</real>
+        </dict>
       </dict>
     </dict>
   </lib>

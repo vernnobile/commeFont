@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Racute" format="1">
-  <advance width="1448"/>
+  <advance width="1488"/>
   <unicode hex="0154"/>
   <outline>
-    <component base="acute" xOffset="314" yOffset="374"/>
+    <component base="acute" xOffset="294" yOffset="380"/>
     <component base="R"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-      </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
       <dict>

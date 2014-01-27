@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="1797"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="911" y="1456" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="190" y="0" type="line"/>
+      <point x="338" y="0" type="line"/>
+      <point x="338" y="494" type="line"/>
+      <point x="348" y="1332" type="line"/>
+      <point x="321" y="1324" type="line"/>
+      <point x="831" y="160" type="line"/>
+      <point x="967" y="160" type="line"/>
+      <point x="1483" y="1323" type="line"/>
+      <point x="1451" y="1333" type="line"/>
+      <point x="1461" y="496" type="line"/>
+      <point x="1461" y="0" type="line"/>
+      <point x="1608" y="0" type="line"/>
+      <point x="1608" y="494" type="line"/>
+      <point x="1585" y="1456" type="line"/>
+      <point x="1394" y="1456" type="line"/>
+      <point x="880" y="294" type="line"/>
+      <point x="920" y="294" type="line"/>
+      <point x="410" y="1456" type="line"/>
+      <point x="212" y="1456" type="line"/>
+      <point x="190" y="494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>185</integer>
+            <key>width</key>
+            <integer>166</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>214</integer>
+            <key>width</key>
+            <integer>151</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>332</integer>
+            <key>width</key>
+            <integer>33</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1463</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1463</integer>
+            <key>width</key>
+            <integer>39</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1477</integer>
+            <key>width</key>
+            <integer>164</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>548</integer>
+          <key>y</key>
+          <integer>378</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

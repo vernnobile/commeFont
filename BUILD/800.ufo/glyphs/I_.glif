@@ -22,7 +22,7 @@
       <point x="947" y="1456" type="line"/>
     </contour>
     <contour>
-      <point x="552" y="1456" type="move" name="top"/>
+      <point x="533" y="1456" type="move" name="top"/>
     </contour>
     <contour>
       <point x="553" y="0" type="move" name="ogonek"/>
@@ -59,6 +59,28 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1059</integer>
+        </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
