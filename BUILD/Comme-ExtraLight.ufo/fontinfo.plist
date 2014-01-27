@@ -5,7 +5,7 @@
 	<key>familyName</key>
 	<string>Comme</string>
 	<key>styleName</key>
-	<string>Thin</string>
+	<string>ExtraLight</string>
 	<key>copyright</key>
 	<string>2013-14 (c) Vernon Adams</string>
 	<key>unitsPerEm</key>
@@ -16,10 +16,6 @@
 	<integer>1455</integer>
 	<key>ascender</key>
 	<integer>1560</integer>
-	<key>capHeight</key>
-	<integer>1456</integer>
-	<key>copyright</key>
-	<string>2013-14 (c) Vernon Adams</string>
 	<key>descender</key>
 	<integer>-556</integer>
 	<key>italicAngle</key>
@@ -54,11 +50,11 @@
 	<key>openTypeOS2WinDescent</key>
 	<integer>-513</integer>
 	<key>postscriptFontName</key>
-	<string>Comme-Thin</string>
+	<string>Comme-ExtraLight</string>
 	<key>postscriptFullName</key>
-	<string>Comme Thin</string>
+	<string>Comme ExtraLight</string>
 	<key>postscriptWeightName</key>
-	<string>Thin</string>
+	<string>ExtraLight</string>
 	<key>postscriptUnderlineThickness</key>
 	<integer>0</integer>
 	<key>postscriptUnderlinePosition</key>

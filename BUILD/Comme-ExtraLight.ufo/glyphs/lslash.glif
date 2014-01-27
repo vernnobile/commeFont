@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="1">
+  <advance width="589"/>
+  <unicode hex="0142"/>
+  <outline>
+    <component base="l"/>
+    <component base="slashbar" xOffset="-53" yOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
