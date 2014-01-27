@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="1">
+  <advance width="1024"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="636" y="138" type="line"/>
+      <point x="943" y="566" type="line"/>
+      <point x="639" y="990" type="line"/>
+      <point x="468" y="990" type="line"/>
+      <point x="726" y="563" type="line"/>
+      <point x="462" y="138" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="138" type="line"/>
+      <point x="554" y="566" type="line"/>
+      <point x="251" y="990" type="line"/>
+      <point x="78" y="990" type="line"/>
+      <point x="340" y="563" type="line"/>
+      <point x="73" y="138" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

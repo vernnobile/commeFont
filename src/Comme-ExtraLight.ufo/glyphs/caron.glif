@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+  <advance width="864"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="430" y="1082" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="354" y="1215" type="line"/>
+      <point x="482" y="1215" type="line"/>
+      <point x="670" y="1533" type="line"/>
+      <point x="579" y="1533" type="line"/>
+      <point x="419" y="1293" type="line"/>
+      <point x="257" y="1533" type="line"/>
+      <point x="166" y="1533" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

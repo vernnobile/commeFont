@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent" format="1">
+  <advance width="619"/>
+  <unicode hex="0326"/>
+  <outline>
+    <contour>
+      <point x="341" y="0" type="move" name="_bot"/>
+    </contour>
+    <contour>
+      <point x="146" y="-544" type="curve"/>
+      <point x="337" y="-544" type="line"/>
+      <point x="337" y="-544"/>
+      <point x="467" y="-126"/>
+      <point x="466" y="-111" type="curve"/>
+      <point x="219" y="-111" type="line"/>
+      <point x="219" y="-136"/>
+      <point x="146" y="-544"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

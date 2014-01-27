@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglleft" format="1">
+  <advance width="920"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="480" y="171" type="line"/>
+      <point x="683" y="171" type="line"/>
+      <point x="424" y="594" type="line"/>
+      <point x="687" y="1036" type="line"/>
+      <point x="488" y="1036" type="line"/>
+      <point x="209" y="597" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="1378"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="320" y="0" type="line"/>
+      <point x="714" y="0" type="line"/>
+      <point x="1207" y="1190" type="line"/>
+      <point x="1201" y="1456" type="line"/>
+      <point x="185" y="1456" type="line"/>
+      <point x="194" y="1196" type="line"/>
+      <point x="813" y="1196" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

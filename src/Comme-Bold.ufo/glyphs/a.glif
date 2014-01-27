@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a" format="1">
+  <advance width="1149"/>
+  <unicode hex="0061"/>
+  <outline>
+    <contour>
+      <point x="561" y="1082" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="898" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="592" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="729" y="252" type="line"/>
+      <point x="687" y="206"/>
+      <point x="621" y="157"/>
+      <point x="510" y="157" type="curve" smooth="yes"/>
+      <point x="437" y="157"/>
+      <point x="367" y="201"/>
+      <point x="367" y="305" type="curve" smooth="yes"/>
+      <point x="367" y="428"/>
+      <point x="466" y="470"/>
+      <point x="620" y="470" type="curve" smooth="yes"/>
+      <point x="729" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="428" y="-17" type="curve" smooth="yes"/>
+      <point x="591" y="-17"/>
+      <point x="691" y="40"/>
+      <point x="769" y="122" type="curve"/>
+      <point x="799" y="0" type="line"/>
+      <point x="1029" y="0" type="line"/>
+      <point x="1029" y="655" type="line" smooth="yes"/>
+      <point x="1029" y="976"/>
+      <point x="837" y="1102"/>
+      <point x="583" y="1102" type="curve" smooth="yes"/>
+      <point x="435" y="1102"/>
+      <point x="273" y="1062"/>
+      <point x="132" y="988" type="curve"/>
+      <point x="194" y="798" type="line"/>
+      <point x="310" y="853"/>
+      <point x="440" y="887"/>
+      <point x="538" y="887" type="curve" smooth="yes"/>
+      <point x="659" y="887"/>
+      <point x="730" y="835"/>
+      <point x="730" y="705" type="curve" smooth="yes"/>
+      <point x="730" y="617" type="line"/>
+      <point x="560" y="618" type="line"/>
+      <point x="551" y="618" type="line" smooth="yes"/>
+      <point x="310" y="618"/>
+      <point x="93" y="536"/>
+      <point x="93" y="302" type="curve" smooth="yes"/>
+      <point x="93" y="90"/>
+      <point x="231" y="-17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-15</integer>
+	    <key>width</key>	    <integer>92</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>535</integer>
+	    <key>width</key>	    <integer>82</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>983</integer>
+	    <key>width</key>	    <integer>92</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>126</integer>
+	    <key>width</key>
+	    <integer>120</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>842</integer>
+	    <key>width</key>
+	    <integer>32</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>875</integer>
+	    <key>width</key>
+	    <integer>86</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

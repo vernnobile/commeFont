@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greaterequal" format="1">
+  <advance width="1192"/>
+  <unicode hex="2265"/>
+  <outline>
+    <contour>
+      <point x="135" y="4" type="line"/>
+      <point x="1067" y="4" type="line"/>
+      <point x="1067" y="167" type="line"/>
+      <point x="135" y="168" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="221" type="line"/>
+      <point x="1060" y="697" type="line"/>
+      <point x="1060" y="813" type="line"/>
+      <point x="148" y="1305" type="line"/>
+      <point x="148" y="1104" type="line"/>
+      <point x="841" y="755" type="line"/>
+      <point x="147" y="425" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>greaterequal</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1192</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

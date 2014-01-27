@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+  <advance width="1445"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="1065" y="1534" type="line"/>
+      <point x="1066" y="1536"/>
+      <point x="1066" y="1538"/>
+      <point x="1066" y="1538" type="curve"/>
+      <point x="1066" y="1556"/>
+      <point x="643" y="212"/>
+      <point x="637" y="212" type="curve"/>
+      <point x="637" y="212"/>
+      <point x="637" y="213"/>
+      <point x="638" y="216" type="curve"/>
+      <point x="552" y="473"/>
+      <point x="464" y="728"/>
+      <point x="377" y="984" type="curve"/>
+      <point x="5" y="868" type="line"/>
+      <point x="39" y="742" type="line"/>
+      <point x="179" y="786" type="line"/>
+      <point x="532" y="-169" type="line"/>
+      <point x="872" y="-169" type="line"/>
+      <point x="1415" y="1534" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>radical</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1136</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

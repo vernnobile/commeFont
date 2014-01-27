@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="1">
+  <advance width="651"/>
+  <outline>
+    <contour>
+      <point x="218" y="1082" type="line"/>
+      <point x="218" y="11" type="line" smooth="yes"/>
+      <point x="218" y="-158"/>
+      <point x="205" y="-197"/>
+      <point x="45" y="-252" type="curve"/>
+      <point x="-34" y="-281" type="line"/>
+      <point x="44" y="-481" type="line"/>
+      <point x="119" y="-456" type="line"/>
+      <point x="365" y="-379"/>
+      <point x="489" y="-306"/>
+      <point x="489" y="-22" type="curve" smooth="yes"/>
+      <point x="489" y="1082" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-479</integer>
+	    <key>width</key>	    <integer>112</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>111</integer>
+	    <key>width</key>
+	    <integer>142</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

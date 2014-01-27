@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="1">
+  <advance width="1294"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="864" y="-20" type="curve" smooth="yes"/>
+      <point x="1083" y="-20"/>
+      <point x="1205" y="103"/>
+      <point x="1205" y="303" type="curve" smooth="yes"/>
+      <point x="1205" y="607"/>
+      <point x="817" y="706"/>
+      <point x="817" y="806" type="curve" smooth="yes"/>
+      <point x="817" y="887"/>
+      <point x="1028" y="988"/>
+      <point x="1028" y="1207" type="curve" smooth="yes"/>
+      <point x="1028" y="1412"/>
+      <point x="864" y="1536"/>
+      <point x="626" y="1536" type="curve" smooth="yes"/>
+      <point x="327" y="1536"/>
+      <point x="156" y="1357"/>
+      <point x="156" y="1063" type="curve" smooth="yes"/>
+      <point x="156" y="1" type="line"/>
+      <point x="373" y="1" type="line"/>
+      <point x="373" y="1054" type="line" smooth="yes"/>
+      <point x="373" y="1277"/>
+      <point x="463" y="1373"/>
+      <point x="635" y="1373" type="curve" smooth="yes"/>
+      <point x="758" y="1373"/>
+      <point x="824" y="1310"/>
+      <point x="824" y="1207" type="curve" smooth="yes"/>
+      <point x="824" y="1011"/>
+      <point x="630" y="957"/>
+      <point x="630" y="787" type="curve" smooth="yes"/>
+      <point x="630" y="591"/>
+      <point x="984" y="510"/>
+      <point x="984" y="303" type="curve" smooth="yes"/>
+      <point x="984" y="214"/>
+      <point x="933" y="144"/>
+      <point x="821" y="144" type="curve" smooth="yes"/>
+      <point x="723" y="144"/>
+      <point x="620" y="179"/>
+      <point x="570" y="206" type="curve"/>
+      <point x="520" y="56" type="line"/>
+      <point x="611" y="13"/>
+      <point x="746" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>germandbls</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1278</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

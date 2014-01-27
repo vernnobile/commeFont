@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01c7" format="1">
+  <advance width="1900"/>
+  <unicode hex="01C7"/>
+  <outline>
+    <component base="J" xOffset="1099"/>
+    <component base="L" xOffset="7"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

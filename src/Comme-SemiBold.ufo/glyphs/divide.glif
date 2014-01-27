@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="1224"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="482" y="1134" type="line"/>
+      <point x="482" y="888" type="line"/>
+      <point x="734" y="888" type="line"/>
+      <point x="734" y="1134" type="line"/>
+    </contour>
+    <contour>
+      <point x="482" y="280" type="line"/>
+      <point x="482" y="25" type="line"/>
+      <point x="728" y="25" type="line"/>
+      <point x="728" y="280" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="677" type="line"/>
+      <point x="93" y="498" type="line"/>
+      <point x="1116" y="498" type="line"/>
+      <point x="1116" y="677" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

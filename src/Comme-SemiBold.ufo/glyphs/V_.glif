@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="1">
+  <advance width="1411"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="541" y="-3" type="line"/>
+      <point x="845" y="-3" type="line"/>
+      <point x="1369" y="1456" type="line"/>
+      <point x="1082" y="1456" type="line"/>
+      <point x="784" y="543" type="line"/>
+      <point x="699.452" y="262.082" type="line"/>
+      <point x="579.621" y="665.041"/>
+      <point x="449.832" y="1058.04"/>
+      <point x="325" y="1456" type="curve"/>
+      <point x="42" y="1456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

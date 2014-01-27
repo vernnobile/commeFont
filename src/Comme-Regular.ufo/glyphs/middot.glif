@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="middot" format="1">
+  <advance width="604"/>
+  <outline>
+    <component base="period" xOffset="-5" yOffset="513"/>
+    <contour>
+      <point x="315" y="628" type="move" name="_mid"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

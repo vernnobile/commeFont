@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a" format="1">
+  <advance width="1141"/>
+  <unicode hex="0061"/>
+  <outline>
+    <contour>
+      <point x="562" y="1082" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="898" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="565" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="500.921" y="143.99" type="curve" smooth="yes"/>
+      <point x="419.358" y="143.99"/>
+      <point x="343.99" y="190.442"/>
+      <point x="343.99" y="302.771" type="curve" smooth="yes"/>
+      <point x="343.99" y="423.58"/>
+      <point x="434.337" y="473.015"/>
+      <point x="602.904" y="473.015" type="curve" smooth="yes"/>
+      <point x="604.595" y="473.015"/>
+      <point x="606.294" y="473.01"/>
+      <point x="608" y="473" type="curve" smooth="yes"/>
+      <point x="746" y="473" type="line"/>
+      <point x="746" y="251.932" type="line"/>
+      <point x="695.393" y="194.675"/>
+      <point x="619.811" y="143.99"/>
+    </contour>
+    <contour>
+      <point x="747" y="611.314" type="line"/>
+      <point x="559" y="613" type="line" smooth="yes"/>
+      <point x="556.149" y="613.022"/>
+      <point x="553.305" y="613.033"/>
+      <point x="550.469" y="613.033" type="curve" smooth="yes"/>
+      <point x="291.751" y="613.033"/>
+      <point x="99" y="522.561"/>
+      <point x="99" y="300" type="curve" smooth="yes"/>
+      <point x="99" y="89"/>
+      <point x="238" y="-18"/>
+      <point x="437" y="-18" type="curve" smooth="yes"/>
+      <point x="596.492" y="-18"/>
+      <point x="698.63" y="36.237"/>
+      <point x="779.347" y="124.53" type="curve"/>
+      <point x="804" y="0" type="line"/>
+      <point x="1012" y="0" type="line"/>
+      <point x="1012" y="669" type="line" smooth="yes"/>
+      <point x="1012" y="983"/>
+      <point x="826" y="1103"/>
+      <point x="575" y="1103" type="curve" smooth="yes"/>
+      <point x="429" y="1103"/>
+      <point x="269" y="1066"/>
+      <point x="138" y="993" type="curve"/>
+      <point x="197" y="818" type="line"/>
+      <point x="309" y="877"/>
+      <point x="442" y="911"/>
+      <point x="542" y="911" type="curve" smooth="yes"/>
+      <point x="673" y="911"/>
+      <point x="747" y="852"/>
+      <point x="747" y="710" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-15</integer>
+	    <key>width</key>	    <integer>92</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>535</integer>
+	    <key>width</key>	    <integer>82</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>983</integer>
+	    <key>width</key>	    <integer>92</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>126</integer>
+	    <key>width</key>
+	    <integer>120</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>842</integer>
+	    <key>width</key>
+	    <integer>32</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>875</integer>
+	    <key>width</key>
+	    <integer>86</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>
