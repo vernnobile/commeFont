@@ -1,0 +1,6 @@
+copyright_license: ofl
+copyright_notice: 'yes'
+license_file: README.md
+source_cff_filetype: UFO
+subset: [menu, latin, latin-ext+latin]
+txt_files_copied: []
