@@ -1,0 +1,13 @@
+copyright_license: ofl
+copyright_notice: 'yes'
+design_category: sans
+license_file: README.md
+prints_ok: 'yes'
+rfn_asserted: 'no'
+rfn_permission: 'yes'
+source_cff_filetype: UFO
+subset: [menu, latin, latin-ext+latin]
+trademark_notice: 'yes'
+trademark_permission: 'no'
+ttfautohint: -l 8 -r 50 -G 200 -x 0 -f none -w G -W
+txt_files_copied: []
