@@ -4,15 +4,6 @@
   <unicode hex="0065"/>
   <outline>
     <contour>
-      <point x="579" y="1082" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="710" y="4" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="603" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
       <point x="217" y="608" type="line"/>
       <point x="240" y="854"/>
       <point x="381" y="1030"/>
@@ -48,36 +39,47 @@
       <point x="120" y="203"/>
       <point x="321" y="-20"/>
     </contour>
+    <contour>
+      <point x="579" y="1082" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="710" y="4" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="603" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-19</integer>
-	    <key>width</key>	    <integer>94</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>982</integer>
-	    <key>width</key>	    <integer>92</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-19</integer>
+            <key>width</key>
+            <integer>94</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>982</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+        </array>
       </dict>
-    <key>org.pippin.gimp.org.kernagic</key>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-    <key>lstem</key>
-      <integer>0</integer>
-    <key>rstem</key>
-      <integer>747</integer>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>747</integer>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

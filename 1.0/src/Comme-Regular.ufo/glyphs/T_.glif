@@ -4,15 +4,6 @@
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="578" y="1456" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="579" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="578" y="763" type="move" name="mid"/>
-    </contour>
-    <contour>
       <point x="6" y="1456" type="line"/>
       <point x="6" y="1310" type="line"/>
       <point x="476" y="1310" type="line"/>
@@ -22,22 +13,29 @@
       <point x="1143" y="1310" type="line"/>
       <point x="1143" y="1456" type="line"/>
     </contour>
+    <contour>
+      <point x="578" y="1456" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="579" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="578" y="763" type="move" name="mid"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.pippin.gimp.org.kernagic</key>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-    <key>lstem</key>
-      <integer>285</integer>
-    <key>rstem</key>
-      <integer>844</integer>
+        <key>lstem</key>
+        <integer>285</integer>
+        <key>rstem</key>
+        <integer>844</integer>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

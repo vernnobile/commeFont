@@ -4,12 +4,6 @@
   <unicode hex="0073"/>
   <outline>
     <contour>
-      <point x="494" y="1082" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="481" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
       <point x="182" y="123" type="line"/>
       <point x="151" y="63" type="line"/>
       <point x="256" y="4"/>
@@ -53,66 +47,74 @@
       <point x="278" y="76"/>
       <point x="196" y="123" type="curve"/>
     </contour>
+    <contour>
+      <point x="494" y="1082" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="481" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-19</integer>
-	    <key>width</key>	    <integer>92</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>982</integer>
-	    <key>width</key>	    <integer>92</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>142</integer>
-	    <key>width</key>
-	    <integer>107</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>738</integer>
-	    <key>width</key>
-	    <integer>104</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-19</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>982</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>142</integer>
+            <key>width</key>
+            <integer>107</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>738</integer>
+            <key>width</key>
+            <integer>104</integer>
+          </dict>
+        </array>
       </dict>
-    <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-    <key>lstem</key>
-      <integer>168</integer>
-    <key>rstem</key>
-      <integer>620</integer>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    <key>com.typemytype.robofont.guides</key>
+      <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
-    <key>y</key>
-      <integer>381</integer>
-    <key>x</key>
-      <integer>77</integer>
-    <key>magnetic</key>
-      <integer>5</integer>
-    <key>angle</key>
-      <real>90</real>
-    <key>isGlobal</key>
-      <false/>
-      </dict>
+          <key>angle</key>
+          <real>90</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>77</integer>
+          <key>y</key>
+          <integer>381</integer>
+        </dict>
       </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>168</integer>
+        <key>rstem</key>
+        <integer>620</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

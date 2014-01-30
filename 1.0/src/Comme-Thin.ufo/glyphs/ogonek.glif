@@ -4,9 +4,6 @@
   <unicode hex="02DB"/>
   <outline>
     <contour>
-      <point x="384" y="0" type="move" name="_ogonek"/>
-    </contour>
-    <contour>
       <point x="320" y="-388" type="curve" smooth="yes"/>
       <point x="361" y="-388"/>
       <point x="402" y="-379"/>
@@ -31,22 +28,23 @@
       <point x="166" y="-353"/>
       <point x="240" y="-388"/>
     </contour>
+    <contour>
+      <point x="384" y="0" type="move" name="_ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.pippin.gimp.org.kernagic</key>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-    <key>lstem</key>
-      <integer>0</integer>
-    <key>rstem</key>
-      <integer>0</integer>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>
