@@ -77,4 +77,7 @@ feature liga {
      language dflt ;
       lookup ligaStandardLigatureslookup0;
 } liga;
-
+feature cpsp {
+# automatic
+pos @Uppercase <5 0 10 0>;
+} cpsp;
