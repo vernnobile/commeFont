@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breveinvertedcomb" format="1">
-  <advance width="728.2"/>
+  <advance width="728.200"/>
   <unicode hex="0311"/>
   <outline>
     <contour>
@@ -26,8 +26,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

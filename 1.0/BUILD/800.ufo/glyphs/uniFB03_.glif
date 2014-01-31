@@ -2,9 +2,9 @@
 <glyph name="uniFB03" format="1">
   <advance width="2322"/>
   <outline>
-    <component base="i" xOffset="1648"/>
-    <component base="f" xOffset="-44"/>
-    <component base="f" xOffset="805"/>
+    <component base="i"/>
+    <component base="f" xOffset="624"/>
+    <component base="f" xOffset="1473"/>
   </outline>
   <lib>
     <dict>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>uniFB03</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>2322</integer>
         </dict>

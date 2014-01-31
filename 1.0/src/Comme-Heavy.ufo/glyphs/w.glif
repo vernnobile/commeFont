@@ -1,42 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="1">
-  <advance width="1544"/>
+  <advance width="1651"/>
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="791" y="1082" type="move" name="top"/>
+      <point x="842" y="661" type="line"/>
+      <point x="973" y="-7" type="line"/>
+      <point x="1360" y="-7" type="line"/>
+      <point x="1639" y="1082" type="line"/>
+      <point x="1294" y="1082" type="line"/>
+      <point x="1171" y="405" type="line"/>
+      <point x="1028" y="1082" type="line"/>
+      <point x="670" y="1082" type="line"/>
+      <point x="491" y="383" type="line"/>
+      <point x="391" y="1082" type="line"/>
+      <point x="12" y="1082" type="line"/>
+      <point x="277" y="-7" type="line"/>
+      <point x="643" y="-7" type="line"/>
     </contour>
     <contour>
-      <point x="786" y="661" type="line"/>
-      <point x="897" y="-7" type="line"/>
-      <point x="1284" y="-7" type="line"/>
-      <point x="1543" y="1082" type="line"/>
-      <point x="1198" y="1082" type="line"/>
-      <point x="1095" y="405" type="line"/>
-      <point x="972" y="1082" type="line"/>
-      <point x="614" y="1082" type="line"/>
-      <point x="455" y="383" type="line"/>
-      <point x="375" y="1082" type="line"/>
-      <point x="-4" y="1082" type="line"/>
-      <point x="241" y="-7" type="line"/>
-      <point x="607" y="-7" type="line"/>
+      <point x="847" y="1082" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.pippin.gimp.org.kernagic</key>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-    <key>lstem</key>
-      <integer>0</integer>
-    <key>rstem</key>
-      <integer>0</integer>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

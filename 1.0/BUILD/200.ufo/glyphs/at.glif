@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="at" format="1">
-  <advance width="2149.8"/>
+  <advance width="2149.800"/>
   <unicode hex="0040"/>
   <outline>
     <contour>
@@ -77,8 +77,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

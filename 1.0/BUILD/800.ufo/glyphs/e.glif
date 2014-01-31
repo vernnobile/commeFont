@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e" format="1">
-  <advance width="1205.05112961"/>
+  <advance width="1205.051"/>
   <unicode hex="0065"/>
   <outline>
     <contour>
@@ -74,24 +74,19 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>e</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <real>1205.05112960761</real>
+          <real>1205.0511296076099</real>
         </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>

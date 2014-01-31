@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="1">
+  <advance width="827"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="386" y="583" type="move" name="_mid"/>
+    </contour>
+    <contour>
+      <point x="152" y="531" type="line"/>
+      <point x="654" y="531" type="line"/>
+      <point x="654" y="625" type="line"/>
+      <point x="152" y="625" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

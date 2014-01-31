@@ -3,8 +3,8 @@
   <advance width="2467"/>
   <unicode hex="01CA"/>
   <outline>
-    <component base="J" xOffset="1566"/>
-    <component base="N" xOffset="82"/>
+    <component base="J"/>
+    <component base="N" xOffset="819"/>
   </outline>
   <lib>
     <dict>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>uni01ca</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>2467</integer>
         </dict>

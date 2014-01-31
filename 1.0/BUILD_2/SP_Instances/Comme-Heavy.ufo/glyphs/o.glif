@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="1">
+  <advance width="1280"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour>
+      <point x="642" y="1082" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="638" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="640" y="260" type="curve" smooth="yes"/>
+      <point x="574" y="260"/>
+      <point x="515" y="312"/>
+      <point x="515" y="547" type="curve" smooth="yes"/>
+      <point x="515" y="770"/>
+      <point x="570" y="819"/>
+      <point x="640" y="819" type="curve" smooth="yes"/>
+      <point x="710" y="819"/>
+      <point x="765" y="770"/>
+      <point x="765" y="547" type="curve" smooth="yes"/>
+      <point x="765" y="315"/>
+      <point x="705" y="260"/>
+    </contour>
+    <contour>
+      <point x="640" y="-22" type="curve" smooth="yes"/>
+      <point x="994" y="-22"/>
+      <point x="1221" y="211"/>
+      <point x="1221" y="547" type="curve" smooth="yes"/>
+      <point x="1221" y="868"/>
+      <point x="989" y="1100"/>
+      <point x="640" y="1100" type="curve" smooth="yes"/>
+      <point x="291" y="1100"/>
+      <point x="59" y="868"/>
+      <point x="59" y="547" type="curve" smooth="yes"/>
+      <point x="59" y="211"/>
+      <point x="286" y="-22"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-19</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>982</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>128</integer>
+            <key>width</key>
+            <integer>120</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>982</integer>
+            <key>width</key>
+            <integer>120</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>582</integer>
+          <key>y</key>
+          <integer>1093</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

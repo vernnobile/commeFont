@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01CA" format="1">
-  <advance width="2409.03538126"/>
+  <advance width="2467"/>
   <unicode hex="01CA"/>
   <outline>
-    <component base="J" xOffset="1590"/>
-    <component base="N"/>
+    <component base="J"/>
+    <component base="N" xOffset="819"/>
   </outline>
   <lib>
     <dict>
@@ -13,24 +13,19 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>uni01CA</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <real>2409.035381256005</real>
+          <real>2409.0353812560052</real>
         </dict>
       </dict>
     </dict>

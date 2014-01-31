@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01F9" format="1">
-  <advance width="1166"/>
+  <advance width="1161"/>
   <unicode hex="01F9"/>
   <outline>
     <component base="n"/>
-    <component base="grave" xOffset="245"/>
+    <component base="grave" xOffset="241" yOffset="30"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

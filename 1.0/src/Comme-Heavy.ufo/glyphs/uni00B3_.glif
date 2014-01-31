@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00B3" format="1">
+  <advance width="885"/>
+  <unicode hex="00B3"/>
+  <outline>
+    <contour>
+      <point x="429" y="563" type="curve" smooth="yes"/>
+      <point x="622" y="563"/>
+      <point x="792" y="654"/>
+      <point x="792" y="844" type="curve" smooth="yes"/>
+      <point x="792" y="937"/>
+      <point x="741" y="1035"/>
+      <point x="639" y="1053" type="curve"/>
+      <point x="746" y="1072"/>
+      <point x="770" y="1161"/>
+      <point x="772" y="1236" type="curve" smooth="yes"/>
+      <point x="772" y="1406"/>
+      <point x="635" y="1469"/>
+      <point x="479" y="1469" type="curve" smooth="yes"/>
+      <point x="366" y="1469"/>
+      <point x="245" y="1437"/>
+      <point x="152" y="1385" type="curve"/>
+      <point x="214" y="1249" type="line"/>
+      <point x="290" y="1288"/>
+      <point x="374" y="1307"/>
+      <point x="436" y="1307" type="curve" smooth="yes"/>
+      <point x="517" y="1307"/>
+      <point x="579" y="1279"/>
+      <point x="579" y="1210" type="curve" smooth="yes"/>
+      <point x="579" y="1158"/>
+      <point x="574" y="1127"/>
+      <point x="436" y="1127" type="curve" smooth="yes"/>
+      <point x="311" y="1127" type="line"/>
+      <point x="311" y="968" type="line"/>
+      <point x="433" y="970" type="line"/>
+      <point x="444" y="970" type="line" smooth="yes"/>
+      <point x="562" y="970"/>
+      <point x="601" y="922"/>
+      <point x="601" y="854" type="curve" smooth="yes"/>
+      <point x="601" y="763"/>
+      <point x="515" y="726"/>
+      <point x="420" y="726" type="curve" smooth="yes"/>
+      <point x="347" y="726"/>
+      <point x="262" y="751"/>
+      <point x="206" y="793" type="curve"/>
+      <point x="140" y="631" type="line"/>
+      <point x="230" y="586"/>
+      <point x="333" y="563"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

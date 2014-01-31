@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aemacron" format="1">
-  <advance width="1819.4"/>
+  <advance width="1763"/>
   <unicode hex="01E3"/>
   <outline>
     <component base="ae"/>
-    <component base="macron" xOffset="423"/>
+    <component base="macron" xOffset="714"/>
   </outline>
   <lib>
     <dict>
@@ -13,24 +13,19 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>aemacron</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <real>1819.4</real>
+          <real>1819.4000000000001</real>
         </dict>
       </dict>
     </dict>

@@ -6,21 +6,23 @@
 	<dict>
 		<key>45045840-C2F8-4391-8868-007C921F4A2B</key>
 		<dict>
-		</dict>
+	</dict>
 	</dict>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<real>-8.0</real>
+		<real>-8</real>
 		<key>GSOffsetProportional</key>
 		<true/>
 		<key>GSOffsetVertical</key>
-		<real>10.0</real>
+		<real>10</real>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>45045840-C2F8-4391-8868-007C921F4A2B</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
+	<key>com.schriftgestaltung.weight</key>
+	<string>Light</string>
 	<key>com.superpolator.editor.generateInfo</key>
 	<string>Generated with LTR Superpolator version 120823_1018_beta_</string>
 	<key>com.typemytype.robofont.layerOrder</key>
@@ -1006,8 +1008,6 @@
 		<string>uni00AD</string>
 		<string>.notdef</string>
 		<string>middot</string>
-		<string>onesuperior</string>
-		<string>threesuperior</string>
 		<string>pi</string>
 		<string>uni2126</string>
 		<string>estimated</string>
@@ -1026,9 +1026,6 @@
 		<string>commaaccent</string>
 		<string>apostrophemod</string>
 		<string>NULL</string>
-		<string>ff</string>
-		<string>ffi</string>
-		<string>ffl</string>
 		<string>fj</string>
 		<string>slashbar</string>
 		<string>foundryicon</string>
@@ -1038,7 +1035,6 @@
 		<string>iinvertedbreve</string>
 		<string>breveinvertedcomb</string>
 		<string>dblgravecomb</string>
-		<string>dblgravecmb</string>
 		<string>aemacron</string>
 		<string>uniFB01</string>
 		<string>uniFB02</string>

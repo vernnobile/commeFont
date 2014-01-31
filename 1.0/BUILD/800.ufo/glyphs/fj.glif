@@ -2,8 +2,8 @@
 <glyph name="fj" format="1">
   <advance width="1566"/>
   <outline>
-    <component base="j" xOffset="819"/>
-    <component base="f" xOffset="16"/>
+    <component base="j"/>
+    <component base="f" xOffset="717"/>
   </outline>
   <lib>
     <dict>
@@ -12,22 +12,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>fj</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1566</integer>
         </dict>

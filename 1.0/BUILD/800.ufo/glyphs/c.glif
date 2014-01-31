@@ -73,7 +73,7 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <real>90</real>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
@@ -85,7 +85,7 @@
         </dict>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <real>90</real>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
@@ -97,7 +97,7 @@
         </dict>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <real>90</real>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
@@ -113,22 +113,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>c</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1134</integer>
         </dict>

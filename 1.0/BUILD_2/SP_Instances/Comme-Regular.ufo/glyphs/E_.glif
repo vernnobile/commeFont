@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="1302"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="735" y="1456" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="887" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="704" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="204" y="0" type="line"/>
+      <point x="1162" y="0" type="line"/>
+      <point x="1174" y="145" type="line"/>
+      <point x="394" y="145" type="line"/>
+      <point x="394" y="681" type="line"/>
+      <point x="1093" y="681" type="line"/>
+      <point x="1093" y="825" type="line"/>
+      <point x="394" y="825" type="line"/>
+      <point x="394" y="1313" type="line"/>
+      <point x="1152" y="1313" type="line"/>
+      <point x="1159" y="1456" type="line"/>
+      <point x="204" y="1456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

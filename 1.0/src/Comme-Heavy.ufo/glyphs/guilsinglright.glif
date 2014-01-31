@@ -1,54 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright" format="1">
-  <advance width="766"/>
+  <advance width="901"/>
   <unicode hex="203A"/>
   <outline>
     <contour>
-      <point x="127" y="177" type="line"/>
-      <point x="340" y="177" type="line"/>
-      <point x="615" y="590" type="line"/>
-      <point x="361" y="989" type="line"/>
-      <point x="150" y="989" type="line"/>
-      <point x="388" y="594" type="line"/>
+      <point x="488" y="1042" type="line"/>
+      <point x="118" y="1042" type="line"/>
+      <point x="375" y="560" type="line"/>
+      <point x="122" y="101" type="line"/>
+      <point x="497" y="101" type="line"/>
+      <point x="765" y="564" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.pippin.gimp.org.kernagic</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-    <key>lstem</key>
-      <integer>0</integer>
-    <key>rstem</key>
-      <integer>0</integer>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>guilsinglright</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>766</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>guilsinglright</string>
-    <key>lib</key>
-      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>766</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

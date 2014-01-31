@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni00B3" format="1">
-  <advance width="869.6"/>
+  <advance width="869.600"/>
   <unicode hex="00B3"/>
   <outline>
     <contour>
@@ -50,8 +50,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

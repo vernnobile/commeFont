@@ -1,0 +1,92 @@
+# Prefix: Prefix
+# automatic
+languagesystem grek dflt;
+languagesystem latn dflt;
+
+# GSUB 
+
+
+lookup ligaStandardLigatureslookup0 {
+  lookupflag 0;
+    sub \f \f  by \uniFB00;
+    sub \f \i  by \uniFB01;
+    sub \f \l  by \uniFB02;
+    sub \f \f \i  by \uniFB03;
+    sub \f \f \l  by \uniFB04;
+} ligaStandardLigatureslookup0;
+
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+languagesystem latn TRK;
+
+feature aalt {
+# automatic
+feature locl;
+feature frac;
+feature ordn;
+} aalt;
+feature locl {
+# automatic
+script latn;
+language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+language CRT;
+sub i by idotaccent;
+language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+language TAT;
+sub i by idotaccent;
+language KAZ;
+sub i by idotaccent;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
+language AZE;
+sub i by idotaccent;
+language TRK;
+sub i by idotaccent;
+} locl;
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+} frac;
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+feature dlig {
+# automatic
+sub f f by uniFB00;
+sub f f i by uniFB03;
+sub f f l by uniFB04;
+sub f i by uniFB01;
+sub f l by uniFB02;
+} dlig;
+feature liga {
+ script DFLT;
+     language dflt ;
+      lookup ligaStandardLigatureslookup0;
+
+ script grek;
+     language dflt ;
+      lookup ligaStandardLigatureslookup0;
+
+ script latn;
+     language dflt ;
+      lookup ligaStandardLigatureslookup0;
+} liga;
+feature cpsp {
+# automatic
+pos @Uppercase <5 0 10 0>;
+} cpsp;

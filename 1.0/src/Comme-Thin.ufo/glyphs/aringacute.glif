@@ -4,8 +4,8 @@
   <unicode hex="01FB"/>
   <outline>
     <component base="a"/>
-    <component base="acute" xOffset="309"/>
     <component base="ring" xOffset="231" yOffset="29"/>
+    <component base="acute" xOffset="309" yOffset="424"/>
   </outline>
   <lib>
     <dict>

@@ -9,11 +9,17 @@
 	<key>descender</key>
 	<integer>-556</integer>
 	<key>familyName</key>
-	<string>Comme</string>
+	<string>Comme Black</string>
+	<key>openTypeHeadCreated</key>
+	<string>2014/01/30 17:47:11</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>code.newtypography.co.uk</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Comme</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Black</string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
@@ -48,23 +54,13 @@
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
-	<string>Black</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>versionMajor</key>

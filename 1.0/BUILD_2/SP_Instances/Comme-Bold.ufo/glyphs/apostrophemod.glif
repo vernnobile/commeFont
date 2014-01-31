@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophemod" format="1">
+  <advance width="649"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <contour>
+      <point x="63" y="1106" type="curve"/>
+      <point x="286" y="1106" type="line"/>
+      <point x="286" y="1106"/>
+      <point x="355" y="1403"/>
+      <point x="385" y="1569" type="curve"/>
+      <point x="117" y="1569" type="line"/>
+      <point x="108" y="1485"/>
+      <point x="63" y="1106"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

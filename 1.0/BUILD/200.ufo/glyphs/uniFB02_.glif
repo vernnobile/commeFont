@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFB02" format="1">
-  <advance width="1317"/>
+  <advance width="1313"/>
   <unicode hex="FB02"/>
   <outline>
     <component base="f"/>
@@ -9,8 +9,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

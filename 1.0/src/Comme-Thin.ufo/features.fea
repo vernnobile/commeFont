@@ -1,7 +1,7 @@
 # Prefix: Prefix
-languagesystem DFLT dflt;
 languagesystem grek dflt;
 languagesystem latn dflt;
+
 
 # GSUB 
 
@@ -20,9 +20,9 @@ lookup ligaStandardLigatureslookup0 {
 languagesystem DFLT dflt;
 languagesystem grek dflt;
 languagesystem latn dflt;
-languagesystem latn CAT;
 languagesystem latn ROM;
 languagesystem latn MOL;
+languagesystem latn CAT;
 languagesystem latn TRK;
 
 feature aalt {
@@ -34,28 +34,24 @@ feature ordn;
 feature locl {
 # automatic
 script latn;
-language CAT;
-sub  l' periodcentered' l by ldot;
-sub  L' periodcentered' L by Ldot;
 language ROM;
 sub Scedilla by Scommaaccent;
 sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
+language CRT;
+sub i by idotaccent;
 language MOL;
 sub Scedilla by Scommaaccent;
 sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
-language KAZ;
-sub i by idotaccent;
 language TAT;
 sub i by idotaccent;
-language TRK;
+language KAZ;
 sub i by idotaccent;
-language CRT;
-sub i by idotaccent;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
 language AZE;
+sub i by idotaccent;
+language TRK;
 sub i by idotaccent;
 } locl;
 feature frac {
@@ -90,7 +86,3 @@ feature liga {
      language dflt ;
       lookup ligaStandardLigatureslookup0;
 } liga;
-feature cpsp {
-# automatic
-pos @Uppercase <5 0 10 0>;
-} cpsp;

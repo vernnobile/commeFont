@@ -8,7 +8,7 @@
       <point x="566" y="1099"/>
       <point x="550" y="1145"/>
       <point x="550" y="1234" type="curve" smooth="yes"/>
-      <point x="550" y="1323"/>
+      <point x="550" y="1305"/>
       <point x="600" y="1338"/>
       <point x="659" y="1339" type="curve" smooth="yes"/>
       <point x="725" y="1339"/>
@@ -23,7 +23,7 @@
       <point x="95" y="674"/>
       <point x="95" y="480" type="curve" smooth="yes"/>
       <point x="95" y="120"/>
-      <point x="473" y="130"/>
+      <point x="397" y="-15"/>
       <point x="630" y="-15" type="curve"/>
       <point x="796" y="-15"/>
       <point x="927" y="39"/>
@@ -60,63 +60,62 @@
       <point x="502" y="220"/>
       <point x="394" y="286"/>
       <point x="394" y="439" type="curve" smooth="yes"/>
-      <point x="394" y="453"/>
-      <point x="395" y="469"/>
-      <point x="397" y="485" type="curve" smooth="yes"/>
-      <point x="411" y="568"/>
-      <point x="538" y="673"/>
+      <point x="394" y="565"/>
+      <point x="490" y="639"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-19</integer>
-	    <key>width</key>	    <integer>96</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1372</integer>
-	    <key>width</key>	    <integer>96</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>135</integer>
-	    <key>width</key>
-	    <integer>121</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>312</integer>
-	    <key>width</key>
-	    <integer>105</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>917</integer>
-	    <key>width</key>
-	    <integer>110</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-19</integer>
+            <key>width</key>
+            <integer>96</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1372</integer>
+            <key>width</key>
+            <integer>96</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>135</integer>
+            <key>width</key>
+            <integer>121</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>312</integer>
+            <key>width</key>
+            <integer>105</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>917</integer>
+            <key>width</key>
+            <integer>110</integer>
+          </dict>
+        </array>
       </dict>
-    <key>org.pippin.gimp.org.kernagic</key>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-    <key>lstem</key>
-      <integer>0</integer>
-    <key>rstem</key>
-      <integer>0</integer>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

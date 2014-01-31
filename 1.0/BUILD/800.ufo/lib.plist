@@ -6,14 +6,14 @@
 	<dict>
 		<key>45045840-C2F8-4391-8868-007C921F4A2B</key>
 		<dict>
-		</dict>
+	</dict>
 	</dict>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<real>44.0</real>
+		<real>44</real>
 		<key>GSOffsetVertical</key>
-		<real>6.0</real>
+		<real>6</real>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>45045840-C2F8-4391-8868-007C921F4A2B</string>
@@ -997,11 +997,6 @@
 		<string>uni000D</string>
 		<string>uni00AD</string>
 		<string>middot</string>
-		<string>onesuperior</string>
-		<string>threesuperior</string>
-		<string>twosuperior</string>
-		<string>fi</string>
-		<string>fl</string>
 		<string>pi</string>
 		<string>uni2126</string>
 		<string>estimated</string>
@@ -1009,21 +1004,15 @@
 		<string>uni02C9</string>
 		<string>Tcedilla</string>
 		<string>uni01c7</string>
-		<string>uni01c8</string>
 		<string>uni01ca</string>
-		<string>uni01cb</string>
 		<string>idotaccent</string>
 		<string>dotlessj</string>
 		<string>kgreenlandic</string>
 		<string>tcedilla</string>
-		<string>foursuperior</string>
 		<string>CR</string>
 		<string>commaaccent</string>
 		<string>apostrophemod</string>
 		<string>NULL</string>
-		<string>ff</string>
-		<string>ffi</string>
-		<string>ffl</string>
 		<string>fj</string>
 		<string>slashbar</string>
 		<string>foundryicon</string>
@@ -1035,7 +1024,6 @@
 		<string>dblgravecomb</string>
 		<string>Eng</string>
 		<string>Thorn</string>
-		<string>five.001</string>
 		<string>uniFB01</string>
 		<string>uniFB02</string>
 		<string>uni2074</string>

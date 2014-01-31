@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="1170"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="217" y="-6" type="line"/>
+      <point x="299" y="-6" type="line"/>
+      <point x="389" y="437" type="line"/>
+      <point x="684" y="437" type="line"/>
+      <point x="597" y="-6" type="line"/>
+      <point x="678" y="-6" type="line"/>
+      <point x="768" y="437" type="line"/>
+      <point x="969" y="437" type="line"/>
+      <point x="982" y="512" type="line"/>
+      <point x="783" y="512" type="line"/>
+      <point x="875" y="972" type="line"/>
+      <point x="1060" y="972" type="line"/>
+      <point x="1073" y="1046" type="line"/>
+      <point x="891" y="1046" type="line"/>
+      <point x="981" y="1488" type="line"/>
+      <point x="900" y="1488" type="line"/>
+      <point x="809" y="1046" type="line"/>
+      <point x="513" y="1046" type="line"/>
+      <point x="604" y="1488" type="line"/>
+      <point x="521" y="1488" type="line"/>
+      <point x="429" y="1046" type="line"/>
+      <point x="246" y="1046" type="line"/>
+      <point x="236" y="972" type="line"/>
+      <point x="414" y="972" type="line"/>
+      <point x="322" y="512" type="line"/>
+      <point x="150" y="512" type="line"/>
+      <point x="140" y="437" type="line"/>
+      <point x="307" y="437" type="line"/>
+    </contour>
+    <contour>
+      <point x="405" y="512" type="line"/>
+      <point x="498" y="972" type="line"/>
+      <point x="793" y="972" type="line"/>
+      <point x="700" y="512" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

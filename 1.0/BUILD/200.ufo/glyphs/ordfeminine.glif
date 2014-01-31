@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordfeminine" format="1">
-  <advance width="1133"/>
+  <advance width="1116"/>
   <unicode hex="00AA"/>
   <outline>
-    <component base="a" xScale="0.861935702993" yScale="0.861935702993" xOffset="66" yOffset="610"/>
+    <component base="a" xScale="0.86" yScale="0.86"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

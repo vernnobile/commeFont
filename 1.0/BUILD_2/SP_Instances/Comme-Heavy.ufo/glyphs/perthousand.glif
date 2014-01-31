@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="3714"/>
+  <unicode hex="2030"/>
+  <outline>
+    <contour>
+      <point x="3209" y="190" type="curve" smooth="yes"/>
+      <point x="3115" y="190"/>
+      <point x="3005" y="276"/>
+      <point x="3005" y="382" type="curve" smooth="yes"/>
+      <point x="3005" y="487"/>
+      <point x="3115" y="571"/>
+      <point x="3209" y="571" type="curve" smooth="yes"/>
+      <point x="3302" y="571"/>
+      <point x="3407" y="491"/>
+      <point x="3407" y="382" type="curve" smooth="yes"/>
+      <point x="3407" y="277"/>
+      <point x="3303" y="190"/>
+    </contour>
+    <contour>
+      <point x="3204" y="-57" type="curve" smooth="yes"/>
+      <point x="3464" y="-57"/>
+      <point x="3689" y="134"/>
+      <point x="3689" y="379" type="curve" smooth="yes"/>
+      <point x="3689" y="622"/>
+      <point x="3467" y="801"/>
+      <point x="3204" y="801" type="curve" smooth="yes"/>
+      <point x="2943" y="801"/>
+      <point x="2720" y="616"/>
+      <point x="2720" y="379" type="curve" smooth="yes"/>
+      <point x="2720" y="134"/>
+      <point x="2939" y="-57"/>
+    </contour>
+    <component base="percent" xOffset="68"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>perthousand</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2251</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

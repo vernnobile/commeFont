@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2074" format="1">
-  <advance width="713.8"/>
+  <advance width="713.800"/>
   <unicode hex="2074"/>
   <outline>
     <contour>
@@ -25,8 +25,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

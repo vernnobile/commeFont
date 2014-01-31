@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFB02" format="1">
-  <advance width="1621"/>
+  <advance width="1631"/>
   <unicode hex="FB02"/>
   <outline>
-    <component base="l" xOffset="755"/>
-    <component base="f" xOffset="-47"/>
+    <component base="l"/>
+    <component base="f" xOffset="782"/>
   </outline>
   <lib>
     <dict>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>uniFB02</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1621</integer>
         </dict>

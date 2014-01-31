@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright" format="1">
+  <advance width="906"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="131" y="-315" type="line"/>
+      <point x="410" y="-315" type="line"/>
+      <point x="554" y="-163"/>
+      <point x="700" y="266"/>
+      <point x="700" y="640" type="curve" smooth="yes"/>
+      <point x="700" y="1015"/>
+      <point x="554" y="1445"/>
+      <point x="410" y="1597" type="curve"/>
+      <point x="131" y="1597" type="line"/>
+      <point x="131" y="1556" type="line"/>
+      <point x="253" y="1455"/>
+      <point x="417" y="1197"/>
+      <point x="417" y="640" type="curve" smooth="yes"/>
+      <point x="417" y="85"/>
+      <point x="253" y="-186"/>
+      <point x="131" y="-287" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>parenright</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>766</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

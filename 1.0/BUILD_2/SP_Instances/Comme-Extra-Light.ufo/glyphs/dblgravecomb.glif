@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecomb" format="1">
+  <advance width="766"/>
+  <unicode hex="030F"/>
+  <outline>
+    <contour>
+      <point x="532" y="1077" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="356" y="1256" type="line"/>
+      <point x="427" y="1256" type="line"/>
+      <point x="234" y="1607" type="line"/>
+      <point x="104" y="1607" type="line"/>
+    </contour>
+    <contour>
+      <point x="593" y="1256" type="line"/>
+      <point x="666" y="1256" type="line"/>
+      <point x="478" y="1607" type="line"/>
+      <point x="353" y="1607" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EBC" format="1">
+  <advance width="1376"/>
+  <unicode hex="1EBC"/>
+  <outline>
+    <component base="E"/>
+    <component base="tilde" xOffset="257" yOffset="374"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

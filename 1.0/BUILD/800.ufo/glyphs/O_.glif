@@ -74,29 +74,23 @@
         </array>
       </dict>
       <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
+      <array/>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>O</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1665</integer>
         </dict>

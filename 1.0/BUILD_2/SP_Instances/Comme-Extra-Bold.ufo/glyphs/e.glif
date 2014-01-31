@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e" format="1">
+  <advance width="1215"/>
+  <unicode hex="0065"/>
+  <outline>
+    <contour>
+      <point x="624" y="1082" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="798" y="2" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="671" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="670" y="-20" type="curve" smooth="yes"/>
+      <point x="860" y="-20"/>
+      <point x="1032" y="37"/>
+      <point x="1115" y="122" type="curve"/>
+      <point x="1029" y="319" type="line"/>
+      <point x="1011" y="319" type="line"/>
+      <point x="929" y="266"/>
+      <point x="821" y="231"/>
+      <point x="715" y="231" type="curve" smooth="yes"/>
+      <point x="586" y="231"/>
+      <point x="486" y="312"/>
+      <point x="469" y="427" type="curve"/>
+      <point x="1111" y="427" type="line"/>
+      <point x="1111" y="428"/>
+      <point x="1124" y="481"/>
+      <point x="1124" y="573" type="curve" smooth="yes"/>
+      <point x="1112" y="878"/>
+      <point x="990" y="1101"/>
+      <point x="628" y="1101" type="curve" smooth="yes"/>
+      <point x="282" y="1101"/>
+      <point x="71" y="885"/>
+      <point x="71" y="543" type="curve" smooth="yes"/>
+      <point x="71" y="198"/>
+      <point x="299" y="-20"/>
+    </contour>
+    <contour>
+      <point x="460" y="636" type="line"/>
+      <point x="465" y="807"/>
+      <point x="542" y="854"/>
+      <point x="641" y="854" type="curve" smooth="yes"/>
+      <point x="733" y="854"/>
+      <point x="789" y="804"/>
+      <point x="789" y="636" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-19</integer>
+            <key>width</key>
+            <integer>94</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>982</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>747</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

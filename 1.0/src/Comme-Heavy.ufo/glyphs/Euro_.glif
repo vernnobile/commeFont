@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="1391"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="-100" y="526" type="line"/>
+      <point x="803" y="526" type="line"/>
+      <point x="799" y="690" type="line"/>
+      <point x="278" y="690" type="line"/>
+      <point x="278" y="797" type="line"/>
+      <point x="799" y="797" type="line"/>
+      <point x="797" y="963" type="line"/>
+      <point x="-105" y="963" type="line"/>
+      <point x="-103" y="797" type="line"/>
+      <point x="76" y="797" type="line"/>
+      <point x="76" y="690" type="line"/>
+      <point x="-105" y="690" type="line"/>
+    </contour>
+    <component base="C" xOffset="-27"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>Euro</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1391</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

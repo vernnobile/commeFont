@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero" format="1">
+  <advance width="1408"/>
+  <unicode hex="0030"/>
+  <outline>
+    <contour>
+      <point x="703" y="280" type="curve" smooth="yes"/>
+      <point x="590" y="280"/>
+      <point x="519" y="464"/>
+      <point x="519" y="734" type="curve" smooth="yes"/>
+      <point x="523" y="1001"/>
+      <point x="595" y="1174"/>
+      <point x="703" y="1174" type="curve" smooth="yes"/>
+      <point x="817" y="1174"/>
+      <point x="888" y="999"/>
+      <point x="888" y="734" type="curve" smooth="yes"/>
+      <point x="888" y="464"/>
+      <point x="817" y="280"/>
+    </contour>
+    <contour>
+      <point x="703" y="-20" type="curve" smooth="yes"/>
+      <point x="1088" y="-20"/>
+      <point x="1339" y="272"/>
+      <point x="1339" y="735" type="curve" smooth="yes"/>
+      <point x="1339" y="1191"/>
+      <point x="1090" y="1476"/>
+      <point x="703" y="1476" type="curve" smooth="yes"/>
+      <point x="316" y="1476"/>
+      <point x="69" y="1191"/>
+      <point x="69" y="735" type="curve" smooth="yes"/>
+      <point x="69" y="272"/>
+      <point x="319" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zero</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1248</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
