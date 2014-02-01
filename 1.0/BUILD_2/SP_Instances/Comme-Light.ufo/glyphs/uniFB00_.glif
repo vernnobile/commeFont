@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFB00" format="1">
-  <advance width="1497"/>
+  <advance width="1498"/>
   <unicode hex="FB00"/>
   <outline>
     <component base="f"/>
@@ -9,11 +9,9 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

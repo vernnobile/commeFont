@@ -3,7 +3,7 @@
   <advance width="744"/>
   <unicode hex="0028"/>
   <outline>
-    <component base="parenright" xScale="-1.0" xOffset="748"/>
+    <component base="parenright" xOffset="748" xScale="-1"/>
   </outline>
   <lib>
     <dict>
@@ -12,22 +12,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>parenright</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>766</integer>
         </dict>
@@ -40,8 +35,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

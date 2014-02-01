@@ -3,13 +3,13 @@
   <advance width="762"/>
   <outline>
     <contour>
-      <point x="412" y="755" type="move" name="_mid"/>
-    </contour>
-    <contour>
       <point x="140" y="542" type="line"/>
       <point x="694" y="869" type="line"/>
       <point x="694" y="982" type="line"/>
       <point x="140" y="655" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="755" type="move" name="_mid"/>
     </contour>
   </outline>
   <lib>
@@ -19,22 +19,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>slashbar</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>908</integer>
         </dict>
@@ -47,8 +42,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

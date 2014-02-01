@@ -6,16 +6,16 @@
 	<dict>
 		<key>45045840-C2F8-4391-8868-007C921F4A2B</key>
 		<dict>
-		</dict>
+	</dict>
 	</dict>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<real>-8.0</real>
+		<real>-8</real>
 		<key>GSOffsetProportional</key>
 		<true/>
 		<key>GSOffsetVertical</key>
-		<real>10.0</real>
+		<real>10</real>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>45045840-C2F8-4391-8868-007C921F4A2B</string>

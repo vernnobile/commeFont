@@ -4,20 +4,19 @@
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="395" y="593" type="move" name="_mid"/>
-    </contour>
-    <contour>
       <point x="160" y="529" type="line"/>
       <point x="665" y="529" type="line"/>
       <point x="665" y="642" type="line"/>
       <point x="160" y="642" type="line"/>
     </contour>
+    <contour>
+      <point x="395" y="593" type="move" name="_mid"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -26,8 +25,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

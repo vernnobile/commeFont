@@ -4,12 +4,6 @@
   <unicode hex="0052"/>
   <outline>
     <contour>
-      <point x="707" y="1456" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="713" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
       <point x="213" y="0" type="line"/>
       <point x="366" y="0" type="line"/>
       <point x="366" y="699" type="line"/>
@@ -40,6 +34,12 @@
       <point x="1089" y="883"/>
       <point x="1010" y="807"/>
       <point x="693" y="807" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="707" y="1456" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="713" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
@@ -72,8 +72,7 @@
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -82,8 +81,7 @@
         <integer>839</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

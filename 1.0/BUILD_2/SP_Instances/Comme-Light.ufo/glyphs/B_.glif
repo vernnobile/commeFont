@@ -4,9 +4,6 @@
   <unicode hex="0042"/>
   <outline>
     <contour>
-      <point x="669" y="1456" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="563" y="-11" type="curve" smooth="yes"/>
       <point x="1053" y="-11"/>
       <point x="1243" y="112"/>
@@ -53,12 +50,14 @@
       <point x="888" y="832"/>
       <point x="693" y="832" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="669" y="1456" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -67,8 +66,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>
