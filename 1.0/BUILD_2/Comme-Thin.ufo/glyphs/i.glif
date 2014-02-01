@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="208" y="0" type="line"/>
-      <point x="305" y="0" type="line"/>
-      <point x="305" y="1082" type="line"/>
+      <point x="306" y="0" type="line"/>
+      <point x="306" y="1082" type="line"/>
       <point x="208" y="1082" type="line"/>
     </contour>
     <component base="dotaccent" xOffset="114"/>

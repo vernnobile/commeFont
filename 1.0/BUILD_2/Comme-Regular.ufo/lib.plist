@@ -145,7 +145,6 @@
 				<string>Scommaaccent</string>
 				<string>uni1E60</string>
 				<string>T</string>
-				<string>Tcommaaccent</string>
 				<string>Tcaron</string>
 				<string>uni021A</string>
 				<string>uni1E6A</string>
@@ -312,7 +311,6 @@
 				<string>scommaaccent</string>
 				<string>uni1E61</string>
 				<string>t</string>
-				<string>tcommaaccent</string>
 				<string>tcaron</string>
 				<string>uni021B</string>
 				<string>uni1E6B</string>
@@ -493,31 +491,20 @@
 				<string>uni00A0</string>
 				<string>uni000D</string>
 				<string>uni00AD</string>
-				<string>.notdef</string>
 				<string>middot</string>
-				<string>onesuperior</string>
-				<string>threesuperior</string>
 				<string>pi</string>
 				<string>uni2126</string>
 				<string>estimated</string>
 				<string>uni2113</string>
 				<string>uni02C9</string>
 				<string>Tcedilla</string>
-				<string>uni01c7</string>
-				<string>uni01c8</string>
-				<string>uni01ca</string>
-				<string>uni01cb</string>
 				<string>idotaccent</string>
 				<string>dotlessj</string>
 				<string>kgreenlandic</string>
 				<string>tcedilla</string>
-				<string>CR</string>
 				<string>commaaccent</string>
 				<string>apostrophemod</string>
 				<string>NULL</string>
-				<string>ff</string>
-				<string>ffi</string>
-				<string>ffl</string>
 				<string>fj</string>
 				<string>slashbar</string>
 				<string>foundryicon</string>
@@ -527,7 +514,6 @@
 				<string>iinvertedbreve</string>
 				<string>breveinvertedcomb</string>
 				<string>dblgravecomb</string>
-				<string>dblgravecmb</string>
 				<string>aemacron</string>
 				<string>uniFB01</string>
 				<string>uniFB02</string>
@@ -537,6 +523,8 @@
 				<string>uni00B2</string>
 				<string>aringacute</string>
 				<string>uni00B9</string>
+				<string>Tcommaaccent</string>
+				<string>tcommaaccent</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1034,6 +1022,8 @@
 		<string>uni00B2</string>
 		<string>aringacute</string>
 		<string>uni00B9</string>
+		<string>Tcommaaccent</string>
+		<string>tcommaaccent</string>
 	</array>
 </dict>
 </plist>

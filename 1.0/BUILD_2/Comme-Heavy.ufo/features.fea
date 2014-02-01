@@ -20,17 +20,7 @@ lookup ligaStandardLigatureslookup0 {
 languagesystem DFLT dflt;
 languagesystem grek dflt;
 languagesystem latn dflt;
-languagesystem latn ROM;
-languagesystem latn MOL;
-languagesystem latn CAT;
-languagesystem latn TRK;
 
-feature aalt {
-# automatic
-feature locl;
-feature frac;
-feature ordn;
-} aalt;
 feature locl {
 # automatic
 script latn;

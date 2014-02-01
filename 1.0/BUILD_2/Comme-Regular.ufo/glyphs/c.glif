@@ -73,7 +73,7 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>90</real>
+          <real>90.0</real>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
@@ -85,7 +85,7 @@
         </dict>
         <dict>
           <key>angle</key>
-          <real>90</real>
+          <real>90.0</real>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
@@ -97,7 +97,7 @@
         </dict>
         <dict>
           <key>angle</key>
-          <real>90</real>
+          <real>90.0</real>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
@@ -109,7 +109,8 @@
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
-      <dict/>
+      <dict>
+      </dict>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -118,7 +119,8 @@
         <integer>696</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict/>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

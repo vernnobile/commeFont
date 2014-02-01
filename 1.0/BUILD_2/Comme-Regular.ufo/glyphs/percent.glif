@@ -70,23 +70,6 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>percent</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>1563</integer>
-        </dict>
       </dict>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
@@ -96,7 +79,8 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict/>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>
