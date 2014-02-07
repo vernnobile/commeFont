@@ -13,13 +13,12 @@
       <point x="268" y="722" type="move" name="mid"/>
     </contour>
     <contour>
-      <point x="222" y="1455" type="line"/>
       <point x="222" y="0" type="line"/>
       <point x="1020" y="0" type="line"/>
-      <point x="1017" y="69" type="line"/>
-      <point x="264" y="69" type="line"/>
-      <point x="314" y="17" type="line"/>
+      <point x="1017" y="72" type="line"/>
+      <point x="314" y="72" type="line"/>
       <point x="314" y="1455" type="line"/>
+      <point x="222" y="1455" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,43 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="1">
-  <advance width="1379"/>
+  <advance width="1363"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="686" y="1456" type="move" name="top"/>
+      <point x="58" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="388" y="477" type="line"/>
+      <point x="978" y="477" type="line"/>
+      <point x="1156" y="0" type="line"/>
+      <point x="1304" y="0" type="line"/>
+      <point x="752" y="1456" type="line"/>
+      <point x="608" y="1456" type="line"/>
     </contour>
     <contour>
-      <point x="1226" y="0" type="move" name="ogonek"/>
+      <point x="426" y="586" type="line"/>
+      <point x="680" y="1296" type="line"/>
+      <point x="941" y="586" type="line"/>
     </contour>
     <contour>
-      <point x="688" y="0" type="move" name="bot"/>
+      <point x="679" y="1456" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="613" y="1456" type="line"/>
-      <point x="61" y="0" type="line"/>
-      <point x="216" y="0" type="line"/>
-      <point x="411" y="520" type="line"/>
-      <point x="352" y="473" type="line"/>
-      <point x="1034" y="473" type="line"/>
-      <point x="971" y="516" type="line"/>
-      <point x="1164" y="0" type="line"/>
-      <point x="1318" y="0" type="line"/>
-      <point x="761" y="1456" type="line"/>
+      <point x="1220" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="662" y="1361" type="line"/>
-      <point x="965" y="539" type="line"/>
-      <point x="1004" y="586" type="line"/>
-      <point x="385" y="586" type="line"/>
-      <point x="417" y="545" type="line"/>
-      <point x="713" y="1361" type="line"/>
+      <point x="680" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -46,8 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright" format="1">
-  <advance width="748"/>
+  <advance width="733"/>
   <unicode hex="203A"/>
   <outline>
     <contour>
-      <point x="157" y="146" type="line"/>
-      <point x="299" y="146" type="line"/>
-      <point x="598" y="572" type="line"/>
-      <point x="296" y="1002" type="line"/>
-      <point x="153" y="1002" type="line"/>
-      <point x="444" y="571" type="line"/>
+      <point x="157" y="145" type="line"/>
+      <point x="287" y="145" type="line"/>
+      <point x="591" y="575" type="line"/>
+      <point x="287" y="1003" type="line"/>
+      <point x="156" y="1003" type="line"/>
+      <point x="450" y="575" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -19,22 +19,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>guilsinglright</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>766</integer>
         </dict>
@@ -47,8 +42,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

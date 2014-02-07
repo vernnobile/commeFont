@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0233" format="1">
-  <advance width="1122"/>
+  <advance width="1125"/>
   <unicode hex="0233"/>
   <outline>
     <component base="y"/>
-    <component base="macron" xOffset="17" yOffset="6"/>
+    <component base="macron" xOffset="21" yOffset="5"/>
   </outline>
   <lib>
     <dict>

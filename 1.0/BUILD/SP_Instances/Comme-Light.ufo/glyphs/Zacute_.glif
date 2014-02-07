@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zacute" format="1">
-  <advance width="1226"/>
+  <advance width="1195"/>
   <unicode hex="0179"/>
   <outline>
-    <component base="acute" xOffset="342" yOffset="394"/>
+    <component base="acute" xOffset="358" yOffset="374"/>
     <component base="Z"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

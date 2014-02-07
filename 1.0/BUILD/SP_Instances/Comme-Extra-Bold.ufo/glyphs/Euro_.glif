@@ -4,20 +4,20 @@
   <unicode hex="20AC"/>
   <outline>
     <contour>
-      <point x="-89" y="526" type="line"/>
-      <point x="804" y="526" type="line"/>
-      <point x="802" y="679" type="line"/>
-      <point x="263" y="679" type="line"/>
-      <point x="263" y="802" type="line"/>
-      <point x="802" y="802" type="line"/>
-      <point x="803" y="955" type="line"/>
-      <point x="-90" y="955" type="line"/>
-      <point x="-90" y="802" type="line"/>
-      <point x="87" y="802" type="line"/>
-      <point x="87" y="679" type="line"/>
-      <point x="-91" y="679" type="line"/>
+      <point x="-98" y="526" type="line"/>
+      <point x="803" y="526" type="line"/>
+      <point x="800" y="688" type="line"/>
+      <point x="276" y="688" type="line"/>
+      <point x="276" y="798" type="line"/>
+      <point x="800" y="798" type="line"/>
+      <point x="798" y="962" type="line"/>
+      <point x="-102" y="962" type="line"/>
+      <point x="-101" y="798" type="line"/>
+      <point x="78" y="798" type="line"/>
+      <point x="78" y="688" type="line"/>
+      <point x="-103" y="688" type="line"/>
     </contour>
-    <component base="C" xOffset="-38"/>
+    <component base="C" xOffset="-29"/>
   </outline>
   <lib>
     <dict>

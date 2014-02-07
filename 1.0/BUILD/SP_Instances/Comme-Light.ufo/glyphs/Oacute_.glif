@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oacute" format="1">
-  <advance width="1652"/>
+  <advance width="1630"/>
   <unicode hex="00D3"/>
   <outline>
-    <component base="acute" xOffset="510" yOffset="394"/>
+    <component base="acute" xOffset="510" yOffset="374"/>
     <component base="O"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

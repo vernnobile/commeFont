@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="1">
-  <advance width="608"/>
+  <advance width="628"/>
   <unicode hex="0069"/>
   <outline>
-    <component base="dotlessi" xOffset="13"/>
-    <component base="dotaccent" xOffset="36"/>
+    <contour>
+      <point x="328" y="1082" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="321" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="185" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="1082" type="line"/>
+      <point x="185" y="1082" type="line"/>
+    </contour>
+    <component base="dotaccent" xOffset="50"/>
   </outline>
   <lib>
     <dict>

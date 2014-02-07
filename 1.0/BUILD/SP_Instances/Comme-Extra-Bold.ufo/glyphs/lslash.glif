@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="1">
-  <advance width="724"/>
+  <advance width="790"/>
   <unicode hex="0142"/>
   <outline>
-    <component base="slashbar" xOffset="-151" yOffset="162"/>
+    <component base="slashbar" xOffset="-57" yOffset="249"/>
     <component base="l"/>
   </outline>
   <lib>

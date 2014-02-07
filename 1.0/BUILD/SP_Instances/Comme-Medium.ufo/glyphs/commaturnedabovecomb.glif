@@ -7,15 +7,15 @@
       <point x="295" y="1069" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="187" y="1302" type="curve"/>
-      <point x="182" y="1281" type="line"/>
-      <point x="399" y="1281" type="line"/>
-      <point x="399" y="1337"/>
-      <point x="438" y="1785"/>
-      <point x="438" y="1785" type="curve"/>
+      <point x="182" y="1280" type="line"/>
+      <point x="400" y="1280" type="line"/>
+      <point x="400" y="1336"/>
+      <point x="439" y="1785"/>
+      <point x="439" y="1785" type="curve"/>
       <point x="300" y="1785" type="line"/>
       <point x="300" y="1785"/>
       <point x="187" y="1339"/>
+      <point x="187" y="1301" type="curve"/>
     </contour>
   </outline>
   <lib>

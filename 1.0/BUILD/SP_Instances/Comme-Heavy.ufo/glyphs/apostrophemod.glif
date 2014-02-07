@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="apostrophemod" format="1">
-  <advance width="651"/>
+  <advance width="652"/>
   <unicode hex="02BC"/>
   <outline>
     <contour>
-      <point x="28" y="1074" type="curve"/>
-      <point x="306" y="1074" type="line"/>
-      <point x="306" y="1074"/>
-      <point x="357" y="1337"/>
-      <point x="396" y="1554" type="curve"/>
-      <point x="75" y="1554" type="line"/>
-      <point x="63" y="1444"/>
-      <point x="28" y="1074"/>
+      <point x="11" y="1058" type="curve"/>
+      <point x="316" y="1058" type="line"/>
+      <point x="316" y="1058"/>
+      <point x="358" y="1304"/>
+      <point x="402" y="1547" type="curve"/>
+      <point x="54" y="1547" type="line"/>
+      <point x="41" y="1424"/>
+      <point x="11" y="1058"/>
     </contour>
   </outline>
   <lib>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2219" format="1">
-  <advance width="602"/>
+  <advance width="556"/>
   <unicode hex="2219"/>
   <outline>
-    <component base="periodcentered" xOffset="537"/>
+    <component base="periodcentered" xOffset="355"/>
   </outline>
   <lib>
     <dict>
@@ -12,22 +12,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>uni2219</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>653</integer>
         </dict>
@@ -40,8 +35,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

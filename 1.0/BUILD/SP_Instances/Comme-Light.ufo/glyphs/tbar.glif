@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar" format="1">
-  <advance width="788"/>
+  <advance width="784"/>
   <unicode hex="0167"/>
   <outline>
-    <component base="macron" xOffset="-191" yOffset="-798"/>
+    <component base="macron" xOffset="-199" yOffset="-784"/>
     <component base="t"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

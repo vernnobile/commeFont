@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohungarumlaut" format="1">
-  <advance width="1218"/>
+  <advance width="1215"/>
   <unicode hex="0151"/>
   <outline>
-    <component base="hungarumlaut" xOffset="280" yOffset="20"/>
+    <component base="hungarumlaut" xOffset="309" yOffset="10"/>
     <component base="o"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

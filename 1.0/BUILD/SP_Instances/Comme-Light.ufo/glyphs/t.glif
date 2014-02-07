@@ -4,43 +4,39 @@
   <unicode hex="0074"/>
   <outline>
     <contour>
-      <point x="315" y="1358" type="move" name="top"/>
+      <point x="550" y="-9" type="curve" smooth="yes"/>
+      <point x="587" y="-9"/>
+      <point x="671" y="-4"/>
+      <point x="671" y="-4" type="curve"/>
+      <point x="676" y="96" type="line"/>
+      <point x="676" y="96"/>
+      <point x="583" y="95"/>
+      <point x="555" y="95" type="curve" smooth="yes"/>
+      <point x="415" y="99"/>
+      <point x="381" y="135"/>
+      <point x="381" y="305" type="curve" smooth="yes"/>
+      <point x="381" y="994" type="line"/>
+      <point x="685" y="994" type="line"/>
+      <point x="685" y="1082" type="line"/>
+      <point x="381" y="1082" type="line"/>
+      <point x="381" y="1375" type="line"/>
+      <point x="258" y="1365" type="line"/>
+      <point x="236" y="1082" type="line"/>
+      <point x="74" y="1072" type="line"/>
+      <point x="72" y="994" type="line"/>
+      <point x="233" y="994" type="line"/>
+      <point x="233" y="302" type="line" smooth="yes"/>
+      <point x="233" y="69"/>
+      <point x="307" y="-9"/>
     </contour>
     <contour>
-      <point x="463" y="0" type="move" name="bot"/>
+      <point x="313" y="1332" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="358" y="614" type="move" name="mid"/>
+      <point x="458" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="563" y="-8" type="curve" smooth="yes"/>
-      <point x="583" y="-8"/>
-      <point x="665" y="-6"/>
-      <point x="665" y="-6" type="curve"/>
-      <point x="671" y="99" type="line"/>
-      <point x="671" y="99"/>
-      <point x="575" y="100"/>
-      <point x="560" y="100" type="curve" smooth="yes"/>
-      <point x="407" y="105"/>
-      <point x="385" y="138"/>
-      <point x="385" y="312" type="curve" smooth="yes"/>
-      <point x="385" y="1027" type="line"/>
-      <point x="352" y="990" type="line"/>
-      <point x="681" y="990" type="line"/>
-      <point x="681" y="1082" type="line"/>
-      <point x="353" y="1082" type="line"/>
-      <point x="385" y="1048" type="line"/>
-      <point x="385" y="1378" type="line"/>
-      <point x="263" y="1368" type="line"/>
-      <point x="236" y="1055" type="line"/>
-      <point x="266" y="1083" type="line"/>
-      <point x="71" y="1073" type="line"/>
-      <point x="69" y="990" type="line"/>
-      <point x="265" y="990" type="line"/>
-      <point x="235" y="1026" type="line"/>
-      <point x="235" y="311" type="line" smooth="yes"/>
-      <point x="235" y="67"/>
-      <point x="296" y="-8"/>
+      <point x="358" y="629" type="move" name="mid"/>
     </contour>
   </outline>
   <lib>
@@ -73,8 +69,7 @@
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -83,8 +78,7 @@
         <integer>480</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

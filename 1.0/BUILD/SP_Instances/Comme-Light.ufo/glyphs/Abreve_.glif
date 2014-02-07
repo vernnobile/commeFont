@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abreve" format="1">
-  <advance width="1358"/>
+  <advance width="1363"/>
   <unicode hex="0102"/>
   <outline>
     <component base="A"/>
-    <component base="breve" xOffset="260" yOffset="394"/>
+    <component base="breve" xOffset="259" yOffset="384"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

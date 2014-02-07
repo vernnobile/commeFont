@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wgrave" format="1">
-  <advance width="1518"/>
+  <advance width="1517"/>
   <unicode hex="1E81"/>
   <outline>
+    <component base="grave" xOffset="313" yOffset="22"/>
     <component base="w"/>
-    <component base="grave" xOffset="307" yOffset="20"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

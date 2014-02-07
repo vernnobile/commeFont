@@ -3,7 +3,7 @@
   <advance width="613"/>
   <outline>
     <contour>
-      <point x="313" y="637" type="move" name="_mid"/>
+      <point x="313" y="638" type="move" name="_mid"/>
     </contour>
     <component base="period" xOffset="-14" yOffset="512"/>
   </outline>

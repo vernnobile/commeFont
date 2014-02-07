@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0201" format="1">
-  <advance width="1141"/>
+  <advance width="1125"/>
   <unicode hex="0201"/>
   <outline>
     <component base="a"/>
-    <component base="dblgravecomb" xOffset="68" yOffset="16"/>
+    <component base="dblgravecomb" xOffset="74" yOffset="16"/>
   </outline>
   <lib>
     <dict>

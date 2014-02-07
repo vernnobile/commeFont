@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="perthousand" format="1">
-  <advance width="2516"/>
+  <advance width="2522"/>
   <unicode hex="2030"/>
   <outline>
     <contour>
-      <point x="2046" y="111" type="curve" smooth="yes"/>
-      <point x="1901" y="111"/>
-      <point x="1858" y="227"/>
-      <point x="1858" y="382" type="curve" smooth="yes"/>
-      <point x="1858" y="533"/>
-      <point x="1901" y="649"/>
-      <point x="2046" y="649" type="curve" smooth="yes"/>
-      <point x="2189" y="649"/>
-      <point x="2231" y="539"/>
-      <point x="2231" y="382" type="curve" smooth="yes"/>
-      <point x="2231" y="231"/>
-      <point x="2190" y="111"/>
+      <point x="2053" y="112" type="curve" smooth="yes"/>
+      <point x="1908" y="112"/>
+      <point x="1865" y="228"/>
+      <point x="1865" y="382" type="curve" smooth="yes"/>
+      <point x="1865" y="533"/>
+      <point x="1908" y="648"/>
+      <point x="2053" y="648" type="curve" smooth="yes"/>
+      <point x="2196" y="648"/>
+      <point x="2238" y="539"/>
+      <point x="2238" y="382" type="curve" smooth="yes"/>
+      <point x="2238" y="231"/>
+      <point x="2197" y="112"/>
     </contour>
     <contour>
-      <point x="2044" y="-11" type="curve" smooth="yes"/>
-      <point x="2275" y="-11"/>
-      <point x="2377" y="160"/>
-      <point x="2377" y="381" type="curve" smooth="yes"/>
-      <point x="2377" y="605"/>
-      <point x="2278" y="770"/>
-      <point x="2044" y="770" type="curve" smooth="yes"/>
-      <point x="1815" y="770"/>
-      <point x="1712" y="601"/>
-      <point x="1712" y="381" type="curve" smooth="yes"/>
-      <point x="1712" y="160"/>
-      <point x="1811" y="-11"/>
+      <point x="2050" y="-11" type="curve" smooth="yes"/>
+      <point x="2282" y="-11"/>
+      <point x="2385" y="160"/>
+      <point x="2385" y="381" type="curve" smooth="yes"/>
+      <point x="2385" y="605"/>
+      <point x="2285" y="770"/>
+      <point x="2050" y="770" type="curve" smooth="yes"/>
+      <point x="1821" y="770"/>
+      <point x="1717" y="601"/>
+      <point x="1717" y="381" type="curve" smooth="yes"/>
+      <point x="1717" y="160"/>
+      <point x="1817" y="-11"/>
     </contour>
     <component base="percent" xOffset="21"/>
   </outline>

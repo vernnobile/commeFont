@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icircumflex" format="1">
-  <advance width="994"/>
+  <advance width="1034"/>
   <unicode hex="00CE"/>
   <outline>
     <component base="I"/>
-    <component base="circumflex" xOffset="71" yOffset="374"/>
+    <component base="circumflex" xOffset="74" yOffset="374"/>
   </outline>
   <lib>
     <dict>

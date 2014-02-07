@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="1">
-  <advance width="587"/>
+  <advance width="583"/>
   <unicode hex="006A"/>
   <outline>
-    <component base="dotlessj" xOffset="-2"/>
-    <component base="dotaccent" xOffset="93"/>
+    <contour>
+      <point x="47" y="-392" type="line"/>
+      <point x="109" y="-382" type="line"/>
+      <point x="330" y="-348"/>
+      <point x="417" y="-274"/>
+      <point x="417" y="-12" type="curve" smooth="yes"/>
+      <point x="417" y="1082" type="line"/>
+      <point x="238" y="1082" type="line"/>
+      <point x="238" y="21" type="line" smooth="yes"/>
+      <point x="238" y="-166"/>
+      <point x="234" y="-205"/>
+      <point x="83" y="-237" type="curve" smooth="yes"/>
+      <point x="19" y="-252" type="line"/>
+    </contour>
+    <component base="dotaccent" xOffset="94"/>
   </outline>
   <lib>
     <dict>

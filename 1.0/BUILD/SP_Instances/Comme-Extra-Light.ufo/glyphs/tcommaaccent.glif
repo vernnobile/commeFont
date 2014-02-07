@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcommaaccent" format="1">
-  <advance width="777"/>
-  <unicode hex="0163"/>
+  <advance width="778"/>
+  <unicode hex="021B"/>
   <outline>
     <component base="commaaccent" xOffset="124"/>
     <component base="t"/>

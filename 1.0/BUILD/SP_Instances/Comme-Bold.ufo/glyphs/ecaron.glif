@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecaron" format="1">
-  <advance width="1192"/>
+  <advance width="1196"/>
   <unicode hex="011B"/>
   <outline>
     <component base="caron" xOffset="158"/>

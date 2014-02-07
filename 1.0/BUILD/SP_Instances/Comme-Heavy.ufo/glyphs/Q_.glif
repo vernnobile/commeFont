@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="1">
-  <advance width="1682"/>
+  <advance width="1699"/>
   <unicode hex="0051"/>
   <outline>
     <contour>
-      <point x="726" y="101" type="line"/>
-      <point x="766" y="-28"/>
-      <point x="1063" y="-394"/>
-      <point x="1270" y="-565" type="curve"/>
-      <point x="1543" y="-333" type="line"/>
-      <point x="1341" y="-161"/>
-      <point x="1231" y="-36"/>
-      <point x="1114" y="146" type="curve"/>
+      <point x="1291" y="-590" type="curve"/>
+      <point x="1594" y="-329" type="line"/>
+      <point x="1377" y="-148"/>
+      <point x="1270" y="-35"/>
+      <point x="1139" y="162" type="curve"/>
+      <point x="706" y="114" type="line"/>
+      <point x="742" y="-15"/>
+      <point x="1066" y="-407"/>
     </contour>
     <component base="O"/>
   </outline>

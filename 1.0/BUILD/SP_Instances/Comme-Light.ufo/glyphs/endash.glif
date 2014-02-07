@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="endash" format="1">
-  <advance width="1332"/>
+  <advance width="1322"/>
   <unicode hex="2013"/>
   <outline>
     <contour>
-      <point x="87" y="541" type="line"/>
-      <point x="1246" y="541" type="line"/>
-      <point x="1246" y="656" type="line"/>
-      <point x="87" y="656" type="line"/>
+      <point x="109" y="553" type="line"/>
+      <point x="1213" y="553" type="line"/>
+      <point x="1213" y="660" type="line"/>
+      <point x="109" y="660" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -23,8 +22,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

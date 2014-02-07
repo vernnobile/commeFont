@@ -4,12 +4,12 @@
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="423" y="592" type="move" name="_mid"/>
+      <point x="423" y="591" type="move" name="_mid"/>
     </contour>
     <contour>
-      <point x="166" y="504" type="line"/>
-      <point x="710" y="504" type="line"/>
-      <point x="710" y="662" type="line"/>
+      <point x="166" y="505" type="line"/>
+      <point x="711" y="505" type="line"/>
+      <point x="711" y="662" type="line"/>
       <point x="166" y="662" type="line"/>
     </contour>
   </outline>

@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="radical" format="1">
-  <advance width="1313"/>
+  <advance width="1330"/>
   <unicode hex="221A"/>
   <outline>
     <contour>
-      <point x="1034" y="1613" type="line"/>
-      <point x="990" y="1427"/>
-      <point x="664" y="330"/>
-      <point x="620" y="144" type="curve"/>
-      <point x="548" y="365" type="line"/>
-      <point x="346" y="945" type="line"/>
-      <point x="25" y="854" type="line"/>
-      <point x="51" y="730" type="line"/>
-      <point x="194" y="768" type="line"/>
-      <point x="535" y="-166" type="line"/>
-      <point x="787" y="-166" type="line"/>
-      <point x="1281" y="1613" type="line"/>
+      <point x="535" y="-167" type="line"/>
+      <point x="798" y="-167" type="line"/>
+      <point x="1299" y="1602" type="line"/>
+      <point x="1088" y="1602"/>
+      <point x="1039" y="1605"/>
+      <point x="1039" y="1605" type="curve"/>
+      <point x="990" y="1411"/>
+      <point x="674" y="356"/>
+      <point x="622" y="151" type="curve"/>
+      <point x="587" y="267"/>
+      <point x="450" y="657"/>
+      <point x="350" y="950" type="curve"/>
+      <point x="23" y="856" type="line"/>
+      <point x="49" y="732" type="line"/>
+      <point x="192" y="771" type="line"/>
     </contour>
   </outline>
   <lib>

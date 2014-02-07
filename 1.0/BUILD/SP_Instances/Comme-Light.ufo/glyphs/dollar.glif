@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar" format="1">
-  <advance width="1215"/>
+  <advance width="1210"/>
   <unicode hex="0024"/>
   <outline>
     <contour>
-      <point x="573" y="1754" type="line"/>
-      <point x="559" y="1430" type="line"/>
-      <point x="684" y="1430" type="line"/>
-      <point x="684" y="1754" type="line"/>
+      <point x="562" y="-311" type="line"/>
+      <point x="661" y="-311" type="line"/>
+      <point x="671" y="29" type="line"/>
+      <point x="562" y="29" type="line"/>
     </contour>
     <contour>
-      <point x="555" y="34" type="line"/>
-      <point x="555" y="-305" type="line"/>
-      <point x="661" y="-305" type="line"/>
-      <point x="676" y="34" type="line"/>
+      <point x="566" y="1434" type="line"/>
+      <point x="679" y="1434" type="line"/>
+      <point x="679" y="1744" type="line"/>
+      <point x="577" y="1744" type="line"/>
     </contour>
     <component base="S"/>
   </outline>
@@ -24,22 +24,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>dollar</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1221</integer>
         </dict>
@@ -52,8 +47,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

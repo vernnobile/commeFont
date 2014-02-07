@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="1">
-  <advance width="626"/>
+  <advance width="612"/>
   <unicode hex="0142"/>
   <outline>
-    <component base="slashbar" xOffset="-168" yOffset="63"/>
+    <component base="slashbar" xOffset="-134" yOffset="56"/>
     <component base="l"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

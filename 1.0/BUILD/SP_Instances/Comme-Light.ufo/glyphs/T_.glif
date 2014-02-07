@@ -1,35 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="1133"/>
+  <advance width="1139"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="569" y="1456" type="move" name="top"/>
+      <point x="490" y="-1" type="line"/>
+      <point x="644" y="-1" type="line"/>
+      <point x="644" y="1339" type="line"/>
+      <point x="1114" y="1339" type="line"/>
+      <point x="1114" y="1456" type="line"/>
+      <point x="25" y="1456" type="line"/>
+      <point x="25" y="1339" type="line"/>
+      <point x="490" y="1339" type="line"/>
     </contour>
     <contour>
-      <point x="570" y="0" type="move" name="bot"/>
+      <point x="572" y="1456" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="569" y="768" type="move" name="mid"/>
+      <point x="572" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="13" y="1456" type="line"/>
-      <point x="13" y="1335" type="line"/>
-      <point x="537" y="1335" type="line"/>
-      <point x="486" y="1393" type="line"/>
-      <point x="486" y="0" type="line"/>
-      <point x="644" y="0" type="line"/>
-      <point x="644" y="1396" type="line"/>
-      <point x="590" y="1335" type="line"/>
-      <point x="1120" y="1335" type="line"/>
-      <point x="1120" y="1456" type="line"/>
+      <point x="570" y="757" type="move" name="mid"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -38,8 +35,7 @@
         <integer>844</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

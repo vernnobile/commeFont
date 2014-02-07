@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lacute" format="1">
-  <advance width="1084"/>
+  <advance width="1081"/>
   <unicode hex="0139"/>
   <outline>
-    <component base="acute" xOffset="308" yOffset="402"/>
     <component base="L"/>
+    <component base="acute" xOffset="300" yOffset="373"/>
   </outline>
   <lib>
     <dict>

@@ -1,55 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="1">
-  <advance width="1727"/>
+  <advance width="1698"/>
   <unicode hex="00BC"/>
   <outline>
     <contour>
-      <point x="131" y="611" type="line"/>
-      <point x="548" y="611" type="line"/>
-      <point x="548" y="712" type="line"/>
-      <point x="408" y="712" type="line"/>
-      <point x="408" y="1483" type="line"/>
-      <point x="307" y="1483" type="line"/>
-      <point x="264" y="1443"/>
-      <point x="158" y="1396"/>
-      <point x="122" y="1381" type="curve"/>
-      <point x="122" y="1278" type="line"/>
-      <point x="156" y="1293"/>
-      <point x="245" y="1328"/>
-      <point x="282" y="1353" type="curve"/>
-      <point x="282" y="712" type="line"/>
-      <point x="131" y="712" type="line"/>
+      <point x="126" y="629" type="line"/>
+      <point x="540" y="629" type="line"/>
+      <point x="540" y="722" type="line"/>
+      <point x="399" y="722" type="line"/>
+      <point x="399" y="1492" type="line"/>
+      <point x="303" y="1492" type="line"/>
+      <point x="261" y="1451"/>
+      <point x="159" y="1407"/>
+      <point x="117" y="1390" type="curve"/>
+      <point x="117" y="1294" type="line"/>
+      <point x="155" y="1309"/>
+      <point x="244" y="1345"/>
+      <point x="281" y="1369" type="curve"/>
+      <point x="281" y="722" type="line"/>
+      <point x="126" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="1392" y="0" type="line"/>
-      <point x="1508" y="0" type="line"/>
-      <point x="1508" y="197" type="line"/>
-      <point x="1631" y="197" type="line"/>
-      <point x="1624" y="292" type="line"/>
-      <point x="1510" y="292" type="line"/>
-      <point x="1510" y="851" type="line"/>
-      <point x="1382" y="851" type="line"/>
-      <point x="989" y="280" type="line"/>
-      <point x="989" y="197" type="line"/>
-      <point x="1392" y="197" type="line"/>
+      <point x="1385" y="0" type="line"/>
+      <point x="1494" y="0" type="line"/>
+      <point x="1494" y="201" type="line"/>
+      <point x="1617" y="201" type="line"/>
+      <point x="1611" y="290" type="line"/>
+      <point x="1496" y="290" type="line"/>
+      <point x="1496" y="847" type="line"/>
+      <point x="1375" y="847" type="line"/>
+      <point x="986" y="279" type="line"/>
+      <point x="986" y="201" type="line"/>
+      <point x="1385" y="201" type="line"/>
     </contour>
     <contour>
-      <point x="386" y="0" type="line"/>
-      <point x="506" y="0" type="line"/>
-      <point x="1406" y="1486" type="line"/>
-      <point x="1286" y="1486" type="line"/>
+      <point x="382" y="0" type="line"/>
+      <point x="499" y="0" type="line"/>
+      <point x="1397" y="1497" type="line"/>
+      <point x="1281" y="1497" type="line"/>
     </contour>
     <contour>
-      <point x="1117" y="292" type="line"/>
-      <point x="1392" y="700" type="line"/>
-      <point x="1392" y="292" type="line"/>
+      <point x="1106" y="290" type="line"/>
+      <point x="1385" y="707" type="line"/>
+      <point x="1385" y="290" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -58,8 +57,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

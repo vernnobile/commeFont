@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eng" format="1">
-  <advance width="1528"/>
+  <advance width="1533"/>
   <unicode hex="014A"/>
   <outline>
     <contour>
-      <point x="1212" y="714" type="line"/>
-      <point x="1212" y="-17" type="line"/>
-      <point x="1212" y="-252"/>
-      <point x="1141" y="-332"/>
-      <point x="766" y="-332" type="curve"/>
-      <point x="773" y="-425" type="line"/>
-      <point x="1205" y="-425"/>
-      <point x="1315" y="-302"/>
-      <point x="1315" y="-30" type="curve"/>
-      <point x="1315" y="714" type="line"/>
+      <point x="1320" y="1455" type="line"/>
+      <point x="1214" y="1455" type="line"/>
+      <point x="1214" y="535" type="line"/>
+      <point x="1222" y="158" type="line"/>
+      <point x="330" y="1455" type="line"/>
+      <point x="216" y="1455" type="line"/>
+      <point x="216" y="0" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="324" y="911" type="line"/>
+      <point x="312" y="1296" type="line"/>
+      <point x="1214" y="-11" type="line"/>
+      <point x="1215" y="-255"/>
+      <point x="1149" y="-336"/>
+      <point x="771" y="-336" type="curve"/>
+      <point x="780" y="-427" type="line"/>
+      <point x="1221" y="-426"/>
+      <point x="1320" y="-293"/>
+      <point x="1320" y="-35" type="curve" smooth="yes"/>
     </contour>
-    <component base="N"/>
   </outline>
   <lib>
     <dict>

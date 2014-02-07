@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brokenbar" format="1">
-  <advance width="534"/>
+  <advance width="440"/>
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="212" y="551" type="line"/>
-      <point x="212" y="-192" type="line"/>
-      <point x="324" y="-192" type="line"/>
-      <point x="324" y="551" type="line"/>
+      <point x="164" y="-187" type="line"/>
+      <point x="271" y="-187" type="line"/>
+      <point x="271" y="535" type="line"/>
+      <point x="164" y="535" type="line"/>
     </contour>
     <contour>
-      <point x="212" y="1557" type="line"/>
-      <point x="212" y="817" type="line"/>
-      <point x="324" y="817" type="line"/>
-      <point x="324" y="1557" type="line"/>
+      <point x="164" y="806" type="line"/>
+      <point x="271" y="806" type="line"/>
+      <point x="271" y="1524" type="line"/>
+      <point x="164" y="1524" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,22 +23,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>brokenbar</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>653</integer>
         </dict>
@@ -51,8 +46,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

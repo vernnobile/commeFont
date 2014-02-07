@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="1">
-  <advance width="1090"/>
+  <advance width="1094"/>
   <unicode hex="0141"/>
   <outline>
-    <component base="slashbar" xOffset="-136" yOffset="-5"/>
+    <component base="slashbar" xOffset="-106" yOffset="-18"/>
     <component base="L"/>
   </outline>
   <lib>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>Lslash</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1093</integer>
         </dict>
@@ -41,8 +36,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

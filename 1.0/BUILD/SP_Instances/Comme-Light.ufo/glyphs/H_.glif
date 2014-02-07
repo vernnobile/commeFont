@@ -1,35 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="1526"/>
+  <advance width="1521"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="774" y="1456" type="move" name="top"/>
+      <point x="211" y="-1" type="line"/>
+      <point x="365" y="-1" type="line"/>
+      <point x="365" y="691" type="line"/>
+      <point x="1156" y="691" type="line"/>
+      <point x="1156" y="-1" type="line"/>
+      <point x="1310" y="-1" type="line"/>
+      <point x="1310" y="1456" type="line"/>
+      <point x="1156" y="1456" type="line"/>
+      <point x="1156" y="806" type="line"/>
+      <point x="365" y="806" type="line"/>
+      <point x="365" y="1456" type="line"/>
+      <point x="211" y="1456" type="line"/>
     </contour>
     <contour>
-      <point x="1156" y="1456" type="line"/>
-      <point x="1156" y="774" type="line"/>
-      <point x="1207" y="811" type="line"/>
-      <point x="308" y="811" type="line"/>
-      <point x="370" y="774" type="line"/>
-      <point x="370" y="1456" type="line"/>
-      <point x="212" y="1456" type="line"/>
-      <point x="212" y="0" type="line"/>
-      <point x="370" y="0" type="line"/>
-      <point x="370" y="727" type="line"/>
-      <point x="312" y="686" type="line"/>
-      <point x="1208" y="686" type="line"/>
-      <point x="1156" y="727" type="line"/>
-      <point x="1156" y="0" type="line"/>
-      <point x="1314" y="0" type="line"/>
-      <point x="1314" y="1456" type="line"/>
+      <point x="769" y="1456" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -38,8 +33,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C5" format="1">
-  <advance width="2492"/>
+  <advance width="2476"/>
   <unicode hex="01C5"/>
   <outline>
-    <component base="caron" xOffset="1513"/>
-    <component base="z" xOffset="1501"/>
+    <component base="caron" xOffset="314" yOffset="374"/>
+    <component base="z" xOffset="1510"/>
     <component base="D"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -20,8 +19,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

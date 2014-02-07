@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yen" format="1">
-  <advance width="1337"/>
+  <advance width="1311"/>
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="263" y="272" type="line"/>
-      <point x="1057" y="272" type="line"/>
-      <point x="1057" y="370" type="line"/>
-      <point x="263" y="370" type="line"/>
+      <point x="257" y="284" type="line"/>
+      <point x="1045" y="284" type="line"/>
+      <point x="1045" y="375" type="line"/>
+      <point x="257" y="375" type="line"/>
     </contour>
     <contour>
-      <point x="263" y="531" type="line"/>
-      <point x="1057" y="531" type="line"/>
-      <point x="1057" y="629" type="line"/>
-      <point x="263" y="629" type="line"/>
+      <point x="257" y="555" type="line"/>
+      <point x="1045" y="555" type="line"/>
+      <point x="1045" y="647" type="line"/>
+      <point x="257" y="647" type="line"/>
     </contour>
     <component base="Y"/>
   </outline>
@@ -24,22 +24,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>yen</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1366</integer>
         </dict>
@@ -52,8 +47,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -13,24 +13,19 @@
       <point x="661" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="610" y="1455" type="line"/>
-      <point x="55" y="0" type="line"/>
-      <point x="175" y="0" type="line"/>
-      <point x="378" y="535" type="line"/>
-      <point x="325" y="494" type="line"/>
-      <point x="1010" y="494" type="line"/>
-      <point x="954" y="532" type="line"/>
-      <point x="1153" y="0" type="line"/>
+      <point x="54" y="0" type="line"/>
+      <point x="177" y="0" type="line"/>
+      <point x="365" y="494" type="line"/>
+      <point x="966" y="494" type="line"/>
+      <point x="1151" y="0" type="line"/>
       <point x="1268" y="0" type="line"/>
-      <point x="711" y="1455" type="line"/>
+      <point x="714" y="1455" type="line"/>
+      <point x="607" y="1455" type="line"/>
     </contour>
     <contour>
-      <point x="635" y="1384" type="line"/>
-      <point x="950" y="546" type="line"/>
-      <point x="986" y="584" type="line"/>
-      <point x="352" y="584" type="line"/>
-      <point x="382" y="549" type="line"/>
-      <point x="685" y="1384" type="line"/>
+      <point x="397" y="584" type="line"/>
+      <point x="660" y="1316" type="line"/>
+      <point x="934" y="584" type="line"/>
     </contour>
   </outline>
   <lib>

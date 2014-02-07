@@ -3,8 +3,8 @@
   <advance width="1513"/>
   <unicode hex="1E81"/>
   <outline>
+    <component base="grave" xOffset="331" yOffset="25"/>
     <component base="w"/>
-    <component base="grave" xOffset="332" yOffset="25"/>
   </outline>
   <lib>
     <dict>

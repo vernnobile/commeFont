@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wacute" format="1">
-  <advance width="2028"/>
+  <advance width="2086"/>
   <unicode hex="1E82"/>
   <outline>
-    <component base="acute" xOffset="474" yOffset="371"/>
+    <component base="acute" xOffset="464" yOffset="374"/>
     <component base="W"/>
   </outline>
   <lib>

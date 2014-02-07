@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcommaaccent" format="1">
-  <advance width="648"/>
+  <advance width="640"/>
   <unicode hex="013C"/>
   <outline>
     <component base="commaaccent"/>
@@ -9,11 +9,9 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="1">
-  <advance width="1135"/>
+  <advance width="1117"/>
   <unicode hex="00F7"/>
   <outline>
     <contour>
-      <point x="95" y="638" type="line"/>
-      <point x="95" y="509" type="line"/>
-      <point x="1033" y="509" type="line"/>
-      <point x="1033" y="638" type="line"/>
+      <point x="466" y="35" type="line"/>
+      <point x="640" y="35" type="line"/>
+      <point x="640" y="223" type="line"/>
+      <point x="466" y="223" type="line"/>
     </contour>
     <contour>
-      <point x="475" y="228" type="line"/>
-      <point x="475" y="34" type="line"/>
-      <point x="654" y="34" type="line"/>
-      <point x="654" y="228" type="line"/>
+      <point x="85" y="509" type="line"/>
+      <point x="1020" y="509" type="line"/>
+      <point x="1020" y="634" type="line"/>
+      <point x="85" y="634" type="line"/>
     </contour>
     <contour>
-      <point x="475" y="1084" type="line"/>
-      <point x="475" y="893" type="line"/>
-      <point x="656" y="893" type="line"/>
-      <point x="656" y="1084" type="line"/>
+      <point x="466" y="893" type="line"/>
+      <point x="642" y="893" type="line"/>
+      <point x="642" y="1079" type="line"/>
+      <point x="466" y="1079" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -35,8 +34,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

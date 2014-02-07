@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="1">
-  <advance width="911"/>
+  <advance width="913"/>
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="445" y="570" type="move" name="_mid"/>
+      <point x="446" y="568" type="move" name="_mid"/>
     </contour>
     <contour>
-      <point x="158" y="474" type="line"/>
-      <point x="753" y="474" type="line"/>
-      <point x="753" y="656" type="line"/>
-      <point x="158" y="656" type="line"/>
+      <point x="157" y="474" type="line"/>
+      <point x="756" y="474" type="line"/>
+      <point x="756" y="656" type="line"/>
+      <point x="157" y="656" type="line"/>
     </contour>
   </outline>
   <lib>

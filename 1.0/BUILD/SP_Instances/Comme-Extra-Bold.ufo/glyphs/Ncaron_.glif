@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncaron" format="1">
-  <advance width="1643"/>
+  <advance width="1665"/>
   <unicode hex="0147"/>
   <outline>
-    <component base="caron" xOffset="292" yOffset="374"/>
+    <component base="caron" xOffset="299" yOffset="374"/>
     <component base="N"/>
   </outline>
   <lib>

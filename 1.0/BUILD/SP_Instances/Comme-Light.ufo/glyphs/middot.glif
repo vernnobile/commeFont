@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="middot" format="1">
-  <advance width="560"/>
+  <advance width="528"/>
   <outline>
+    <component base="period" xOffset="-14" yOffset="541"/>
     <contour>
-      <point x="293" y="627" type="move" name="_mid"/>
+      <point x="273" y="633" type="move" name="_mid"/>
     </contour>
-    <component base="period" xOffset="-6" yOffset="528"/>
   </outline>
   <lib>
     <dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

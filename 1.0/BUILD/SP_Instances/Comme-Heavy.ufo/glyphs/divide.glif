@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="1">
-  <advance width="1304"/>
+  <advance width="1330"/>
   <unicode hex="00F7"/>
   <outline>
     <contour>
-      <point x="76" y="719" type="line"/>
-      <point x="76" y="485" type="line"/>
-      <point x="1196" y="485" type="line"/>
-      <point x="1196" y="719" type="line"/>
+      <point x="475" y="12" type="line"/>
+      <point x="817" y="12" type="line"/>
+      <point x="817" y="354" type="line"/>
+      <point x="475" y="354" type="line"/>
     </contour>
     <contour>
-      <point x="477" y="336" type="line"/>
-      <point x="477" y="15" type="line"/>
-      <point x="795" y="15" type="line"/>
-      <point x="795" y="336" type="line"/>
+      <point x="71" y="481" type="line"/>
+      <point x="1222" y="481" type="line"/>
+      <point x="1222" y="733" type="line"/>
+      <point x="71" y="733" type="line"/>
     </contour>
     <contour>
-      <point x="477" y="1187" type="line"/>
-      <point x="477" y="883" type="line"/>
-      <point x="806" y="883" type="line"/>
-      <point x="806" y="1187" type="line"/>
+      <point x="475" y="881" type="line"/>
+      <point x="830" y="881" type="line"/>
+      <point x="830" y="1204" type="line"/>
+      <point x="475" y="1204" type="line"/>
     </contour>
   </outline>
   <lib>

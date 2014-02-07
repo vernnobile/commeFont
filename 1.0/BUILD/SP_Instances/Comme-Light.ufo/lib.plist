@@ -6,21 +6,23 @@
 	<dict>
 		<key>45045840-C2F8-4391-8868-007C921F4A2B</key>
 		<dict>
-		</dict>
+	</dict>
 	</dict>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<real>-8.0</real>
+		<real>-8</real>
 		<key>GSOffsetProportional</key>
 		<true/>
 		<key>GSOffsetVertical</key>
-		<real>10.0</real>
+		<real>10</real>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>45045840-C2F8-4391-8868-007C921F4A2B</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
+	<key>com.schriftgestaltung.weight</key>
+	<string>Light</string>
 	<key>com.superpolator.editor.generateInfo</key>
 	<string>Generated with LTR Superpolator version 120823_1018_beta_</string>
 	<key>com.typemytype.robofont.layerOrder</key>
@@ -658,7 +660,6 @@
 		<string>T</string>
 		<string>Tcommaaccent</string>
 		<string>Tcaron</string>
-		<string>uni021A</string>
 		<string>uni1E6A</string>
 		<string>U</string>
 		<string>Ugrave</string>
@@ -825,7 +826,6 @@
 		<string>t</string>
 		<string>tcommaaccent</string>
 		<string>tcaron</string>
-		<string>uni021B</string>
 		<string>uni1E6B</string>
 		<string>u</string>
 		<string>ugrave</string>
@@ -1004,31 +1004,18 @@
 		<string>uni00A0</string>
 		<string>uni000D</string>
 		<string>uni00AD</string>
-		<string>.notdef</string>
 		<string>middot</string>
-		<string>onesuperior</string>
-		<string>threesuperior</string>
 		<string>pi</string>
 		<string>uni2126</string>
 		<string>estimated</string>
 		<string>uni2113</string>
 		<string>uni02C9</string>
-		<string>Tcedilla</string>
-		<string>uni01c7</string>
-		<string>uni01c8</string>
-		<string>uni01ca</string>
-		<string>uni01cb</string>
 		<string>idotaccent</string>
 		<string>dotlessj</string>
 		<string>kgreenlandic</string>
-		<string>tcedilla</string>
-		<string>CR</string>
 		<string>commaaccent</string>
 		<string>apostrophemod</string>
 		<string>NULL</string>
-		<string>ff</string>
-		<string>ffi</string>
-		<string>ffl</string>
 		<string>fj</string>
 		<string>slashbar</string>
 		<string>foundryicon</string>
@@ -1038,7 +1025,6 @@
 		<string>iinvertedbreve</string>
 		<string>breveinvertedcomb</string>
 		<string>dblgravecomb</string>
-		<string>dblgravecmb</string>
 		<string>aemacron</string>
 		<string>uniFB01</string>
 		<string>uniFB02</string>

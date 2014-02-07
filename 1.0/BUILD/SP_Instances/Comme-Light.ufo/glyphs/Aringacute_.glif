@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aringacute" format="1">
-  <advance width="1358"/>
+  <advance width="1363"/>
   <unicode hex="01FA"/>
   <outline>
     <component base="A"/>
-    <component base="acute" xOffset="378" yOffset="884"/>
-    <component base="ring" xOffset="352" yOffset="403"/>
+    <component base="acute" xOffset="373" yOffset="374"/>
+    <component base="ring" xOffset="348" yOffset="384"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

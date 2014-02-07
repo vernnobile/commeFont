@@ -1,32 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="1797"/>
+  <advance width="1795"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="911" y="1456" type="move" name="top"/>
+      <point x="192" y="-1" type="line"/>
+      <point x="335" y="-1" type="line"/>
+      <point x="335" y="520" type="line"/>
+      <point x="345" y="1270" type="line"/>
+      <point x="835" y="157" type="line"/>
+      <point x="962" y="157" type="line"/>
+      <point x="1452" y="1259" type="line"/>
+      <point x="1462" y="522" type="line"/>
+      <point x="1462" y="-1" type="line"/>
+      <point x="1604" y="-1" type="line"/>
+      <point x="1604" y="524" type="line"/>
+      <point x="1582" y="1456" type="line"/>
+      <point x="1399" y="1456" type="line"/>
+      <point x="900" y="328" type="line"/>
+      <point x="403" y="1456" type="line"/>
+      <point x="212" y="1456" type="line"/>
+      <point x="192" y="523" type="line"/>
     </contour>
     <contour>
-      <point x="190" y="0" type="line"/>
-      <point x="338" y="0" type="line"/>
-      <point x="338" y="494" type="line"/>
-      <point x="348" y="1332" type="line"/>
-      <point x="321" y="1324" type="line"/>
-      <point x="831" y="160" type="line"/>
-      <point x="967" y="160" type="line"/>
-      <point x="1483" y="1323" type="line"/>
-      <point x="1451" y="1333" type="line"/>
-      <point x="1461" y="496" type="line"/>
-      <point x="1461" y="0" type="line"/>
-      <point x="1608" y="0" type="line"/>
-      <point x="1608" y="494" type="line"/>
-      <point x="1585" y="1456" type="line"/>
-      <point x="1394" y="1456" type="line"/>
-      <point x="880" y="294" type="line"/>
-      <point x="920" y="294" type="line"/>
-      <point x="410" y="1456" type="line"/>
-      <point x="212" y="1456" type="line"/>
-      <point x="190" y="494" type="line"/>
+      <point x="906" y="1456" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -89,8 +86,7 @@
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -99,8 +95,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

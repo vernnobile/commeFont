@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plusminus" format="1">
-  <advance width="1143"/>
+  <advance width="1149"/>
   <unicode hex="00B1"/>
   <outline>
     <contour>
-      <point x="506" y="1102" type="line"/>
-      <point x="506" y="711" type="line"/>
-      <point x="131" y="711" type="line"/>
-      <point x="131" y="606" type="line"/>
-      <point x="506" y="606" type="line"/>
-      <point x="506" y="204" type="line"/>
-      <point x="620" y="204" type="line"/>
-      <point x="620" y="606" type="line"/>
-      <point x="987" y="606" type="line"/>
-      <point x="987" y="711" type="line"/>
-      <point x="619" y="711" type="line"/>
-      <point x="619" y="1102" type="line"/>
+      <point x="513" y="203" type="line"/>
+      <point x="624" y="203" type="line"/>
+      <point x="624" y="604" type="line"/>
+      <point x="993" y="604" type="line"/>
+      <point x="993" y="706" type="line"/>
+      <point x="623" y="706" type="line"/>
+      <point x="623" y="1094" type="line"/>
+      <point x="513" y="1094" type="line"/>
+      <point x="513" y="706" type="line"/>
+      <point x="138" y="706" type="line"/>
+      <point x="138" y="604" type="line"/>
+      <point x="513" y="604" type="line"/>
     </contour>
     <contour>
-      <point x="107" y="107" type="line"/>
-      <point x="107" y="0" type="line"/>
-      <point x="1039" y="0" type="line"/>
-      <point x="1039" y="107" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="1045" y="0" type="line"/>
+      <point x="1045" y="102" type="line"/>
+      <point x="109" y="102" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -37,8 +36,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

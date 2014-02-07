@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scircumflex" format="1">
-  <advance width="1217"/>
+  <advance width="1242"/>
   <unicode hex="015C"/>
   <outline>
-    <component base="circumflex" xOffset="176" yOffset="374"/>
+    <component base="circumflex" xOffset="168" yOffset="385"/>
     <component base="S"/>
   </outline>
   <lib>

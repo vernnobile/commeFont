@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotleft" format="1">
-  <advance width="1063"/>
+  <advance width="1377"/>
   <unicode hex="00AB"/>
   <outline>
     <contour>
-      <point x="353" y="124" type="line"/>
-      <point x="549" y="124" type="line"/>
-      <point x="307" y="581" type="line"/>
-      <point x="553" y="1038" type="line"/>
-      <point x="354" y="1038" type="line"/>
-      <point x="25" y="578" type="line"/>
+      <point x="399" y="120" type="line"/>
+      <point x="734" y="120" type="line"/>
+      <point x="499" y="586" type="line"/>
+      <point x="738" y="1054" type="line"/>
+      <point x="399" y="1054" type="line"/>
+      <point x="147" y="583" type="line"/>
     </contour>
     <contour>
-      <point x="806" y="124" type="line"/>
-      <point x="1003" y="124" type="line"/>
-      <point x="762" y="581" type="line"/>
-      <point x="1005" y="1038" type="line"/>
-      <point x="807" y="1038" type="line"/>
-      <point x="479" y="578" type="line"/>
+      <point x="919" y="120" type="line"/>
+      <point x="1255" y="120" type="line"/>
+      <point x="1021" y="586" type="line"/>
+      <point x="1256" y="1054" type="line"/>
+      <point x="919" y="1054" type="line"/>
+      <point x="668" y="583" type="line"/>
     </contour>
   </outline>
   <lib>

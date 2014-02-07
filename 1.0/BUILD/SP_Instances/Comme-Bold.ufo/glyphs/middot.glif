@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="middot" format="1">
-  <advance width="633"/>
+  <advance width="636"/>
   <outline>
     <contour>
-      <point x="307" y="661" type="move" name="_mid"/>
+      <point x="307" y="665" type="move" name="_mid"/>
     </contour>
-    <component base="period" xOffset="-37" yOffset="509"/>
+    <component base="period" xOffset="-40" yOffset="509"/>
   </outline>
   <lib>
     <dict>

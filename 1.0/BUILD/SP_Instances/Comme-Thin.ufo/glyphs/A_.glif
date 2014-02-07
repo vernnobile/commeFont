@@ -13,24 +13,19 @@
       <point x="639" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="607" y="1455" type="line"/>
       <point x="50" y="0" type="line"/>
       <point x="141" y="0" type="line"/>
-      <point x="351" y="549" type="line"/>
-      <point x="302" y="514" type="line"/>
-      <point x="991" y="514" type="line"/>
-      <point x="940" y="547" type="line"/>
+      <point x="338" y="514" type="line"/>
+      <point x="952" y="514" type="line"/>
       <point x="1145" y="0" type="line"/>
       <point x="1227" y="0" type="line"/>
       <point x="670" y="1455" type="line"/>
+      <point x="607" y="1455" type="line"/>
     </contour>
     <contour>
-      <point x="613" y="1405" type="line"/>
-      <point x="938" y="553" type="line"/>
-      <point x="971" y="582" type="line"/>
-      <point x="325" y="582" type="line"/>
-      <point x="353" y="553" type="line"/>
-      <point x="662" y="1405" type="line"/>
+      <point x="364" y="582" type="line"/>
+      <point x="638" y="1339" type="line"/>
+      <point x="927" y="582" type="line"/>
     </contour>
   </outline>
   <lib>

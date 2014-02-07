@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
-  <advance width="1501"/>
+  <advance width="1510"/>
   <unicode hex="00D0"/>
   <outline>
-    <component base="hyphen" xOffset="-106" yOffset="161"/>
+    <component base="hyphen" xOffset="-105" yOffset="168"/>
     <component base="D"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -19,8 +18,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

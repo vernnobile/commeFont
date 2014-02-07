@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="1610"/>
+  <advance width="1624"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="816" y="1456" type="move" name="top"/>
+      <point x="822" y="1456" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="1012" y="1456" type="line"/>
-      <point x="1012" y="847" type="line"/>
-      <point x="1068" y="885" type="line"/>
-      <point x="545" y="885" type="line"/>
-      <point x="597" y="833" type="line"/>
-      <point x="597" y="1456" type="line"/>
-      <point x="161" y="1456" type="line"/>
-      <point x="161" y="-7" type="line"/>
-      <point x="597" y="-7" type="line"/>
-      <point x="597" y="650" type="line"/>
-      <point x="540" y="605" type="line"/>
-      <point x="1080" y="605" type="line"/>
-      <point x="1012" y="650" type="line"/>
-      <point x="1012" y="-7" type="line"/>
-      <point x="1449" y="-7" type="line"/>
-      <point x="1449" y="1456" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="636" y="0" type="line"/>
+      <point x="636" y="591" type="line"/>
+      <point x="986" y="591" type="line"/>
+      <point x="986" y="0" type="line"/>
+      <point x="1472" y="0" type="line"/>
+      <point x="1472" y="1456" type="line"/>
+      <point x="986" y="1456" type="line"/>
+      <point x="986" y="897" type="line"/>
+      <point x="636" y="897" type="line"/>
+      <point x="636" y="1456" type="line"/>
+      <point x="152" y="1456" type="line"/>
     </contour>
   </outline>
   <lib>

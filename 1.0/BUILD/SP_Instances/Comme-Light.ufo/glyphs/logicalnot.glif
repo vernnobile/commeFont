@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="logicalnot" format="1">
-  <advance width="1243"/>
+  <advance width="1235"/>
   <unicode hex="00AC"/>
   <outline>
     <contour>
-      <point x="106" y="799" type="line"/>
-      <point x="106" y="682" type="line"/>
-      <point x="951" y="682" type="line"/>
-      <point x="951" y="255" type="line"/>
-      <point x="1061" y="255" type="line"/>
-      <point x="1061" y="799" type="line"/>
+      <point x="958" y="257" type="line"/>
+      <point x="1063" y="257" type="line"/>
+      <point x="1063" y="797" type="line"/>
+      <point x="107" y="797" type="line"/>
+      <point x="107" y="686" type="line"/>
+      <point x="958" y="686" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.pippin.gimp.org.kernagic</key>
       <dict>
         <key>lstem</key>
@@ -25,8 +24,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -13,16 +13,14 @@
       <point x="559" y="748" type="move" name="mid"/>
     </contour>
     <contour>
-      <point x="53" y="1455" type="line"/>
-      <point x="53" y="1396" type="line"/>
-      <point x="550" y="1396" type="line"/>
-      <point x="512" y="1430" type="line"/>
       <point x="512" y="0" type="line"/>
       <point x="604" y="0" type="line"/>
-      <point x="604" y="1432" type="line"/>
-      <point x="566" y="1396" type="line"/>
-      <point x="1070" y="1396" type="line"/>
+      <point x="604" y="1383" type="line"/>
+      <point x="1070" y="1383" type="line"/>
       <point x="1070" y="1455" type="line"/>
+      <point x="53" y="1455" type="line"/>
+      <point x="53" y="1383" type="line"/>
+      <point x="512" y="1383" type="line"/>
     </contour>
   </outline>
   <lib>

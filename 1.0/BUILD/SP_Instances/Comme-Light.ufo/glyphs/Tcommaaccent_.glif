@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcommaaccent" format="1">
-  <advance width="1177"/>
-  <unicode hex="0162"/>
+  <advance width="1139"/>
+  <unicode hex="021A"/>
   <outline>
-    <component base="commaaccent" xOffset="266"/>
+    <component base="commaaccent" xOffset="249"/>
     <component base="T"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

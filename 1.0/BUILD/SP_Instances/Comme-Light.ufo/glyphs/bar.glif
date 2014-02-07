@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar" format="1">
-  <advance width="574"/>
+  <advance width="525"/>
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="216" y="1494" type="line"/>
-      <point x="216" y="-292" type="line"/>
-      <point x="345" y="-292" type="line"/>
-      <point x="345" y="1494" type="line"/>
+      <point x="198" y="-256" type="line"/>
+      <point x="322" y="-256" type="line"/>
+      <point x="322" y="1510" type="line"/>
+      <point x="198" y="1510" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,22 +17,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>bar</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>681</integer>
         </dict>
@@ -45,8 +40,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

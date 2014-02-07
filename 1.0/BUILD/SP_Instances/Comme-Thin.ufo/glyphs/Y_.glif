@@ -7,18 +7,15 @@
       <point x="604" y="1455" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="1061" y="1455" type="line"/>
-      <point x="606" y="652" type="line"/>
-      <point x="647" y="652" type="line"/>
-      <point x="144" y="1455" type="line"/>
-      <point x="66" y="1455" type="line"/>
-      <point x="622" y="549" type="line"/>
-      <point x="583" y="671" type="line"/>
-      <point x="583" y="0" type="line"/>
-      <point x="669" y="0" type="line"/>
-      <point x="669" y="668" type="line"/>
-      <point x="634" y="553" type="line"/>
+      <point x="581" y="0" type="line"/>
+      <point x="671" y="0" type="line"/>
+      <point x="671" y="615" type="line"/>
       <point x="1142" y="1455" type="line"/>
+      <point x="1055" y="1455" type="line"/>
+      <point x="625" y="686" type="line"/>
+      <point x="154" y="1455" type="line"/>
+      <point x="66" y="1455" type="line"/>
+      <point x="581" y="613" type="line"/>
     </contour>
   </outline>
   <lib>

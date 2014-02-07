@@ -32,8 +32,6 @@
 	<string>B_.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
-	<key>CR</key>
-	<string>CR_.glif</string>
 	<key>Cacute</key>
 	<string>Cacute_.glif</string>
 	<key>Ccaron</key>
@@ -208,8 +206,6 @@
 	<string>Tbar_.glif</string>
 	<key>Tcaron</key>
 	<string>Tcaron_.glif</string>
-	<key>Tcedilla</key>
-	<string>Tcedilla_.glif</string>
 	<key>Tcommaaccent</key>
 	<string>Tcommaaccent_.glif</string>
 	<key>Thorn</key>
@@ -708,8 +704,6 @@
 	<string>tbar.glif</string>
 	<key>tcaron</key>
 	<string>tcaron.glif</string>
-	<key>tcedilla</key>
-	<string>tcedilla.glif</string>
 	<key>tcommaaccent</key>
 	<string>tcommaaccent.glif</string>
 	<key>thorn</key>
@@ -816,14 +810,6 @@
 	<string>uni01F8_.glif</string>
 	<key>uni01F9</key>
 	<string>uni01F9_.glif</string>
-	<key>uni01c7</key>
-	<string>uni01c7.glif</string>
-	<key>uni01c8</key>
-	<string>uni01c8.glif</string>
-	<key>uni01ca</key>
-	<string>uni01ca.glif</string>
-	<key>uni01cb</key>
-	<string>uni01cb.glif</string>
 	<key>uni0200</key>
 	<string>uni0200.glif</string>
 	<key>uni0201</key>
@@ -868,10 +854,6 @@
 	<string>uni0216.glif</string>
 	<key>uni0217</key>
 	<string>uni0217.glif</string>
-	<key>uni021A</key>
-	<string>uni021A_.glif</string>
-	<key>uni021B</key>
-	<string>uni021B_.glif</string>
 	<key>uni021E</key>
 	<string>uni021E_.glif</string>
 	<key>uni021F</key>

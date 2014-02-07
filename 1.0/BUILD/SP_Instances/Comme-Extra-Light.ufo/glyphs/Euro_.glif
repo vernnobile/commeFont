@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Euro" format="1">
-  <advance width="1353"/>
+  <advance width="1351"/>
   <unicode hex="20AC"/>
   <outline>
     <contour>
-      <point x="-15" y="541" type="line"/>
-      <point x="881" y="541" type="line"/>
-      <point x="892" y="635" type="line"/>
-      <point x="215" y="635" type="line"/>
-      <point x="216" y="836" type="line"/>
-      <point x="892" y="836" type="line"/>
-      <point x="903" y="928" type="line"/>
-      <point x="4" y="928" type="line"/>
-      <point x="-6" y="836" type="line"/>
-      <point x="154" y="836" type="line"/>
-      <point x="153" y="635" type="line"/>
-      <point x="-4" y="635" type="line"/>
+      <point x="-11" y="555" type="line"/>
+      <point x="884" y="555" type="line"/>
+      <point x="890" y="636" type="line"/>
+      <point x="217" y="636" type="line"/>
+      <point x="217" y="837" type="line"/>
+      <point x="895" y="837" type="line"/>
+      <point x="902" y="916" type="line"/>
+      <point x="4" y="916" type="line"/>
+      <point x="-1" y="837" type="line"/>
+      <point x="154" y="837" type="line"/>
+      <point x="153" y="636" type="line"/>
+      <point x="-5" y="636" type="line"/>
     </contour>
-    <component base="C" xOffset="-31"/>
+    <component base="C" xOffset="-28"/>
   </outline>
   <lib>
     <dict>

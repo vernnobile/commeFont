@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcaron" format="1">
-  <advance width="1526"/>
+  <advance width="1482"/>
   <unicode hex="01E6"/>
   <outline>
-    <component base="caron" xOffset="416" yOffset="373"/>
+    <component base="caron" xOffset="386" yOffset="374"/>
     <component base="G"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

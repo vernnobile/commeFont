@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="1">
-  <advance width="1134"/>
+  <advance width="1158"/>
   <unicode hex="003E"/>
   <outline>
     <contour>
-      <point x="106" y="1029" type="line"/>
-      <point x="863" y="629" type="line"/>
-      <point x="104" y="268" type="line"/>
-      <point x="104" y="135" type="line"/>
-      <point x="1036" y="581" type="line"/>
-      <point x="1036" y="665" type="line"/>
-      <point x="106" y="1161" type="line"/>
+      <point x="113" y="133" type="line"/>
+      <point x="1048" y="586" type="line"/>
+      <point x="1048" y="667" type="line"/>
+      <point x="116" y="1153" type="line"/>
+      <point x="116" y="1027" type="line"/>
+      <point x="881" y="632" type="line"/>
+      <point x="113" y="259" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,22 +20,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>greater</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1107</integer>
         </dict>
@@ -48,8 +43,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

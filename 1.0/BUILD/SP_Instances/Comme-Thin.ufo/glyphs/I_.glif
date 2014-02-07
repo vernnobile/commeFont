@@ -10,22 +10,18 @@
       <point x="398" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="119" y="1455" type="line"/>
-      <point x="119" y="1397" type="line"/>
-      <point x="359" y="1397" type="line"/>
-      <point x="330" y="1433" type="line"/>
-      <point x="330" y="16" type="line"/>
-      <point x="364" y="58" type="line"/>
-      <point x="119" y="58" type="line"/>
       <point x="119" y="0" type="line"/>
       <point x="633" y="0" type="line"/>
       <point x="633" y="58" type="line"/>
-      <point x="390" y="58" type="line"/>
-      <point x="423" y="18" type="line"/>
-      <point x="423" y="1430" type="line"/>
-      <point x="394" y="1397" type="line"/>
+      <point x="422" y="58" type="line"/>
+      <point x="422" y="1397" type="line"/>
       <point x="633" y="1397" type="line"/>
       <point x="633" y="1455" type="line"/>
+      <point x="119" y="1455" type="line"/>
+      <point x="119" y="1397" type="line"/>
+      <point x="330" y="1397" type="line"/>
+      <point x="330" y="58" type="line"/>
+      <point x="119" y="58" type="line"/>
     </contour>
   </outline>
   <lib>

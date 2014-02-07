@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcaron" format="1">
-  <advance width="1242"/>
+  <advance width="1217"/>
   <unicode hex="0164"/>
   <outline>
-    <component base="caron" xOffset="171" yOffset="374"/>
+    <component base="caron" xOffset="165" yOffset="374"/>
     <component base="T"/>
   </outline>
   <lib>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="1">
-  <advance width="1470"/>
+  <advance width="1469"/>
   <unicode hex="2026"/>
   <outline>
-    <component base="period" xOffset="959"/>
-    <component base="period" xOffset="467"/>
-    <component base="period" xOffset="-56"/>
+    <component base="period" xOffset="963"/>
+    <component base="period" xOffset="475"/>
+    <component base="period" xOffset="-42"/>
   </outline>
   <lib>
     <dict>
@@ -14,22 +14,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>ellipsis</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1476</integer>
         </dict>
@@ -42,8 +37,7 @@
         <integer>0</integer>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

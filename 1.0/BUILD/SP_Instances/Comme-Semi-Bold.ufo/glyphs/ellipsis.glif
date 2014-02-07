@@ -5,7 +5,7 @@
   <outline>
     <component base="period" xOffset="959"/>
     <component base="period" xOffset="463"/>
-    <component base="period" xOffset="-49"/>
+    <component base="period" xOffset="-48"/>
   </outline>
   <lib>
     <dict>

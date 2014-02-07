@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iinvertedbreve" format="1">
-  <advance width="640"/>
+  <advance width="661"/>
   <unicode hex="020B"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="breveinvertedcomb" xOffset="-129" yOffset="-3"/>
+    <component base="breveinvertedcomb" xOffset="-128" yOffset="-7"/>
   </outline>
   <lib>
     <dict>

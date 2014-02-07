@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessj" format="1">
-  <advance width="651"/>
+  <advance width="653"/>
   <outline>
     <contour>
-      <point x="218" y="1082" type="line"/>
-      <point x="218" y="11" type="line" smooth="yes"/>
-      <point x="218" y="-158"/>
-      <point x="205" y="-197"/>
-      <point x="45" y="-252" type="curve" smooth="yes"/>
-      <point x="-34" y="-281" type="line"/>
-      <point x="44" y="-481" type="line"/>
-      <point x="119" y="-456" type="line" smooth="yes"/>
-      <point x="365" y="-379"/>
-      <point x="489" y="-306"/>
-      <point x="489" y="-22" type="curve" smooth="yes"/>
-      <point x="489" y="1082" type="line"/>
+      <point x="44" y="-484" type="line"/>
+      <point x="120" y="-459" type="line"/>
+      <point x="366" y="-380"/>
+      <point x="491" y="-307"/>
+      <point x="491" y="-22" type="curve" smooth="yes"/>
+      <point x="491" y="1082" type="line"/>
+      <point x="217" y="1082" type="line"/>
+      <point x="217" y="10" type="line" smooth="yes"/>
+      <point x="217" y="-157"/>
+      <point x="204" y="-197"/>
+      <point x="44" y="-253" type="curve" smooth="yes"/>
+      <point x="-36" y="-282" type="line"/>
     </contour>
   </outline>
   <lib>

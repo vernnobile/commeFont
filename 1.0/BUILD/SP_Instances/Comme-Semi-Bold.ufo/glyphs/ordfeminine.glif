@@ -1,9 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordfeminine" format="1">
-  <advance width="1146"/>
+  <advance width="1142"/>
   <unicode hex="00AA"/>
   <outline>
-    <component base="a" xScale="0.864086250542" yScale="0.864086250542" xOffset="65" yOffset="609"/>
+    <contour>
+      <point x="441" y="593" type="curve" smooth="yes"/>
+      <point x="576" y="593"/>
+      <point x="665" y="641"/>
+      <point x="733" y="717" type="curve"/>
+      <point x="756" y="609" type="line"/>
+      <point x="936" y="609" type="line"/>
+      <point x="936" y="1185" type="line" smooth="yes"/>
+      <point x="936" y="1455"/>
+      <point x="776" y="1560"/>
+      <point x="559" y="1560" type="curve" smooth="yes"/>
+      <point x="433" y="1560"/>
+      <point x="295" y="1527"/>
+      <point x="181" y="1464" type="curve"/>
+      <point x="232" y="1312" type="line"/>
+      <point x="329" y="1363"/>
+      <point x="444" y="1391"/>
+      <point x="529" y="1391" type="curve" smooth="yes"/>
+      <point x="642" y="1391"/>
+      <point x="705" y="1342"/>
+      <point x="705" y="1220" type="curve" smooth="yes"/>
+      <point x="705" y="1136" type="line"/>
+      <point x="537" y="1137" type="line" smooth="yes"/>
+      <point x="317" y="1137"/>
+      <point x="147" y="1061"/>
+      <point x="147" y="868" type="curve" smooth="yes"/>
+      <point x="147" y="684"/>
+      <point x="267" y="593"/>
+    </contour>
+    <contour>
+      <point x="506" y="733" type="curve" smooth="yes"/>
+      <point x="427" y="733"/>
+      <point x="361" y="770"/>
+      <point x="361" y="869" type="curve" smooth="yes"/>
+      <point x="361" y="976"/>
+      <point x="440" y="1017"/>
+      <point x="587" y="1017" type="curve" smooth="yes"/>
+      <point x="704" y="1016" type="line"/>
+      <point x="704" y="825" type="line"/>
+      <point x="662" y="773"/>
+      <point x="593" y="733"/>
+    </contour>
   </outline>
   <lib>
     <dict>

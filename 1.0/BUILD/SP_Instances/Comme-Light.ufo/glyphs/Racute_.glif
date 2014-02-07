@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Racute" format="1">
-  <advance width="1438"/>
+  <advance width="1371"/>
   <unicode hex="0154"/>
   <outline>
-    <component base="acute" xOffset="406" yOffset="394"/>
+    <component base="acute" xOffset="401" yOffset="374"/>
     <component base="R"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

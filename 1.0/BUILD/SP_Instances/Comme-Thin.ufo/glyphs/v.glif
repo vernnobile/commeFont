@@ -8,11 +8,12 @@
       <point x="573" y="0" type="line"/>
       <point x="976" y="1082" type="line"/>
       <point x="882" y="1082" type="line"/>
-      <point x="651" y="430" type="line"/>
-      <point x="497" y="24" type="line"/>
-      <point x="537" y="24" type="line"/>
-      <point x="387" y="425" type="line"/>
-      <point x="156" y="1082" type="line"/>
+      <point x="762" y="745"/>
+      <point x="645" y="405"/>
+      <point x="517" y="77" type="curve"/>
+      <point x="391" y="406"/>
+      <point x="275" y="745"/>
+      <point x="156" y="1082" type="curve"/>
       <point x="62" y="1082" type="line"/>
     </contour>
   </outline>

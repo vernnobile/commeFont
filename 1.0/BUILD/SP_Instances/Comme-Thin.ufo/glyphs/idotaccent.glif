@@ -2,8 +2,8 @@
 <glyph name="idotaccent" format="1">
   <advance width="468"/>
   <outline>
-    <component base="dotlessi"/>
     <component base="dotaccent" xOffset="96"/>
+    <component base="dotlessi"/>
   </outline>
   <lib>
     <dict>
