@@ -4,18 +4,16 @@
   <unicode hex="0026"/>
   <outline>
     <contour>
-      <point x="582" y="833" type="curve"/>
-      <point x="421" y="1008"/>
-      <point x="389" y="1064"/>
-      <point x="389" y="1179" type="curve" smooth="yes"/>
-      <point x="389" y="1318"/>
-      <point x="511" y="1410"/>
-      <point x="693" y="1410" type="curve" smooth="yes"/>
-      <point x="845" y="1410"/>
-      <point x="944" y="1317"/>
-      <point x="944" y="1178" type="curve" smooth="yes"/>
-      <point x="944" y="1020"/>
-      <point x="762" y="914"/>
+      <point x="1074" y="191" type="line"/>
+      <point x="967" y="104"/>
+      <point x="842" y="47"/>
+      <point x="713" y="47" type="curve" smooth="yes"/>
+      <point x="436" y="47"/>
+      <point x="291" y="156"/>
+      <point x="291" y="367" type="curve" smooth="yes"/>
+      <point x="291" y="515"/>
+      <point x="385" y="647"/>
+      <point x="566" y="753" type="curve"/>
     </contour>
     <contour>
       <point x="1270" y="-26" type="line"/>
@@ -52,70 +50,70 @@
       <point x="1121" y="139" type="curve"/>
     </contour>
     <contour>
-      <point x="1074" y="191" type="line"/>
-      <point x="967" y="104"/>
-      <point x="842" y="47"/>
-      <point x="713" y="47" type="curve" smooth="yes"/>
-      <point x="436" y="47"/>
-      <point x="291" y="156"/>
-      <point x="291" y="367" type="curve" smooth="yes"/>
-      <point x="291" y="515"/>
-      <point x="385" y="647"/>
-      <point x="566" y="753" type="curve"/>
+      <point x="582" y="833" type="curve"/>
+      <point x="421" y="1008"/>
+      <point x="389" y="1064"/>
+      <point x="389" y="1179" type="curve" smooth="yes"/>
+      <point x="389" y="1318"/>
+      <point x="511" y="1410"/>
+      <point x="693" y="1410" type="curve" smooth="yes"/>
+      <point x="845" y="1410"/>
+      <point x="944" y="1317"/>
+      <point x="944" y="1178" type="curve" smooth="yes"/>
+      <point x="944" y="1020"/>
+      <point x="762" y="914"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-19</integer>
-            <key>width</key>
-            <integer>96</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1372</integer>
-            <key>width</key>
-            <integer>96</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>135</integer>
-            <key>width</key>
-            <integer>121</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>312</integer>
-            <key>width</key>
-            <integer>105</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>917</integer>
-            <key>width</key>
-            <integer>110</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-19</integer>
+	    <key>width</key>	    <integer>96</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1372</integer>
+	    <key>width</key>	    <integer>96</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>135</integer>
+	    <key>width</key>
+	    <integer>121</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>312</integer>
+	    <key>width</key>
+	    <integer>105</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>917</integer>
+	    <key>width</key>
+	    <integer>110</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

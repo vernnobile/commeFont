@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C7" format="1">
-  <advance width="1928"/>
+  <advance width="2022"/>
   <unicode hex="01C7"/>
   <outline>
-    <component base="J" xOffset="1111"/>
-    <component base="L"/>
+    <component base="J" xOffset="1161"/>
+    <component base="L" xOffset="77"/>
   </outline>
   <lib>
     <dict>
     <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>

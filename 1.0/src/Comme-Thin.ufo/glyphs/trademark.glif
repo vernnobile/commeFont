@@ -4,16 +4,6 @@
   <unicode hex="2122"/>
   <outline>
     <contour>
-      <point x="388" y="529" type="line"/>
-      <point x="445" y="529" type="line"/>
-      <point x="445" y="1410" type="line"/>
-      <point x="703" y="1410" type="line"/>
-      <point x="703" y="1455" type="line"/>
-      <point x="102" y="1455" type="line"/>
-      <point x="101" y="1410" type="line"/>
-      <point x="388" y="1410" type="line"/>
-    </contour>
-    <contour>
       <point x="883" y="529" type="line"/>
       <point x="934" y="529" type="line"/>
       <point x="959" y="1348" type="line"/>
@@ -28,31 +18,47 @@
       <point x="960" y="1455" type="line"/>
       <point x="914" y="1455" type="line"/>
     </contour>
+    <contour>
+      <point x="388" y="529" type="line"/>
+      <point x="445" y="529" type="line"/>
+      <point x="445" y="1410" type="line"/>
+      <point x="703" y="1410" type="line"/>
+      <point x="703" y="1455" type="line"/>
+      <point x="102" y="1455" type="line"/>
+      <point x="101" y="1410" type="line"/>
+      <point x="388" y="1410" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>trademark</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>2216</integer>
-        </dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>trademark</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>2216</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -4,14 +4,16 @@
   <unicode hex="006A"/>
   <outline>
     <component base="dotaccent" xOffset="93"/>
-    <component base="dotlessj" xOffset="-2"/>
+    <component base="uni0237" xOffset="-2"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -25,7 +25,7 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/01/27 23:29:26</string>
+	<string>2014/02/11 20:48:11</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
@@ -61,13 +61,13 @@ http://scripts.sil.org/OFL
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>2416</integer>
+	<integer>1638</integer>
 	<key>openTypeOS2TypoDescender</key>
 	<integer>-512</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>2416</integer>
+	<integer>2390</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>512</integer>
 	<key>postscriptFontName</key>

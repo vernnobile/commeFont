@@ -4,13 +4,13 @@
   <unicode hex="0061"/>
   <outline>
     <contour>
-      <point x="562" y="1083" type="move" name="top"/>
+      <point x="525" y="1" type="move" name="bot"/>
     </contour>
     <contour>
       <point x="899" y="1" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="525" y="1" type="move" name="bot"/>
+      <point x="562" y="1083" type="move" name="top"/>
     </contour>
     <contour>
       <point x="494" y="123" type="curve" smooth="yes"/>
@@ -104,15 +104,15 @@
     <key>rstem</key>
       <integer>0</integer>
       </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
     <key>com.typemytype.robofont.guides</key>
       <array>
       </array>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -4,14 +4,6 @@
   <unicode hex="00AB"/>
   <outline>
     <contour>
-      <point x="725" y="163" type="line"/>
-      <point x="785" y="175" type="line"/>
-      <point x="526" y="540" type="line"/>
-      <point x="792" y="899" type="line"/>
-      <point x="728" y="912" type="line"/>
-      <point x="455" y="537" type="line"/>
-    </contour>
-    <contour>
       <point x="410" y="163" type="line"/>
       <point x="470" y="175" type="line"/>
       <point x="212" y="540" type="line"/>
@@ -19,38 +11,52 @@
       <point x="414" y="912" type="line"/>
       <point x="140" y="537" type="line"/>
     </contour>
+    <contour>
+      <point x="725" y="163" type="line"/>
+      <point x="785" y="175" type="line"/>
+      <point x="526" y="540" type="line"/>
+      <point x="792" y="899" type="line"/>
+      <point x="728" y="912" type="line"/>
+      <point x="455" y="537" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>guillemotleft</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>994</integer>
-        </dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>guillemotleft</string>
+    <key>lib</key>
+      <dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>994</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

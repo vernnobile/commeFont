@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Delta" format="1">
-  <advance width="1334"/>
-  <unicode hex="0394"/>
+  <advance width="1308"/>
+  <unicode hex="2206"/>
   <outline>
     <contour>
-      <point x="296" y="182" type="line"/>
-      <point x="655" y="1276" type="line"/>
-      <point x="1020" y="182" type="line"/>
+      <point x="686" y="1213" type="line"/>
+      <point x="1042" y="176" type="line"/>
+      <point x="270" y="176" type="line"/>
+      <point x="619" y="1213" type="line"/>
+      <point x="652" y="1334" type="line"/>
     </contour>
     <contour>
-      <point x="31" y="0" type="line"/>
-      <point x="1283" y="0" type="line"/>
-      <point x="760" y="1507" type="line"/>
-      <point x="551" y="1507" type="line"/>
+      <point x="562" y="1566" type="line"/>
+      <point x="69" y="87" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="1243" y="0" type="line"/>
+      <point x="1243" y="87" type="line"/>
+      <point x="751" y="1566" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +33,7 @@
     <key>b</key>
       <dict>
     <key>name</key>
-      <string>Delta</string>
+      <string>uni2206</string>
     <key>lib</key>
       <dict>
       </dict>
@@ -37,7 +41,7 @@
       <array>
       </array>
     <key>width</key>
-      <integer>1334</integer>
+      <integer>1278</integer>
     <key>contours</key>
       <array>
       </array>

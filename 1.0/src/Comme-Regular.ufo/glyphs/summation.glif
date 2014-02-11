@@ -3,52 +3,45 @@
   <advance width="1064"/>
   <unicode hex="2211"/>
   <outline>
-    <contour>
-      <point x="86" y="1456" type="line"/>
-      <point x="86" y="1349" type="line"/>
-      <point x="570" y="622" type="line"/>
-      <point x="65" y="-97" type="line"/>
-      <point x="65" y="-199" type="line"/>
-      <point x="1037" y="-199" type="line"/>
-      <point x="1037" y="-37" type="line"/>
-      <point x="309" y="-37" type="line"/>
-      <point x="783" y="618" type="line"/>
-      <point x="330" y="1302" type="line"/>
-      <point x="991" y="1302" type="line"/>
-      <point x="991" y="1456" type="line"/>
-    </contour>
+    <component base="Sigma"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>summation</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>1050</integer>
-        </dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>summation</string>
+    <key>lib</key>
+      <dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1050</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -4,6 +4,15 @@
   <unicode hex="0044"/>
   <outline>
     <contour>
+      <point x="405" y="741" type="move" name="mid"/>
+    </contour>
+    <contour>
+      <point x="767" y="1" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="831" y="1456" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="162" y="4" type="line"/>
       <point x="280" y="-7"/>
       <point x="388" y="-12"/>
@@ -29,56 +38,45 @@
       <point x="930" y="300"/>
       <point x="606" y="300" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="831" y="1456" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="767" y="1" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="405" y="741" type="move" name="mid"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>94</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1355</integer>
-            <key>width</key>
-            <integer>94</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>1280</integer>
-            <key>width</key>
-            <integer>122</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>94</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1355</integer>
+	    <key>width</key>	    <integer>94</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>1280</integer>
+	    <key>width</key>
+	    <integer>122</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

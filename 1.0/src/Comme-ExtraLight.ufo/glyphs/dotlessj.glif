@@ -3,6 +3,9 @@
   <advance width="526"/>
   <outline>
     <contour>
+      <point x="293" y="1081" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="230" y="1082" type="line"/>
       <point x="230" y="43" type="line" smooth="yes"/>
       <point x="230" y="-158"/>
@@ -17,40 +20,4 @@
       <point x="351" y="1082" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-479</integer>
-	    <key>width</key>	    <integer>112</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>111</integer>
-	    <key>width</key>
-	    <integer>142</integer>
-	  </dict>
-	</array>
-      </dict>
-    <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-    <key>lstem</key>
-      <integer>0</integer>
-    <key>rstem</key>
-      <integer>0</integer>
-      </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

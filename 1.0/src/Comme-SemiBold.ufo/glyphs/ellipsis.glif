@@ -3,9 +3,9 @@
   <advance width="1507"/>
   <unicode hex="2026"/>
   <outline>
-    <component base="period" xOffset="959"/>
-    <component base="period" xOffset="463"/>
     <component base="period" xOffset="-49"/>
+    <component base="period" xOffset="463"/>
+    <component base="period" xOffset="959"/>
   </outline>
   <lib>
     <dict>

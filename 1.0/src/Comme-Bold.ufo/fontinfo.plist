@@ -25,7 +25,7 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/01/27 23:42:18</string>
+	<string>2014/02/11 22:46:24</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
@@ -52,7 +52,7 @@ http://scripts.sil.org/OFL
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WeightClass</key>
-	<integer>100</integer>
+	<integer>700</integer>
 	<key>openTypeOS2VendorID</key>
 	<string>NeWT</string>
 	<key>openTypeOS2FamilyClass</key>
@@ -61,13 +61,13 @@ http://scripts.sil.org/OFL
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>2416</integer>
+	<integer>2390</integer>
 	<key>openTypeOS2TypoDescender</key>
 	<integer>-512</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>2416</integer>
+	<integer>2390</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>512</integer>
 	<key>postscriptFontName</key>

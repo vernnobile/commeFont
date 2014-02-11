@@ -4,6 +4,17 @@
   <unicode hex="0041"/>
   <outline>
     <contour>
+      <point x="639" y="1455" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="639" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="364" y="582" type="line"/>
+      <point x="638" y="1339" type="line"/>
+      <point x="927" y="582" type="line"/>
+    </contour>
+    <contour>
       <point x="607" y="1455" type="line"/>
       <point x="50" y="0" type="line"/>
       <point x="141" y="0" type="line"/>
@@ -13,34 +24,22 @@
       <point x="1227" y="0" type="line"/>
       <point x="670" y="1455" type="line"/>
     </contour>
-    <contour>
-      <point x="364" y="582" type="line"/>
-      <point x="638" y="1339" type="line"/>
-      <point x="927" y="582" type="line"/>
-    </contour>
-    <contour>
-      <point x="639" y="1455" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="1186" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="639" y="0" type="move" name="bot"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

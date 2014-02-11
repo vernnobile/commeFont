@@ -3,13 +3,13 @@
 <plist version="1.0">
     <dict>
 	<key>familyName</key>
-	<string>Muli</string>
+	<string>Comme</string>
 	<key>styleName</key>
 	<string>ExtraLight</string>
 	<key>copyright</key>
 	<string>Digitized data Copyright (c) 2011-2014, vernon adams.</string>
 	<key>trademark</key>
-	<string>Muli is a trademark of Vernon Adams and may be registered in certain jurisdictions.</string>
+	<string>Comme is a trademark of Vernon Adams and may be registered in certain jurisdictions.</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>xHeight</key>
@@ -25,7 +25,7 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/01/27 23:28:25</string>
+	<string>2014/02/11 19:53:46</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
@@ -46,7 +46,7 @@ http://scripts.sil.org/OFL
 	<key>openTypeNameVersion</key>
 	<string>Version 2</string>
 	<key>openTypeNamePreferedFamilyName</key>
-	<string>Muli</string>
+	<string>Comme</string>
 	<key>openTypeNamePreferedSubfamilyName</key>
 	<string>ExtraLight</string>
 	<key>openTypeOS2WidthClass</key>
@@ -61,19 +61,19 @@ http://scripts.sil.org/OFL
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>2416</integer>
+	<integer>2390</integer>
 	<key>openTypeOS2TypoDescender</key>
 	<integer>-512</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>2416</integer>
+	<integer>2390</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>512</integer>
 	<key>postscriptFontName</key>
-	<string>Muli-ExtraLight</string>
+	<string>Comme-ExtraLight</string>
 	<key>postscriptFullName</key>
-	<string>Muli ExtraLight</string>
+	<string>Comme ExtraLight</string>
 	<key>postscriptWeightName</key>
 	<string>ExtraLight</string>
 	<key>postscriptUnderlineThickness</key>

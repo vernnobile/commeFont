@@ -4,6 +4,17 @@
   <unicode hex="003B"/>
   <outline>
     <contour>
+      <point x="177" y="-293" type="curve"/>
+      <point x="216" y="-293" type="line"/>
+      <point x="216" y="-293"/>
+      <point x="296" y="119"/>
+      <point x="296" y="168" type="curve" smooth="yes"/>
+      <point x="296" y="196" type="line"/>
+      <point x="183" y="196" type="line"/>
+      <point x="183" y="74"/>
+      <point x="177" y="-293"/>
+    </contour>
+    <contour>
       <point x="239" y="883" type="curve" smooth="yes"/>
       <point x="304" y="883"/>
       <point x="317" y="927"/>
@@ -17,31 +28,22 @@
       <point x="159" y="928"/>
       <point x="173" y="883"/>
     </contour>
-    <contour>
-      <point x="177" y="-293" type="curve"/>
-      <point x="216" y="-293" type="line"/>
-      <point x="216" y="-293"/>
-      <point x="296" y="119"/>
-      <point x="296" y="168" type="curve" smooth="yes"/>
-      <point x="296" y="196" type="line"/>
-      <point x="183" y="196" type="line"/>
-      <point x="183" y="74"/>
-      <point x="177" y="-293"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

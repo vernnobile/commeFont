@@ -3,20 +3,7 @@
   <advance width="1113"/>
   <unicode hex="2211"/>
   <outline>
-    <contour>
-      <point x="101" y="1477" type="line"/>
-      <point x="101" y="1388" type="line"/>
-      <point x="611" y="622" type="line"/>
-      <point x="78" y="-144" type="line"/>
-      <point x="78" y="-229" type="line"/>
-      <point x="1061" y="-229" type="line"/>
-      <point x="1061" y="-85" type="line"/>
-      <point x="281" y="-85" type="line"/>
-      <point x="797" y="618" type="line"/>
-      <point x="299" y="1343" type="line"/>
-      <point x="1016" y="1343" type="line"/>
-      <point x="1016" y="1477" type="line"/>
-    </contour>
+    <component base="Sigma"/>
   </outline>
   <lib>
     <dict>

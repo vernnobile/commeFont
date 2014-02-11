@@ -3,13 +3,13 @@
 <plist version="1.0">
     <dict>
 	<key>familyName</key>
-	<string>Muli</string>
+	<string>Comme</string>
 	<key>styleName</key>
 	<string>SemiBold</string>
 	<key>copyright</key>
 	<string>Digitized data Copyright (c) 2011-2014, vernon adams.</string>
 	<key>trademark</key>
-	<string>Muli is a trademark of Vernon Adams and may be registered in certain jurisdictions.</string>
+	<string>Comme is a trademark of Vernon Adams and may be registered in certain jurisdictions.</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>xHeight</key>
@@ -25,7 +25,7 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/01/27 23:40:30</string>
+	<string>2014/02/11 21:09:38</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
@@ -46,13 +46,13 @@ http://scripts.sil.org/OFL
 	<key>openTypeNameVersion</key>
 	<string>Version 2</string>
 	<key>openTypeNamePreferedFamilyName</key>
-	<string>Muli</string>
+	<string>Comme</string>
 	<key>openTypeNamePreferedSubfamilyName</key>
 	<string>SemiBold</string>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WeightClass</key>
-	<integer>100</integer>
+	<integer>600</integer>
 	<key>openTypeOS2VendorID</key>
 	<string>NeWT</string>
 	<key>openTypeOS2FamilyClass</key>
@@ -61,19 +61,19 @@ http://scripts.sil.org/OFL
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>2416</integer>
+	<integer>2390</integer>
 	<key>openTypeOS2TypoDescender</key>
 	<integer>-512</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>2416</integer>
+	<integer>2390</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>512</integer>
 	<key>postscriptFontName</key>
-	<string>Muli-SemiBold</string>
+	<string>Comme-SemiBold</string>
 	<key>postscriptFullName</key>
-	<string>Muli SemiBold</string>
+	<string>Comme SemiBold</string>
 	<key>postscriptWeightName</key>
 	<string>SemiBold</string>
 	<key>postscriptUnderlineThickness</key>

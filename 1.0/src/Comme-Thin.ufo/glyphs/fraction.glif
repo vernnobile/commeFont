@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fraction" format="1">
-  <advance width="1201"/>
+  <advance width="1017"/>
   <unicode hex="2044"/>
   <outline>
     <contour>
-      <point x="194" y="0" type="line"/>
-      <point x="283" y="0" type="line"/>
-      <point x="994" y="1573" type="line"/>
-      <point x="916" y="1573" type="line"/>
+      <point x="129" y="-154" type="line"/>
+      <point x="182" y="-154" type="line"/>
+      <point x="907" y="1560" type="line"/>
+      <point x="852" y="1560" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

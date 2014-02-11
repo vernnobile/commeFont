@@ -4,10 +4,10 @@
   <unicode hex="0052"/>
   <outline>
     <contour>
-      <point x="719" y="1456" type="move" name="top"/>
+      <point x="723" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="723" y="0" type="move" name="bot"/>
+      <point x="719" y="1456" type="move" name="top"/>
     </contour>
     <contour>
       <point x="1262" y="1063" type="curve" smooth="yes"/>
