@@ -7,9 +7,6 @@
       <point x="723" y="1" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="863" y="19" type="move" name="ogonek"/>
-    </contour>
-    <contour>
       <point x="736" y="1456" type="move" name="top"/>
     </contour>
     <contour>

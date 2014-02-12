@@ -72,7 +72,7 @@
     <key>rstem</key>
       <integer>696</integer>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     <key>com.typemytype.robofont.guides</key>
@@ -114,7 +114,7 @@
       <false/>
       </dict>
       </array>
-    <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>

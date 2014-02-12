@@ -7,9 +7,6 @@
       <point x="814" y="1456" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="904" y="1" type="move" name="ogonek"/>
-    </contour>
-    <contour>
       <point x="1307" y="719" type="curve" smooth="yes"/>
       <point x="1307" y="357"/>
       <point x="1178" y="107"/>
@@ -76,13 +73,13 @@
     <key>rstem</key>
       <integer>0</integer>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     <key>com.typemytype.robofont.guides</key>
       <array>
       </array>
-    <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>

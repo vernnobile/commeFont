@@ -3,8 +3,34 @@
   <advance width="641"/>
   <unicode hex="006A"/>
   <outline>
-    <component base="dotaccent" xOffset="75"/>
-    <component base="uni0237" xOffset="-4"/>
+    <contour>
+      <point x="516" y="1445" type="curve" smooth="yes"/>
+      <point x="516" y="1539"/>
+      <point x="453" y="1600"/>
+      <point x="349" y="1600" type="curve" smooth="yes"/>
+      <point x="245" y="1600"/>
+      <point x="182" y="1539"/>
+      <point x="182" y="1445" type="curve" smooth="yes"/>
+      <point x="182" y="1347"/>
+      <point x="245" y="1284"/>
+      <point x="349" y="1284" type="curve" smooth="yes"/>
+      <point x="453" y="1284"/>
+      <point x="516" y="1347"/>
+    </contour>
+    <contour>
+      <point x="214" y="1082" type="line"/>
+      <point x="214" y="11" type="line" smooth="yes"/>
+      <point x="214" y="-158"/>
+      <point x="201" y="-197"/>
+      <point x="41" y="-252" type="curve"/>
+      <point x="-38" y="-281" type="line"/>
+      <point x="40" y="-481" type="line"/>
+      <point x="115" y="-456" type="line"/>
+      <point x="361" y="-379"/>
+      <point x="485" y="-306"/>
+      <point x="485" y="-22" type="curve" smooth="yes"/>
+      <point x="485" y="1082" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -4,9 +4,6 @@
   <unicode hex="006F"/>
   <outline>
     <contour>
-      <point x="651" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
       <point x="636" y="1082" type="move" name="top"/>
     </contour>
     <contour>
@@ -76,7 +73,7 @@
     <key>rstem</key>
       <integer>0</integer>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     <key>com.typemytype.robofont.guides</key>
@@ -94,7 +91,7 @@
       <false/>
       </dict>
       </array>
-    <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>

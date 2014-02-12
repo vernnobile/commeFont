@@ -7,9 +7,6 @@
       <point x="502" y="1085" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="495" y="1323" type="move" name="_mid"/>
-    </contour>
-    <contour>
       <point x="127" y="1247" type="line"/>
       <point x="881" y="1247" type="line"/>
       <point x="881" y="1416" type="line"/>

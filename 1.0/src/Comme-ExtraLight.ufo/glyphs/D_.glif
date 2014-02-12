@@ -4,9 +4,6 @@
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="279" y="759" type="move" name="mid"/>
-    </contour>
-    <contour>
       <point x="770" y="0" type="move" name="bot"/>
     </contour>
     <contour>

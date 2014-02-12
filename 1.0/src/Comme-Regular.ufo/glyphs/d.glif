@@ -4,9 +4,6 @@
   <unicode hex="0064"/>
   <outline>
     <contour>
-      <point x="969" y="1310" type="move" name="mid"/>
-    </contour>
-    <contour>
       <point x="1140" y="1201" type="move" name="caron.alt"/>
     </contour>
     <contour>

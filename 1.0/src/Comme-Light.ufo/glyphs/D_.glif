@@ -10,9 +10,6 @@
       <point x="776" y="-1" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="290" y="766" type="move" name="mid"/>
-    </contour>
-    <contour>
       <point x="209" y="9" type="line"/>
       <point x="318" y="-3"/>
       <point x="418" y="-10"/>

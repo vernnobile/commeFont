@@ -3,9 +3,6 @@
   <advance width="479"/>
   <outline>
     <component base="period" xOffset="-18" yOffset="559"/>
-    <contour>
-      <point x="246" y="634" type="move" name="_mid"/>
-    </contour>
   </outline>
   <lib>
     <dict>

@@ -19,8 +19,8 @@ FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1392159548
-ModificationTime: 1392159938
+CreationTime: 1392159958
+ModificationTime: 1392242526
 PfmFamily: 17
 TTFWeight: 900
 TTFWidth: 5
@@ -2005,10 +2005,10 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 14 6
+WinInfo: 72 8 2
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "caron.alt" "mid" "bot" "ogonek" "top" 
+AnchorClass2: "caron.alt" "bot" "top" 
 BeginChars: 65545 496
 
 StartChar: A
@@ -2035,7 +2035,6 @@ p8
 (dp9
 s."
 AnchorPoint: "bot" 800 0 basechar 0
-AnchorPoint: "ogonek" 1330 0 basechar 0
 AnchorPoint: "top" 802 1456 basechar 0
 LayerCount: 2
 Fore
@@ -2538,42 +2537,41 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I1280
 sS'width'
-p13
+p11
 I122
-stp14
+stp12
 sS'hhints'
-p15
-((dp16
-g12
+p13
+((dp14
+g10
 I0
-sg13
+sg11
 I94
-s(dp17
-g12
+s(dp15
+g10
 I1355
-sg13
+sg11
 I94
-stp18
-ssS'org.robofab.postScriptHintData'
+stp16
+ssS'com.typemytype.robofont.layerData'
+p17
+(dp18
+sS'org.robofab.postScriptHintData'
 p19
 (dp20
 s."
 HStem: 0 94 1355 94
 VStem: 1280 122
-AnchorPoint: "mid" 405 741 basechar 0
 AnchorPoint: "bot" 767 1 basechar 0
 AnchorPoint: "top" 831 1456 basechar 0
 LayerCount: 2
@@ -2723,7 +2721,6 @@ p8
 (dp9
 s."
 AnchorPoint: "bot" 654 0 basechar 0
-AnchorPoint: "ogonek" 1003 0 basechar 0
 AnchorPoint: "top" 762 1456 basechar 0
 LayerCount: 2
 Fore
@@ -3343,42 +3340,41 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I111
 sS'width'
-p13
+p11
 I529
-stp14
+stp12
 sS'hhints'
-p15
-((dp16
-g12
+p13
+((dp14
+g10
 I0
-sg13
+sg11
 I86
-s(dp17
-g12
+s(dp15
+g10
 I1363
-sg13
+sg11
 I86
-stp18
-ssS'org.robofab.postScriptHintData'
+stp16
+ssS'com.typemytype.robofont.layerData'
+p17
+(dp18
+sS'org.robofab.postScriptHintData'
 p19
 (dp20
 s."
 HStem: 0 86 1363 86
 VStem: 111 529
-AnchorPoint: "ogonek" 565 0 basechar 0
 AnchorPoint: "top" 542 1456 basechar 0
 LayerCount: 2
 Fore
@@ -3760,7 +3756,6 @@ sS'org.robofab.postScriptHintData'
 p8
 (dp9
 s."
-AnchorPoint: "mid" 394 838 basechar 0
 AnchorPoint: "bot" 531 0 basechar 0
 AnchorPoint: "top" 352 1456 basechar 0
 LayerCount: 2
@@ -3921,7 +3916,7 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'org.robofab.postScriptHintData'
 p6
 (dp7
 sS'com.typemytype.robofont.guides'
@@ -3941,48 +3936,48 @@ sS'isGlobal'
 p12
 I00
 stp13
-sS'com.fontlab.hintData'
+sS'com.typemytype.robofont.layerData'
 p14
 (dp15
-S'vhints'
+sS'com.fontlab.hintData'
 p16
-((dp17
-S'position'
+(dp17
+S'vhints'
 p18
+((dp19
+S'position'
+p20
 I185
 sS'width'
-p19
+p21
 I166
-s(dp20
-g18
-I214
-sg19
-I151
-s(dp21
-g18
-I332
-sg19
-I33
 s(dp22
-g18
-I1463
-sg19
-I149
+g20
+I214
+sg21
+I151
 s(dp23
-g18
-I1463
-sg19
-I39
+g20
+I332
+sg21
+I33
 s(dp24
-g18
+g20
+I1463
+sg21
+I149
+s(dp25
+g20
+I1463
+sg21
+I39
+s(dp26
+g20
 I1477
-sg19
+sg21
 I164
-stp25
-ssS'org.robofab.postScriptHintData'
-p26
-(dp27
-s."
+stp27
+ss."
 VStem: 185 166 214 151 332 33 1463 149 1463 39 1477 164
 AnchorPoint: "top" 964 1456 basechar 0
 LayerCount: 2
@@ -4163,49 +4158,48 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'org.robofab.postScriptHintData'
 p6
 (dp7
 sS'com.typemytype.robofont.guides'
 p8
-(tsS'com.fontlab.hintData'
+(tsS'com.typemytype.robofont.layerData'
 p9
 (dp10
-S'vhints'
+sS'com.fontlab.hintData'
 p11
-((dp12
-S'position'
+(dp12
+S'vhints'
 p13
+((dp14
+S'position'
+p15
 I150
 sS'width'
-p14
+p16
 I122
-s(dp15
-g13
+s(dp17
+g15
 I1390
-sg14
+sg16
 I122
-stp16
+stp18
 sS'hhints'
-p17
-((dp18
-g13
+p19
+((dp20
+g15
 I-19
-sg14
+sg16
 I96
-s(dp19
-g13
+s(dp21
+g15
 I1372
-sg14
+sg16
 I96
-stp20
-ssS'org.robofab.postScriptHintData'
-p21
-(dp22
-s."
+stp22
+ss."
 HStem: -19 96 1372 96
 VStem: 150 122 1390 122
-AnchorPoint: "ogonek" 776 -1 basechar 0
 AnchorPoint: "top" 824 1456 basechar 0
 LayerCount: 2
 Fore
@@ -4624,36 +4618,36 @@ I0
 sS'rstem'
 p5
 I839
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I1122
 sS'width'
-p13
+p11
 I117
-stp14
+stp12
 sS'hhints'
-p15
-((dp16
-g12
+p13
+((dp14
+g10
 I722
-sg13
+sg11
 I96
-s(dp17
-g12
+s(dp15
+g10
 I1355
-sg13
+sg11
 I94
-stp18
-ssS'org.robofab.postScriptHintData'
+stp16
+ssS'com.typemytype.robofont.layerData'
+p17
+(dp18
+sS'org.robofab.postScriptHintData'
 p19
 (dp20
 s."
@@ -4946,7 +4940,6 @@ sS'org.robofab.postScriptHintData'
 p8
 (dp9
 s."
-AnchorPoint: "mid" 655 620 basechar 0
 AnchorPoint: "bot" 667 0 basechar 0
 AnchorPoint: "top" 668 1456 basechar 0
 LayerCount: 2
@@ -5114,7 +5107,6 @@ p8
 (dp9
 s."
 AnchorPoint: "bot" 794 0 basechar 0
-AnchorPoint: "ogonek" 828 -4 basechar 0
 AnchorPoint: "top" 773 1456 basechar 0
 LayerCount: 2
 Fore
@@ -5776,60 +5768,59 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'org.robofab.postScriptHintData'
 p6
 (dp7
 sS'com.typemytype.robofont.guides'
 p8
-(tsS'com.fontlab.hintData'
+(tsS'com.typemytype.robofont.layerData'
 p9
 (dp10
-S'vhints'
+sS'com.fontlab.hintData'
 p11
-((dp12
-S'position'
+(dp12
+S'vhints'
 p13
+((dp14
+S'position'
+p15
 I126
 sS'width'
-p14
+p16
 I120
-s(dp15
-g13
+s(dp17
+g15
 I842
-sg14
+sg16
 I32
-s(dp16
-g13
+s(dp18
+g15
 I875
-sg14
+sg16
 I86
-stp17
+stp19
 sS'hhints'
-p18
-((dp19
-g13
+p20
+((dp21
+g15
 I-15
-sg14
+sg16
 I92
-s(dp20
-g13
+s(dp22
+g15
 I535
-sg14
+sg16
 I82
-s(dp21
-g13
+s(dp23
+g15
 I983
-sg14
+sg16
 I92
-stp22
-ssS'org.robofab.postScriptHintData'
-p23
-(dp24
-s."
+stp24
+ss."
 HStem: -15 92 535 82 983 92
 VStem: 126 120 842 32 875 86
 AnchorPoint: "bot" 672 -1 basechar 0
-AnchorPoint: "ogonek" 897 -1 basechar 0
 AnchorPoint: "top" 561 1081 basechar 0
 LayerCount: 2
 Fore
@@ -5981,56 +5972,56 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I126
 sS'width'
-p13
+p11
 I119
-s(dp14
-g12
+s(dp12
+g10
 I817
-sg13
+sg11
 I117
-s(dp15
-g12
+s(dp13
+g10
 I817
-sg13
+sg11
 I82
-s(dp16
-g12
+s(dp14
+g10
 I1556
-sg13
+sg11
 I98
-stp17
+stp15
 sS'hhints'
-p18
-((dp19
-g12
+p16
+((dp17
+g10
 I-14
-sg13
+sg11
 I98
-s(dp20
-g12
+s(dp18
+g10
 I518
-sg13
+sg11
 I82
-s(dp21
-g12
+s(dp19
+g10
 I983
-sg13
+sg11
 I92
-stp22
-ssS'org.robofab.postScriptHintData'
+stp20
+ssS'com.typemytype.robofont.layerData'
+p21
+(dp22
+sS'org.robofab.postScriptHintData'
 p23
 (dp24
 s."
@@ -6167,46 +6158,46 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I135
 sS'width'
-p13
+p11
 I121
-s(dp14
-g12
+s(dp12
+g10
 I312
-sg13
+sg11
 I105
-s(dp15
-g12
+s(dp13
+g10
 I917
-sg13
+sg11
 I110
-stp16
+stp14
 sS'hhints'
-p17
-((dp18
-g12
+p15
+((dp16
+g10
 I-19
-sg13
+sg11
 I96
-s(dp19
-g12
+s(dp17
+g10
 I1372
-sg13
+sg11
 I96
-stp20
-ssS'org.robofab.postScriptHintData'
+stp18
+ssS'com.typemytype.robofont.layerData'
+p19
+(dp20
+sS'org.robofab.postScriptHintData'
 p21
 (dp22
 s."
@@ -6632,51 +6623,51 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'org.robofab.postScriptHintData'
 p6
 (dp7
 sS'com.typemytype.robofont.guides'
 p8
-(tsS'com.fontlab.hintData'
+(tsS'com.typemytype.robofont.layerData'
 p9
 (dp10
-S'vhints'
+sS'com.fontlab.hintData'
 p11
-((dp12
-S'position'
+(dp12
+S'vhints'
 p13
+((dp14
+S'position'
+p15
 I193
 sS'width'
-p14
+p16
 I125
-s(dp15
-g13
+s(dp17
+g15
 I193
-sg14
+sg16
 I94
-s(dp16
-g13
+s(dp18
+g15
 I1018
-sg14
+sg16
 I122
-stp17
+stp19
 sS'hhints'
-p18
-((dp19
-g13
+p20
+((dp21
+g15
 I-19
-sg14
+sg16
 I92
-s(dp20
-g13
+s(dp22
+g15
 I982
-sg14
+sg16
 I92
-stp21
-ssS'org.robofab.postScriptHintData'
-p22
-(dp23
-s."
+stp23
+ss."
 HStem: -19 92 982 92
 VStem: 193 125 193 94 1018 122
 AnchorPoint: "top" 820 1082 basechar 0
@@ -7161,7 +7152,7 @@ I0
 sS'rstem'
 p5
 I696
-ssS'com.typemytype.robofont.layerData'
+ssS'org.robofab.postScriptHintData'
 p6
 (dp7
 sS'com.typemytype.robofont.guides'
@@ -7203,36 +7194,36 @@ F90
 sg12
 I00
 stp15
-sS'com.fontlab.hintData'
+sS'com.typemytype.robofont.layerData'
 p16
 (dp17
-S'vhints'
+sS'com.fontlab.hintData'
 p18
-((dp19
-S'position'
+(dp19
+S'vhints'
 p20
+((dp21
+S'position'
+p22
 I128
 sS'width'
-p21
-I120
-stp22
-sS'hhints'
 p23
-((dp24
-g20
+I120
+stp24
+sS'hhints'
+p25
+((dp26
+g22
 I-19
-sg21
+sg23
 I92
-s(dp25
-g20
+s(dp27
+g22
 I982
-sg21
+sg23
 I92
-stp26
-ssS'org.robofab.postScriptHintData'
-p27
-(dp28
-s."
+stp28
+ss."
 HStem: -19 92 982 92
 VStem: 128 120
 AnchorPoint: "bot" 635 0 basechar 0
@@ -7794,52 +7785,51 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I114
 sS'width'
-p13
+p11
 I166
-s(dp14
-g12
+s(dp12
+g10
 I907
-sg13
+sg11
 I161
-s(dp15
-g12
+s(dp13
+g10
 I930
-sg13
+sg11
 I138
-stp16
+stp14
 sS'hhints'
-p17
-((dp18
-g12
+p15
+((dp16
+g10
 I-19
-sg13
+sg11
 I127
-s(dp19
-g12
+s(dp17
+g10
 I953
-sg13
+sg11
 I127
-stp20
-ssS'org.robofab.postScriptHintData'
+stp18
+ssS'com.typemytype.robofont.layerData'
+p19
+(dp20
+sS'org.robofab.postScriptHintData'
 p21
 (dp22
 s."
 HStem: -19 127 953 127
 VStem: 114 166 907 161 930 138
-AnchorPoint: "mid" 926 1289 basechar 0
 AnchorPoint: "caron.alt" 965 1060 basechar 0
 AnchorPoint: "top" 436 1082 basechar 0
 LayerCount: 2
@@ -8290,7 +8280,6 @@ sS'org.robofab.postScriptHintData'
 p8
 (dp9
 s."
-AnchorPoint: "ogonek" 360 0 basechar 0
 AnchorPoint: "top" 329 1082 basechar 0
 LayerCount: 2
 Fore
@@ -8319,31 +8308,31 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I111
 sS'width'
-p13
+p11
 I142
-stp14
+stp12
 sS'hhints'
-p15
-((dp16
-g12
+p13
+((dp14
+g10
 I-479
-sg13
+sg11
 I112
-stp17
-ssS'org.robofab.postScriptHintData'
+stp15
+ssS'com.typemytype.robofont.layerData'
+p16
+(dp17
+sS'org.robofab.postScriptHintData'
 p18
 (dp19
 s."
@@ -8381,34 +8370,33 @@ I0
 sS'rstem'
 p5
 I747
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'hhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I-19
 sS'width'
-p13
+p11
 I94
-s(dp14
-g12
+s(dp12
+g10
 I982
-sg13
+sg11
 I92
-stp15
-ssS'org.robofab.postScriptHintData'
+stp13
+ssS'com.typemytype.robofont.layerData'
+p14
+(dp15
+sS'org.robofab.postScriptHintData'
 p16
 (dp17
 s."
 HStem: -19 94 982 92
 AnchorPoint: "bot" 673 0 basechar 0
-AnchorPoint: "ogonek" 803 -9 basechar 0
 AnchorPoint: "top" 631 1082 basechar 0
 LayerCount: 2
 Fore
@@ -9046,36 +9034,36 @@ I182
 sS'rstem'
 p5
 I417
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I269
 sS'width'
-p13
+p11
 I166
-stp14
+stp12
 sS'hhints'
-p15
-((dp16
-g12
+p13
+((dp14
+g10
 I952
-sg13
+sg11
 I89
-s(dp17
-g12
+s(dp15
+g10
 I1358
-sg13
+sg11
 I122
-stp18
-ssS'org.robofab.postScriptHintData'
+stp16
+ssS'com.typemytype.robofont.layerData'
+p17
+(dp18
+sS'org.robofab.postScriptHintData'
 p19
 (dp20
 s."
@@ -9156,7 +9144,7 @@ Encoding: 65540 -1 216
 Width: 1594
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -9332,51 +9320,51 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I128
 sS'width'
-p13
+p11
 I122
-s(dp14
-g12
+s(dp12
+g10
 I977
-sg13
+sg11
 I125
-s(dp15
-g12
+s(dp13
+g10
 I977
-sg13
+sg11
 I36
-stp16
+stp14
 sS'hhints'
-p17
-((dp18
-g12
+p15
+((dp16
+g10
 I-426
-sg13
+sg11
 I101
-s(dp19
-g12
+s(dp17
+g10
 I0
-sg13
+sg11
 I93
-s(dp20
-g12
+s(dp18
+g10
 I982
-sg13
+sg11
 I92
-stp21
-ssS'org.robofab.postScriptHintData'
+stp19
+ssS'com.typemytype.robofont.layerData'
+p20
+(dp21
+sS'org.robofab.postScriptHintData'
 p22
 (dp23
 s."
@@ -9924,42 +9912,41 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I193
 sS'width'
-p13
+p11
 I122
-s(dp14
-g12
+s(dp12
+g10
 I910
-sg13
+sg11
 I122
-stp15
+stp13
 sS'hhints'
-p16
-((dp17
-g12
+p14
+((dp15
+g10
 I982
-sg13
+sg11
 I92
-stp18
-ssS'org.robofab.postScriptHintData'
+stp16
+ssS'com.typemytype.robofont.layerData'
+p17
+(dp18
+sS'org.robofab.postScriptHintData'
 p19
 (dp20
 s."
 HStem: 982 92
 VStem: 193 122 910 122
-AnchorPoint: "mid" 441 1240 basechar 0
 AnchorPoint: "top" 496 1560 basechar 0
 LayerCount: 2
 Fore
@@ -10072,7 +10059,6 @@ sS'org.robofab.postScriptHintData'
 p8
 (dp9
 s."
-AnchorPoint: "mid" 504 510 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10098,12 +10084,21 @@ sS'com.typemytype.robofont.layerData'
 p4
 (dp5
 s."
-AnchorPoint: "ogonek" 340 0 basechar 0
 AnchorPoint: "top" 346 1082 basechar 0
 LayerCount: 2
 Fore
-Refer: 191 729 N 1 0 0 1 -20 0 2
-Refer: 192 305 N 1 0 0 1 0 0 3
+SplineSet
+118 1082 m 257
+ 118 0 l 257
+ 532 0 l 257
+ 532 1082 l 257
+ 118 1082 l 257
+554 1468 m 256
+ 554 1588 467 1671 331 1671 c 256
+ 195 1671 108 1588 108 1468 c 256
+ 108 1340 195 1256 331 1256 c 256
+ 467 1256 554 1340 554 1468 c 256
+EndSplineSet
 EndChar
 
 StartChar: iacute
@@ -10263,7 +10258,7 @@ Encoding: 242 307 249
 Width: 1409
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -10492,8 +10487,22 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 191 729 N 1 0 0 1 43 -1 2
-Refer: 193 567 N 1 0 0 1 0 0 3
+SplineSet
+180 1082 m 257
+ 180 -4 l 258
+ 180 -142 154 -186 -20 -275 c 257
+ -122 -325 l 257
+ 34 -618 l 257
+ 131 -569 l 257
+ 411 -426 593 -355 593 -37 c 258
+ 593 1082 l 257
+ 180 1082 l 257
+617 1467 m 256
+ 617 1587 530 1670 394 1670 c 256
+ 258 1670 171 1587 171 1467 c 256
+ 171 1339 258 1255 394 1255 c 256
+ 530 1255 617 1339 617 1467 c 256
+EndSplineSet
 EndChar
 
 StartChar: jcircumflex
@@ -10631,37 +10640,36 @@ I0
 sS'rstem'
 p5
 I238
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I193
 sS'width'
-p13
+p11
 I122
-stp14
+stp12
 sS'hhints'
-p15
-((dp16
-g12
+p13
+((dp14
+g10
 I-11
-sg13
+sg11
 I87
-stp17
-ssS'org.robofab.postScriptHintData'
+stp15
+ssS'com.typemytype.robofont.layerData'
+p16
+(dp17
+sS'org.robofab.postScriptHintData'
 p18
 (dp19
 s."
 HStem: -11 87
 VStem: 193 122
-AnchorPoint: "mid" 340 898 basechar 0
 AnchorPoint: "top" 320 1571 basechar 0
 LayerCount: 2
 Fore
@@ -10991,46 +10999,46 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I193
 sS'width'
-p13
+p11
+I122
+s(dp12
+g10
+I193
+sg11
+I98
+s(dp13
+g10
+I845
+sg11
 I122
 s(dp14
-g12
-I193
-sg13
-I98
-s(dp15
-g12
-I845
-sg13
-I122
-s(dp16
-g12
+g10
 I1483
-sg13
+sg11
 I122
-stp17
+stp15
 sS'hhints'
-p18
-((dp19
-g12
+p16
+((dp17
+g10
 I982
-sg13
+sg11
 I92
-stp20
-ssS'org.robofab.postScriptHintData'
+stp18
+ssS'com.typemytype.robofont.layerData'
+p19
+(dp20
+sS'org.robofab.postScriptHintData'
 p21
 (dp22
 s."
@@ -11080,7 +11088,6 @@ p4
 (dp5
 s."
 AnchorPoint: "top" 502 1085 mark 0
-AnchorPoint: "mid" 495 1323 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11103,7 +11110,6 @@ S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "mid" 301 690 mark 0
 LayerCount: 2
 Fore
 Refer: 308 46 N 1 0 0 1 -64 506 2
@@ -11201,46 +11207,46 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I193
 sS'width'
-p13
+p11
 I122
-s(dp14
-g12
+s(dp12
+g10
 I903
-sg13
+sg11
 I122
-stp15
+stp13
 sS'hhints'
-p16
-((dp17
-g12
+p14
+((dp15
+g10
 I0
-sg13
+sg11
 I22
-s(dp18
-g12
+s(dp16
+g10
 I982
-sg13
+sg11
 I92
-s(dp19
-g12
+s(dp17
+g10
 I1034
-sg13
+sg11
 I21
-stp20
-ssS'org.robofab.postScriptHintData'
+stp18
+ssS'com.typemytype.robofont.layerData'
+p19
+(dp20
+sS'org.robofab.postScriptHintData'
 p21
 (dp22
 s."
@@ -11472,56 +11478,56 @@ PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
-sS'com.typemytype.robofont.layerData'
+sS'com.fontlab.hintData'
 p4
 (dp5
-sS'com.fontlab.hintData'
-p6
-(dp7
 S'vhints'
-p8
-((dp9
+p6
+((dp7
 S'position'
-p10
+p8
 I193
 sS'width'
-p11
+p9
 I122
-s(dp12
-g10
+s(dp10
+g8
 I348
-sg11
+sg9
 I63
-s(dp13
-g10
+s(dp11
+g8
 I836
-sg11
+sg9
 I67
-s(dp14
-g10
+s(dp12
+g8
 I903
-sg11
+sg9
 I122
-stp15
+stp13
 sS'hhints'
-p16
-((dp17
-g10
+p14
+((dp15
+g8
 I982
-sg11
+sg9
 I92
-s(dp18
-g10
+s(dp16
+g8
 I1264
-sg11
+sg9
 I88
-s(dp19
-g10
+s(dp17
+g8
 I1362
-sg11
+sg9
 I79
-stp20
-ss."
+stp18
+ssS'com.typemytype.robofont.layerData'
+p19
+(dp20
+s."
 HStem: 982 92 1264 88 1362 79
 VStem: 193 122 348 63 836 67 903 122
 LayerCount: 2
@@ -11609,7 +11615,7 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'org.robofab.postScriptHintData'
 p6
 (dp7
 sS'com.typemytype.robofont.guides'
@@ -11629,44 +11635,43 @@ sS'isGlobal'
 p12
 I00
 stp13
-sS'com.fontlab.hintData'
+sS'com.typemytype.robofont.layerData'
 p14
 (dp15
-S'vhints'
+sS'com.fontlab.hintData'
 p16
-((dp17
-S'position'
+(dp17
+S'vhints'
 p18
+((dp19
+S'position'
+p20
 I128
 sS'width'
-p19
+p21
 I120
-s(dp20
-g18
+s(dp22
+g20
 I982
-sg19
+sg21
 I120
-stp21
+stp23
 sS'hhints'
-p22
-((dp23
-g18
+p24
+((dp25
+g20
 I-19
-sg19
+sg21
 I92
-s(dp24
-g18
+s(dp26
+g20
 I982
-sg19
+sg21
 I92
-stp25
-ssS'org.robofab.postScriptHintData'
-p26
-(dp27
-s."
+stp27
+ss."
 HStem: -19 92 982 92
 VStem: 128 120 982 120
-AnchorPoint: "ogonek" 651 0 basechar 0
 AnchorPoint: "top" 636 1082 basechar 0
 LayerCount: 2
 Fore
@@ -11864,7 +11869,6 @@ sS'org.robofab.postScriptHintData'
 p8
 (dp9
 s."
-AnchorPoint: "ogonek" 478 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12298,46 +12302,46 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I193
 sS'width'
-p13
+p11
 I122
-s(dp14
-g12
+s(dp12
+g10
 I193
-sg13
+sg11
 I97
-s(dp15
-g12
+s(dp13
+g10
 I1009
-sg13
+sg11
 I122
-stp16
+stp14
 sS'hhints'
-p17
-((dp18
-g12
+p15
+((dp16
+g10
 I-19
-sg13
+sg11
 I92
-s(dp19
-g12
+s(dp17
+g10
 I982
-sg13
+sg11
 I92
-stp20
-ssS'org.robofab.postScriptHintData'
+stp18
+ssS'com.typemytype.robofont.layerData'
+p19
+(dp20
+sS'org.robofab.postScriptHintData'
 p21
 (dp22
 s."
@@ -13338,36 +13342,36 @@ I0
 sS'rstem'
 p5
 I352
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I193
 sS'width'
-p13
+p11
 I122
-s(dp14
-g12
+s(dp12
+g10
 I193
-sg13
+sg11
 I92
-stp15
+stp13
 sS'hhints'
-p16
-((dp17
-g12
+p14
+((dp15
+g10
 I974
-sg13
+sg11
 I94
-stp18
-ssS'org.robofab.postScriptHintData'
+stp16
+ssS'com.typemytype.robofont.layerData'
+p17
+(dp18
+sS'org.robofab.postScriptHintData'
 p19
 (dp20
 s."
@@ -13617,7 +13621,7 @@ I168
 sS'rstem'
 p5
 I620
-ssS'com.typemytype.robofont.layerData'
+ssS'org.robofab.postScriptHintData'
 p6
 (dp7
 sS'com.typemytype.robofont.guides'
@@ -13637,41 +13641,41 @@ sS'isGlobal'
 p12
 I00
 stp13
-sS'com.fontlab.hintData'
+sS'com.typemytype.robofont.layerData'
 p14
 (dp15
-S'vhints'
+sS'com.fontlab.hintData'
 p16
-((dp17
-S'position'
+(dp17
+S'vhints'
 p18
+((dp19
+S'position'
+p20
 I142
 sS'width'
-p19
+p21
 I107
-s(dp20
-g18
+s(dp22
+g20
 I738
-sg19
+sg21
 I104
-stp21
+stp23
 sS'hhints'
-p22
-((dp23
-g18
+p24
+((dp25
+g20
 I-19
-sg19
+sg21
 I92
-s(dp24
-g18
+s(dp26
+g20
 I982
-sg19
+sg21
 I92
-stp25
-ssS'org.robofab.postScriptHintData'
-p26
-(dp27
-s."
+stp27
+ss."
 HStem: -19 92 982 92
 VStem: 142 107 738 104
 AnchorPoint: "bot" 530 0 basechar 0
@@ -14089,7 +14093,6 @@ p17
 p18
 (dp19
 s."
-AnchorPoint: "mid" 392 643 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14540,42 +14543,41 @@ I189
 sS'rstem'
 p5
 I480
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I244
 sS'width'
-p13
+p11
 I122
-s(dp14
-g12
+s(dp12
+g10
 I286
-sg13
+sg11
 I80
-stp15
+stp13
 sS'hhints'
-p16
-((dp17
-g12
+p14
+((dp15
+g10
 I-11
-sg13
+sg11
 I83
-stp18
-ssS'org.robofab.postScriptHintData'
+stp16
+ssS'com.typemytype.robofont.layerData'
+p17
+(dp18
+sS'org.robofab.postScriptHintData'
 p19
 (dp20
 s."
 HStem: -11 83
 VStem: 244 122 286 80
-AnchorPoint: "mid" 389 744 basechar 0
 AnchorPoint: "bot" 527 0 basechar 0
 AnchorPoint: "top" 456 1306 basechar 0
 LayerCount: 2
@@ -14844,41 +14846,41 @@ PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
 (dp3
-sS'com.typemytype.robofont.layerData'
+sS'com.fontlab.hintData'
 p4
 (dp5
-sS'com.fontlab.hintData'
-p6
-(dp7
 S'vhints'
-p8
-((dp9
+p6
+((dp7
 S'position'
-p10
+p8
 I169
 sS'width'
-p11
+p9
 I63
-s(dp12
-g10
+s(dp10
+g8
 I657
-sg11
+sg9
 I67
-stp13
+stp11
 sS'hhints'
-p14
-((dp15
-g10
+p12
+((dp13
+g8
 I1301
-sg11
+sg9
 I88
-s(dp16
-g10
+s(dp14
+g8
 I1400
-sg11
+sg9
 I79
-stp17
-ss."
+stp15
+ssS'com.typemytype.robofont.layerData'
+p16
+(dp17
+s."
 HStem: 1301 88 1400 79
 VStem: 169 63 657 67
 AnchorPoint: "top" 482 1085 mark 0
@@ -15020,43 +15022,42 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'vhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I162
 sS'width'
-p13
+p11
 I166
-s(dp14
-g12
+s(dp12
+g10
 I862
-sg13
+sg11
 I166
-stp15
+stp13
 sS'hhints'
-p16
-((dp17
-g12
+p14
+((dp15
+g10
 I-21
-sg13
+sg11
 I126
-stp18
-ssS'org.robofab.postScriptHintData'
+stp16
+ssS'com.typemytype.robofont.layerData'
+p17
+(dp18
+sS'org.robofab.postScriptHintData'
 p19
 (dp20
 s."
 HStem: -21 126
 VStem: 162 166 862 166
 AnchorPoint: "bot" 660 0 basechar 0
-AnchorPoint: "ogonek" 993 0 basechar 0
 AnchorPoint: "top" 638 1082 basechar 0
 LayerCount: 2
 Fore
@@ -15566,7 +15567,7 @@ Encoding: 323 456 378
 Width: 1964
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15586,7 +15587,7 @@ Encoding: 324 457 379
 Width: 1526
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -15635,7 +15636,7 @@ Encoding: 326 459 381
 Width: 2400
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15655,7 +15656,7 @@ Encoding: 327 460 382
 Width: 2015
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'org.pippin.gimp.org.kernagic'
 p2
@@ -17416,7 +17417,7 @@ Encoding: 483 64257 463
 Width: 1545
 VWidth: 0
 GlyphClass: 3
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -17460,7 +17461,7 @@ Encoding: 485 64259 465
 Width: 2410
 VWidth: 0
 GlyphClass: 3
-Flags: W
+Flags: HW
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -17756,28 +17757,28 @@ I0
 sS'rstem'
 p5
 I0
-ssS'com.typemytype.robofont.layerData'
+ssS'com.fontlab.hintData'
 p6
 (dp7
-sS'com.fontlab.hintData'
-p8
-(dp9
 S'hhints'
-p10
-((dp11
+p8
+((dp9
 S'position'
-p12
+p10
 I0
 sS'width'
-p13
+p11
 I22
-s(dp14
-g12
+s(dp12
+g10
 I1034
-sg13
+sg11
 I21
-stp15
-ssS'org.robofab.postScriptHintData'
+stp13
+ssS'com.typemytype.robofont.layerData'
+p14
+(dp15
+sS'org.robofab.postScriptHintData'
 p16
 (dp17
 s."

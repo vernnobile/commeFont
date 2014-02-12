@@ -92,6 +92,9 @@
     <key>rstem</key>
       <integer>620</integer>
       </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
@@ -108,9 +111,6 @@
       </dict>
       </array>
     <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

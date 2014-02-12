@@ -4,9 +4,6 @@
   <unicode hex="02DB"/>
   <outline>
     <contour>
-      <point x="484" y="0" type="move" name="_ogonek"/>
-    </contour>
-    <contour>
       <point x="448" y="-441" type="curve" smooth="yes"/>
       <point x="510" y="-441"/>
       <point x="574" y="-425"/>

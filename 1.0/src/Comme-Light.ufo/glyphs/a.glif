@@ -7,9 +7,6 @@
       <point x="558" y="1083" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="899" y="1" type="move" name="ogonek"/>
-    </contour>
-    <contour>
       <point x="498" y="1" type="move" name="bot"/>
     </contour>
     <contour>
@@ -105,13 +102,13 @@
     <key>rstem</key>
       <integer>0</integer>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     <key>com.typemytype.robofont.guides</key>
       <array>
       </array>
-    <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>
