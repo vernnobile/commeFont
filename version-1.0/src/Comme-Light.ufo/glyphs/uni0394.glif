@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0394" format="1">
+  <advance width="1339"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="252" y="134" type="line"/>
+      <point x="659" y="1329" type="line"/>
+      <point x="1077" y="134" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="0" type="line"/>
+      <point x="1268" y="0" type="line"/>
+      <point x="735" y="1486" type="line"/>
+      <point x="585" y="1486" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>Delta</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1334</integer>
+        </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

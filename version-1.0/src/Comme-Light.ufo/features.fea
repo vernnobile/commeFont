@@ -1,0 +1,120 @@
+# Prefix: Prefix
+languagesystem DFLT dflt;
+languagesystem grek dflt;
+languagesystem latn CAT ;
+languagesystem latn dflt;
+languagesystem latn MOL ;
+languagesystem latn ROM ;
+languagesystem latn TRK ;
+
+# GSUB 
+
+
+lookup ligaStandardLigatureslookup0 {
+  lookupflag 0;
+    sub \f \f  by \uniFB00;
+    sub \f \i  by \uniFB01;
+    sub \f \l  by \uniFB02;
+    sub \f \f \i  by \uniFB03;
+    sub \f \f \l  by \uniFB04;
+} ligaStandardLigatureslookup0;
+
+lookup fracDiagonalFractionslookup11 {
+  lookupflag 0;
+    sub \one \slash \two  by \onehalf;
+    sub \one \slash \four  by \onequarter;
+    sub \three \slash \four  by \threequarters;
+} fracDiagonalFractionslookup11;
+
+lookup ordnOrdinalslookup12 {
+  lookupflag 0;
+    sub [ \zero \one \two \three \four \five \six \seven \eight \nine  ] [ \A \a  ]'  by [ \ordfeminine \ordfeminine  ];
+  subtable;
+    sub [ \zero \one \two \three \four \five \six \seven \eight \nine  ] [ \O \o  ]'  by [ \ordmasculine \ordmasculine  ];
+} ordnOrdinalslookup12;
+
+lookup dligDiscretionaryLigatureslooku {
+  lookupflag 0;
+    sub \f \f  by \uniFB00;
+    sub \f \i  by \uniFB01;
+    sub \f \l  by \uniFB02;
+    sub \f \f \i  by \uniFB03;
+    sub \f \f \l  by \uniFB04;
+} dligDiscretionaryLigatureslooku;
+
+feature liga {
+ script DFLT;
+     language dflt ;
+      lookup ligaStandardLigatureslookup0;
+
+ script grek;
+     language dflt ;
+      lookup ligaStandardLigatureslookup0;
+
+ script latn;
+     language dflt ;
+      lookup ligaStandardLigatureslookup0;
+} liga;
+feature frac {
+ script DFLT;
+     language dflt ;
+      lookup fracDiagonalFractionslookup11;
+
+ script grek;
+     language dflt ;
+      lookup fracDiagonalFractionslookup11;
+
+ script latn;
+     language dflt ;
+      lookup fracDiagonalFractionslookup11;
+     language CAT  exclude_dflt;
+      lookup fracDiagonalFractionslookup11;
+     language MOL  exclude_dflt;
+      lookup fracDiagonalFractionslookup11;
+     language ROM  exclude_dflt;
+      lookup fracDiagonalFractionslookup11;
+     language TRK  exclude_dflt;
+      lookup fracDiagonalFractionslookup11;
+} frac;
+feature ordn {
+ script DFLT;
+     language dflt ;
+      lookup ordnOrdinalslookup12;
+
+ script grek;
+     language dflt ;
+      lookup ordnOrdinalslookup12;
+
+ script latn;
+     language dflt ;
+      lookup ordnOrdinalslookup12;
+     language CAT  exclude_dflt;
+      lookup ordnOrdinalslookup12;
+     language MOL  exclude_dflt;
+      lookup ordnOrdinalslookup12;
+     language ROM  exclude_dflt;
+      lookup ordnOrdinalslookup12;
+     language TRK  exclude_dflt;
+      lookup ordnOrdinalslookup12;
+} ordn;
+feature dlig {
+ script DFLT;
+     language dflt ;
+      lookup dligDiscretionaryLigatureslooku;
+
+ script grek;
+     language dflt ;
+      lookup dligDiscretionaryLigatureslooku;
+
+ script latn;
+     language dflt ;
+      lookup dligDiscretionaryLigatureslooku;
+     language CAT  exclude_dflt;
+      lookup dligDiscretionaryLigatureslooku;
+     language MOL  exclude_dflt;
+      lookup dligDiscretionaryLigatureslooku;
+     language ROM  exclude_dflt;
+      lookup dligDiscretionaryLigatureslooku;
+     language TRK  exclude_dflt;
+      lookup dligDiscretionaryLigatureslooku;
+} dlig;

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odieresis" format="1">
+  <advance width="1218"/>
+  <unicode hex="00F6"/>
+  <outline>
+    <component base="dieresis" xOffset="168"/>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde" format="1">
+  <advance width="1519"/>
+  <unicode hex="00D1"/>
+  <outline>
+    <component base="N"/>
+    <component base="tilde" xOffset="290" yOffset="394"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>
