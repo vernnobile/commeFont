@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cdotaccent" format="1">
+  <advance width="1229"/>
+  <unicode hex="010B"/>
+  <outline>
+    <contour>
+      <point x="504" y="1409" type="line"/>
+      <point x="681" y="1409" type="line"/>
+      <point x="681" y="1232" type="line"/>
+      <point x="504" y="1232" type="line"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

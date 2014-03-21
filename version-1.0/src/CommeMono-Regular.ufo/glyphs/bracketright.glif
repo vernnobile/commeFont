@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketright" format="1">
+  <advance width="1229"/>
+  <unicode hex="005D"/>
+  <outline>
+    <contour>
+      <point x="775" y="-131" type="line"/>
+      <point x="774" y="-134"/>
+      <point x="773" y="-135"/>
+      <point x="770" y="-136" type="curve"/>
+      <point x="255" y="-136" type="line"/>
+      <point x="252" y="-135"/>
+      <point x="251" y="-134"/>
+      <point x="250" y="-131" type="curve"/>
+      <point x="250" y="1" type="line"/>
+      <point x="251" y="4"/>
+      <point x="252" y="5"/>
+      <point x="255" y="6" type="curve"/>
+      <point x="586" y="6" type="line"/>
+      <point x="586" y="1588" type="line"/>
+      <point x="256" y="1588" type="line"/>
+      <point x="253" y="1589"/>
+      <point x="252" y="1590"/>
+      <point x="251" y="1593" type="curve"/>
+      <point x="251" y="1725" type="line"/>
+      <point x="252" y="1728"/>
+      <point x="253" y="1729"/>
+      <point x="256" y="1730" type="curve"/>
+      <point x="770" y="1730" type="line"/>
+      <point x="773" y="1729"/>
+      <point x="774" y="1728"/>
+      <point x="775" y="1725" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1638</integer>
+	<key>capHeight</key>
+	<integer>1491</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2011-12 by vernon adams.</string>
+	<key>descender</key>
+	<integer>-410</integer>
+	<key>familyName</key>
+	<string>Oxygen Mono</string>
+	<key>italicAngle</key>
+	<real>0.0</real>
+	<key>note</key>
+	<string>metrics = 1901, -483</string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/08/12 11:45:09</string>
+	<key>openTypeHheaAscender</key>
+	<integer>1901</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-483</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameCompatibleFullName</key>
+	<string>Oxygen Mono</string>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2011-12 by vernon adams. All rights reserved.</string>
+	<key>openTypeNameDesigner</key>
+	<string>vernon adams</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>newtypography.co.uk</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string>vernon adams</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>newtypography.co.uk</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Oxygen Mono</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeNameUniqueID</key>
+	<string>Oxygen Mono Regular</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 0.2</string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>4</integer>
+		<integer>7</integer>
+		<integer>29</integer>
+	</array>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>2</integer>
+		<integer>0</integer>
+		<integer>5</integer>
+		<integer>9</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>658</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>119</integer>
+	<key>openTypeOS2SubscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SubscriptXSize</key>
+	<integer>1331</integer>
+	<key>openTypeOS2SubscriptYOffset</key>
+	<integer>153</integer>
+	<key>openTypeOS2SubscriptYSize</key>
+	<integer>1228</integer>
+	<key>openTypeOS2SuperscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SuperscriptXSize</key>
+	<real>1331</real>
+	<key>openTypeOS2SuperscriptYOffset</key>
+	<integer>716</integer>
+	<key>openTypeOS2SuperscriptYSize</key>
+	<integer>1228</integer>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>5</integer>
+		<integer>31</integer>
+		<integer>33</integer>
+		<integer>35</integer>
+		<integer>38</integer>
+		<integer>45</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>newt</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1901</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>483</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.039625000208616257</real>
+	<key>postscriptBlueShift</key>
+	<integer>7</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-25</integer>
+		<integer>1</integer>
+		<integer>1097</integer>
+		<integer>1130</integer>
+		<integer>1491</integer>
+		<integer>1516</integer>
+		<integer>1565</integer>
+		<integer>1585</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>OxygenMono-Regular</string>
+	<key>postscriptFullName</key>
+	<string>Oxygen Mono</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-464</integer>
+		<integer>-423</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>20</integer>
+		<integer>115</integer>
+		<integer>133</integer>
+		<integer>140</integer>
+		<integer>146</integer>
+		<integer>155</integer>
+		<integer>163</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>182</integer>
+		<integer>187</integer>
+		<integer>196</integer>
+	</array>
+	<key>postscriptWeightName</key>
+	<string>Normal</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>trademark</key>
+	<string>Oxygen Mono is a trademark of vernon adams.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>1</integer>
+	<key>xHeight</key>
+	<integer>1097</integer>
+</dict>
+</plist>
