@@ -1,0 +1,8 @@
+@PACKAGE_INIT@
+
+
+set_package_properties(CommeFont PROPERTIES
+    DESCRIPTION "Comme Font, formerly known as Oxygen font"
+    URL "https://github.com/vernnobile/commeFont"
+    TYPE RUNTIME
+)
