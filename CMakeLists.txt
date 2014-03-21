@@ -38,15 +38,6 @@ feature_summary(WHAT ALL FATAL_ON_MISSING_REQUIRED_PACKAGES)
 
 set(COMME_FONT_INSTALL_DIR  ${CMAKE_INSTALL_PREFIX}/${SHARE_INSTALL_PREFIX}/fonts/comme)
 set(VERSION_PATH "version-1.0")
-
-#set(fontFiles
-#    version-0.4/mono-400/OxygenMono-Regular.ttf
-#    version-0.4/Bold-700/Oxygen-Sans-Bold.ttf
-#    version-0.4/Regular-400/Oxygen-Sans.ttf
-#)
-
 FILE(GLOB fontFiles "${CMAKE_CURRENT_SOURCE_DIR}/${VERSION_PATH}/*.ttf")
 
 install(FILES ${fontFiles} DESTINATION ${COMME_FONT_INSTALL_DIR})
-#install(GLOB ${VERSION_PATH}/*ttf DESTINATION ${COMME_FONT_INSTALL_DIR})
-#INSTALL_FILES($VERSION_PATH} "\.ttf" DESTINATION ${COMME_FONT_INSTALL_DIR})
