@@ -3,12 +3,12 @@
   <advance width="1229"/>
   <unicode hex="00E9"/>
   <outline>
-    <component base="acute" xOffset="145" yOffset="-16"/>
+    <component base="acute" xOffset="191" yOffset="-15"/>
     <component base="e"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>

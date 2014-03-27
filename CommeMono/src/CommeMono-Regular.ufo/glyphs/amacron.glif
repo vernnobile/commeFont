@@ -4,11 +4,11 @@
   <unicode hex="0101"/>
   <outline>
     <component base="a"/>
-    <component base="macron"/>
+    <component base="macron" xOffset="2.5"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>
     </dict>
