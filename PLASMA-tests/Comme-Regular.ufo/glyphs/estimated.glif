@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="estimated" format="1">
+  <advance width="534"/>
+  <unicode hex="212E"/>
+  <outline>
+    <contour>
+      <point x="441" y="264" type="curve"/>
+      <point x="143" y="264" type="line"/>
+      <point x="149" y="378"/>
+      <point x="214" y="456"/>
+      <point x="290" y="456" type="curve" smooth="yes"/>
+      <point x="382" y="456"/>
+      <point x="441" y="367"/>
+    </contour>
+    <contour>
+      <point x="45" y="238" type="curve" smooth="yes"/>
+      <point x="45" y="98"/>
+      <point x="127" y="-9"/>
+      <point x="295" y="-9" type="curve" smooth="yes"/>
+      <point x="386" y="-9"/>
+      <point x="446" y="31"/>
+      <point x="489" y="83" type="curve"/>
+      <point x="466" y="105" type="line"/>
+      <point x="423" y="59"/>
+      <point x="374" y="23"/>
+      <point x="295" y="23" type="curve" smooth="yes"/>
+      <point x="194" y="23"/>
+      <point x="142" y="107"/>
+      <point x="142" y="229" type="curve"/>
+      <point x="492" y="229" type="line"/>
+      <point x="492" y="381"/>
+      <point x="427" y="483"/>
+      <point x="287" y="483" type="curve" smooth="yes"/>
+      <point x="146" y="483"/>
+      <point x="45" y="378"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>estimated</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1223</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

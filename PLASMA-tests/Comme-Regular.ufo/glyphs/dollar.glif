@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <advance width="536"/>
+  <unicode hex="0024"/>
+  <outline>
+    <component base="S"/>
+    <contour>
+      <point x="240" y="19" type="line"/>
+      <point x="240" y="-130" type="line"/>
+      <point x="293" y="-130" type="line"/>
+      <point x="300" y="19" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="776" type="line"/>
+      <point x="240" y="627" type="line"/>
+      <point x="303" y="627" type="line"/>
+      <point x="303" y="776" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>dollar</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1221</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

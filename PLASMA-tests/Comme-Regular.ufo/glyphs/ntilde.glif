@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ntilde" format="1">
+  <advance width="530"/>
+  <unicode hex="00F1"/>
+  <outline>
+    <component base="n"/>
+    <component base="tilde" xOffset="89" yOffset="7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>431</integer>
+	    <key>width</key>	    <integer>40</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>555</integer>
+	    <key>width</key>	    <integer>39</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>598</integer>
+	    <key>width</key>	    <integer>35</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>85</integer>
+	    <key>width</key>
+	    <integer>54</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>153</integer>
+	    <key>width</key>
+	    <integer>28</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>367</integer>
+	    <key>width</key>
+	    <integer>30</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>397</integer>
+	    <key>width</key>
+	    <integer>54</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

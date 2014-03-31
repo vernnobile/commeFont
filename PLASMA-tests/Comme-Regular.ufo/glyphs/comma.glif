@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="1">
+  <advance width="276"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="85" y="-134" type="curve"/>
+      <point x="131" y="-134" type="line"/>
+      <point x="184" y="65" type="line"/>
+      <point x="184" y="105" type="line"/>
+      <point x="103" y="105" type="line"/>
+      <point x="103" y="102"/>
+      <point x="85" y="-134"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
