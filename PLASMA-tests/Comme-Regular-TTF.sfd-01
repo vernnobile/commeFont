@@ -15,18 +15,17 @@ LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
 XUID: [1021 821 1394843319 927071]
-FSType: 8
-OS2Version: 1
+FSType: 0
+OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 1
+OS2_UseTypoMetrics: 0
 CreationTime: 1396292688
-ModificationTime: 1396294014
+ModificationTime: 1396294151
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-Panose: 2 0 5 3 0 0 0 0 0 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -40,19 +39,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2SubXSize: 650
-OS2SubYSize: 700
-OS2SubXOff: 0
-OS2SubYOff: 140
-OS2SupXSize: 650
-OS2SupYSize: 700
-OS2SupXOff: 0
-OS2SupYOff: 480
-OS2StrikeYSize: 49
-OS2StrikeYPos: 258
 OS2Vendor: 'NeWT'
-OS2CodePages: 20000093.00000000
-OS2UnicodeRanges: a00000ff.4000204b.00000000.00000000
 Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0 subtable"  } ['liga' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 0 "'frac' Diagonal Fractions lookup 1"  {"'frac' Diagonal Fractions lookup 1 subtable"  } ['frac' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'CAT ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 6 0 0 "'ordn' Ordinals lookup 2"  {"'ordn' Ordinals lookup 2 contextual 0"  "'ordn' Ordinals lookup 2 contextual 1"  } ['ordn' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'CAT ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
@@ -106,7 +93,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 33 33 12
+WinInfo: 0 33 12
 BeginPrivate: 0
 EndPrivate
 Grid

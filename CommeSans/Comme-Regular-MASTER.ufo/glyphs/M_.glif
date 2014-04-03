@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="797"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="427" y="676" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="223" type="line"/>
+      <point x="174" y="557" type="line"/>
+      <point x="384" y="80" type="line"/>
+      <point x="457" y="80" type="line"/>
+      <point x="669" y="554" type="line"/>
+      <point x="672" y="224" type="line"/>
+      <point x="672" y="0" type="line"/>
+      <point x="757" y="0" type="line"/>
+      <point x="757" y="225" type="line"/>
+      <point x="745" y="676" type="line"/>
+      <point x="642" y="676" type="line"/>
+      <point x="422" y="184" type="line"/>
+      <point x="204" y="676" type="line"/>
+      <point x="96" y="676" type="line"/>
+      <point x="84" y="225" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>85</integer>
+	    <key>width</key>
+	    <integer>77</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>99</integer>
+	    <key>width</key>
+	    <integer>71</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>154</integer>
+	    <key>width</key>
+	    <integer>15</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>679</integer>
+	    <key>width</key>
+	    <integer>70</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>679</integer>
+	    <key>width</key>
+	    <integer>18</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>685</integer>
+	    <key>width</key>
+	    <integer>76</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+    <key>y</key>
+      <integer>378</integer>
+    <key>x</key>
+      <integer>548</integer>
+    <key>magnetic</key>
+      <integer>5</integer>
+    <key>angle</key>
+      <integer>0</integer>
+    <key>isGlobal</key>
+      <false/>
+      </dict>
+      </array>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,5 @@
+1000 upm
+ascent 727
+descent 273
+
+cap 676

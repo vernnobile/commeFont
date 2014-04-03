@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2074" format="1">
+  <advance width="307"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="83" y="432" type="line"/>
+      <point x="190" y="614" type="line"/>
+      <point x="190" y="432" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="288" type="line"/>
+      <point x="248" y="288" type="line"/>
+      <point x="247" y="384" type="line"/>
+      <point x="300" y="384" type="line"/>
+      <point x="303" y="432" type="line"/>
+      <point x="248" y="432" type="line"/>
+      <point x="248" y="690" type="line"/>
+      <point x="186" y="690" type="line"/>
+      <point x="22" y="434" type="line"/>
+      <point x="22" y="384" type="line"/>
+      <point x="190" y="384" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

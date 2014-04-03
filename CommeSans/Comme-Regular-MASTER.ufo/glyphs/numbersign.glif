@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="508"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="180" y="250" type="line"/>
+      <point x="223" y="458" type="line"/>
+      <point x="360" y="458" type="line"/>
+      <point x="319" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="-8" type="line"/>
+      <point x="129" y="-8" type="line"/>
+      <point x="172" y="205" type="line"/>
+      <point x="308" y="205" type="line"/>
+      <point x="267" y="-8" type="line"/>
+      <point x="317" y="-8" type="line"/>
+      <point x="359" y="205" type="line"/>
+      <point x="463" y="205" type="line"/>
+      <point x="471" y="250" type="line"/>
+      <point x="368" y="250" type="line"/>
+      <point x="411" y="458" type="line"/>
+      <point x="508" y="458" type="line"/>
+      <point x="515" y="502" type="line"/>
+      <point x="419" y="502" type="line"/>
+      <point x="465" y="719" type="line"/>
+      <point x="416" y="719" type="line"/>
+      <point x="369" y="502" type="line"/>
+      <point x="232" y="502" type="line"/>
+      <point x="278" y="719" type="line"/>
+      <point x="226" y="719" type="line"/>
+      <point x="179" y="502" type="line"/>
+      <point x="87" y="502" type="line"/>
+      <point x="80" y="458" type="line"/>
+      <point x="171" y="458" type="line"/>
+      <point x="129" y="250" type="line"/>
+      <point x="36" y="250" type="line"/>
+      <point x="31" y="205" type="line"/>
+      <point x="120" y="205" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

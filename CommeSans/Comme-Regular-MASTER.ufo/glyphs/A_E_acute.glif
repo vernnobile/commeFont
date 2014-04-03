@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AEacute" format="1">
+  <advance width="705"/>
+  <unicode hex="01FC"/>
+  <outline>
+    <component base="AE"/>
+    <component base="acute" xOffset="489" yOffset="180"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
