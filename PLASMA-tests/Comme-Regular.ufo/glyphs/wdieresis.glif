@@ -3,7 +3,7 @@
   <advance width="649"/>
   <unicode hex="1E85"/>
   <outline>
-    <component base="dieresis" xOffset="120"/>
+    <component base="dieresis" xOffset="127"/>
     <component base="w"/>
   </outline>
   <lib>

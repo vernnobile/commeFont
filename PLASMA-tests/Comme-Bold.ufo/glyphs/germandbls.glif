@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="1">
+  <advance width="566"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="384" y="-9" type="curve" smooth="yes"/>
+      <point x="491" y="-9"/>
+      <point x="543" y="45"/>
+      <point x="543" y="136" type="curve" smooth="yes"/>
+      <point x="543" y="271"/>
+      <point x="379" y="302"/>
+      <point x="379" y="333" type="curve" smooth="yes"/>
+      <point x="379" y="358"/>
+      <point x="471" y="395"/>
+      <point x="471" y="492" type="curve" smooth="yes"/>
+      <point x="471" y="590"/>
+      <point x="386" y="641"/>
+      <point x="274" y="641" type="curve" smooth="yes"/>
+      <point x="145" y="641"/>
+      <point x="57" y="564"/>
+      <point x="57" y="438" type="curve" smooth="yes"/>
+      <point x="57" y="0" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="189" y="425" type="line" smooth="yes"/>
+      <point x="189" y="505"/>
+      <point x="217" y="549"/>
+      <point x="281" y="549" type="curve" smooth="yes"/>
+      <point x="323" y="549"/>
+      <point x="350" y="531"/>
+      <point x="350" y="491" type="curve" smooth="yes"/>
+      <point x="350" y="415"/>
+      <point x="274" y="395"/>
+      <point x="274" y="321" type="curve" smooth="yes"/>
+      <point x="274" y="238"/>
+      <point x="405" y="222"/>
+      <point x="405" y="139" type="curve" smooth="yes"/>
+      <point x="405" y="103"/>
+      <point x="385" y="83"/>
+      <point x="348" y="83" type="curve" smooth="yes"/>
+      <point x="316" y="83"/>
+      <point x="279" y="95"/>
+      <point x="261" y="105" type="curve"/>
+      <point x="235" y="23" type="line"/>
+      <point x="284" y="3"/>
+      <point x="339" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>germandbls</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1278</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

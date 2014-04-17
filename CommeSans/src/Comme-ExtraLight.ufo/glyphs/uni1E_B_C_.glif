@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EBC" format="1">
-  <advance width="1161"/>
+  <advance width="566"/>
   <unicode hex="1EBC"/>
   <outline>
     <component base="E"/>
-    <component base="tilde" xOffset="153" yOffset="398"/>
+    <component base="tilde" xOffset="75" yOffset="194"/>
   </outline>
   <lib>
     <dict>

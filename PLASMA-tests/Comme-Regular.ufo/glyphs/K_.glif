@@ -4,26 +4,26 @@
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="302" y="640" type="move" name="top"/>
+      <point x="321" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="304" y="0" type="move" name="bot"/>
+      <point x="319" y="676" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="569" y="640" type="line"/>
-      <point x="475" y="640" type="line"/>
-      <point x="175" y="335" type="line"/>
-      <point x="175" y="640" type="line"/>
-      <point x="89" y="640" type="line"/>
-      <point x="89" y="0" type="line"/>
-      <point x="175" y="0" type="line"/>
-      <point x="175" y="254" type="line"/>
-      <point x="244" y="321" type="line"/>
-      <point x="490" y="0" type="line"/>
-      <point x="585" y="0" type="line"/>
-      <point x="585" y="8" type="line"/>
-      <point x="307" y="368" type="line"/>
-      <point x="569" y="631" type="line"/>
+      <point x="601" y="676" type="line"/>
+      <point x="501" y="676" type="line"/>
+      <point x="185" y="354" type="line"/>
+      <point x="185" y="676" type="line"/>
+      <point x="94" y="676" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="185" y="268" type="line"/>
+      <point x="258" y="339" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="617" y="0" type="line"/>
+      <point x="617" y="8" type="line"/>
+      <point x="324" y="388" type="line"/>
+      <point x="601" y="666" type="line"/>
     </contour>
   </outline>
   <lib>

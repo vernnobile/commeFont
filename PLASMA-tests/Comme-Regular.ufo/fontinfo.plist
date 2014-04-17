@@ -13,19 +13,19 @@
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>xHeight</key>
-	<integer>475</integer>
+	<integer>501</integer>
 	<key>capHeight</key>
-	<integer>640</integer>
+	<integer>676</integer>
 	<key>ascender</key>
-	<real>761.719</real>
+	<integer>761</integer>
 	<key>descender</key>
-	<real>-271.484</real>
+	<integer>-271</integer>
 	<key>italicAngle</key>
 	<real>0</real>
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/03/31 18:54:13</string>
+	<string>2014/04/10 16:42:47</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
@@ -61,15 +61,15 @@ http://scripts.sil.org/OFL
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>800</integer>
+	<integer>1087</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>1167</integer>
+	<integer>-234</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>1167</integer>
+	<integer>1087</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>250</integer>
+	<integer>234</integer>
 	<key>postscriptFontName</key>
 	<string>Comme-Regular</string>
 	<key>postscriptFullName</key>

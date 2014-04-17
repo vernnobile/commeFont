@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01CF" format="1">
+  <advance width="448"/>
+  <unicode hex="01CF"/>
+  <outline>
+    <component base="I"/>
+    <component base="caron" xOffset="10" yOffset="183"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

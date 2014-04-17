@@ -4,17 +4,17 @@
   <unicode hex="0326"/>
   <outline>
     <contour>
-      <point x="145" y="0" type="move" name="_bot"/>
+      <point x="153" y="0" type="move" name="_bot"/>
     </contour>
     <contour>
-      <point x="86" y="-230" type="curve"/>
-      <point x="139" y="-230" type="line"/>
-      <point x="139" y="-230"/>
-      <point x="183" y="-77"/>
-      <point x="183" y="-58" type="curve"/>
-      <point x="106" y="-58" type="line"/>
-      <point x="106" y="-89"/>
-      <point x="86" y="-230"/>
+      <point x="91" y="-243" type="curve"/>
+      <point x="147" y="-243" type="line"/>
+      <point x="147" y="-243"/>
+      <point x="193" y="-81"/>
+      <point x="193" y="-61" type="curve"/>
+      <point x="112" y="-61" type="line"/>
+      <point x="112" y="-94"/>
+      <point x="91" y="-243"/>
     </contour>
   </outline>
   <lib>

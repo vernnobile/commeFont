@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="1">
+  <advance width="381"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="226" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="154" y="663" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="275" y="-4" type="curve" smooth="yes"/>
+      <point x="285" y="-4"/>
+      <point x="325" y="-3"/>
+      <point x="325" y="-3" type="curve"/>
+      <point x="328" y="48" type="line"/>
+      <point x="328" y="48"/>
+      <point x="280" y="49"/>
+      <point x="273" y="49" type="curve" smooth="yes"/>
+      <point x="198" y="51"/>
+      <point x="188" y="67"/>
+      <point x="188" y="152" type="curve" smooth="yes"/>
+      <point x="188" y="483" type="line"/>
+      <point x="333" y="483" type="line"/>
+      <point x="333" y="528" type="line"/>
+      <point x="188" y="528" type="line"/>
+      <point x="188" y="673" type="line"/>
+      <point x="128" y="668" type="line"/>
+      <point x="116" y="528" type="line"/>
+      <point x="35" y="524" type="line"/>
+      <point x="34" y="483" type="line"/>
+      <point x="115" y="483" type="line"/>
+      <point x="115" y="152" type="line" smooth="yes"/>
+      <point x="115" y="33"/>
+      <point x="145" y="-4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-5</integer>
+	    <key>width</key>	    <integer>41</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>119</integer>
+	    <key>width</key>
+	    <integer>60</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>140</integer>
+	    <key>width</key>
+	    <integer>39</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>189</integer>
+    <key>rstem</key>
+      <integer>480</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

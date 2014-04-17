@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="1">
+  <advance width="732"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="379" y="-0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="362" y="711" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="102" y="4" type="line"/>
+      <point x="155" y="-2"/>
+      <point x="205" y="-5"/>
+      <point x="249" y="-5" type="curve" smooth="yes"/>
+      <point x="558" y="-5"/>
+      <point x="658" y="138"/>
+      <point x="658" y="362" type="curve" smooth="yes"/>
+      <point x="658" y="576"/>
+      <point x="587" y="714"/>
+      <point x="282" y="714" type="curve" smooth="yes"/>
+      <point x="229" y="714"/>
+      <point x="169" y="711"/>
+      <point x="102" y="702" type="curve"/>
+    </contour>
+    <contour>
+      <point x="179" y="54" type="curve"/>
+      <point x="179" y="652" type="line"/>
+      <point x="219" y="656"/>
+      <point x="255" y="658"/>
+      <point x="287" y="658" type="curve" smooth="yes"/>
+      <point x="523" y="658"/>
+      <point x="581" y="550"/>
+      <point x="581" y="359" type="curve" smooth="yes"/>
+      <point x="581" y="173"/>
+      <point x="519" y="50"/>
+      <point x="269" y="50" type="curve" smooth="yes"/>
+      <point x="242" y="50"/>
+      <point x="211" y="51"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>46</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>662</integer>
+	    <key>width</key>	    <integer>46</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>625</integer>
+	    <key>width</key>
+	    <integer>60</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

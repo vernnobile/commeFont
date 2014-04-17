@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="1">
+  <advance width="442"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="330" y="57" type="line"/>
+      <point x="407" y="57" type="line"/>
+      <point x="298" y="244" type="line"/>
+      <point x="409" y="429" type="line"/>
+      <point x="331" y="429" type="line"/>
+      <point x="198" y="242" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="57" type="line"/>
+      <point x="232" y="57" type="line"/>
+      <point x="121" y="244" type="line"/>
+      <point x="234" y="429" type="line"/>
+      <point x="155" y="429" type="line"/>
+      <point x="22" y="242" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>guillemotleft</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>994</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

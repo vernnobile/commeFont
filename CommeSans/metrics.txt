@@ -3,3 +3,7 @@ ascent 727
 descent 273
 
 cap 676
+
+OS2
+asc 1087
+desc -234

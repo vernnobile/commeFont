@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn" format="1">
-  <advance width="1238"/>
+  <advance width="604"/>
   <unicode hex="00FE"/>
   <outline>
-    <component base="b" xOffset="-26"/>
+    <component base="b" xOffset="-13"/>
     <contour>
-      <point x="154" y="300" type="line"/>
-      <point x="154" y="-493" type="line"/>
-      <point x="271" y="-493" type="line"/>
-      <point x="271" y="300" type="line"/>
+      <point x="75" y="146" type="line"/>
+      <point x="75" y="-241" type="line"/>
+      <point x="132" y="-241" type="line"/>
+      <point x="132" y="146" type="line"/>
     </contour>
   </outline>
   <lib>

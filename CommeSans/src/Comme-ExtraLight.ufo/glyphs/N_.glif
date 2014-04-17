@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="1">
-  <advance width="1531"/>
+  <advance width="747"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="772" y="0" type="move" name="bot"/>
+      <point x="381" y="710" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="780" y="1455" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="1212" y="1455" type="line"/>
-      <point x="1212" y="538" type="line"/>
-      <point x="1219" y="153" type="line"/>
-      <point x="329" y="1455" type="line"/>
-      <point x="216" y="1455" type="line"/>
-      <point x="216" y="0" type="line"/>
-      <point x="321" y="0" type="line"/>
-      <point x="321" y="903" type="line"/>
-      <point x="309" y="1300" type="line"/>
-      <point x="1199" y="0" type="line"/>
-      <point x="1315" y="0" type="line"/>
-      <point x="1315" y="1455" type="line"/>
+      <point x="592" y="710" type="line"/>
+      <point x="592" y="263" type="line"/>
+      <point x="595" y="75" type="line"/>
+      <point x="161" y="710" type="line"/>
+      <point x="105" y="710" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="441" type="line"/>
+      <point x="151" y="635" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="642" y="0" type="line"/>
+      <point x="642" y="710" type="line"/>
     </contour>
   </outline>
   <lib>

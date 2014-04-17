@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="1266"/>
+  <unicode hex="2030"/>
+  <outline>
+    <component base="percent" xOffset="17"/>
+    <contour>
+      <point x="1059" y="-12" type="curve" smooth="yes"/>
+      <point x="1163" y="-12"/>
+      <point x="1226" y="65"/>
+      <point x="1226" y="163" type="curve" smooth="yes"/>
+      <point x="1226" y="262"/>
+      <point x="1164" y="335"/>
+      <point x="1059" y="335" type="curve" smooth="yes"/>
+      <point x="955" y="335"/>
+      <point x="893" y="260"/>
+      <point x="893" y="163" type="curve" smooth="yes"/>
+      <point x="893" y="65"/>
+      <point x="954" y="-12"/>
+    </contour>
+    <contour>
+      <point x="1061" y="60" type="curve" smooth="yes"/>
+      <point x="1007" y="60"/>
+      <point x="977" y="105"/>
+      <point x="977" y="164" type="curve" smooth="yes"/>
+      <point x="977" y="221"/>
+      <point x="1007" y="266"/>
+      <point x="1061" y="266" type="curve" smooth="yes"/>
+      <point x="1115" y="266"/>
+      <point x="1141" y="224"/>
+      <point x="1141" y="164" type="curve" smooth="yes"/>
+      <point x="1141" y="107"/>
+      <point x="1115" y="60"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>perthousand</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>2251</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

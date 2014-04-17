@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f" format="1">
+  <advance width="365"/>
+  <unicode hex="0066"/>
+  <outline>
+    <contour>
+      <point x="192" y="711" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="348" y="732" type="line"/>
+      <point x="348" y="732"/>
+      <point x="312" y="740"/>
+      <point x="276" y="740" type="curve" smooth="yes"/>
+      <point x="182" y="740"/>
+      <point x="132" y="709"/>
+      <point x="132" y="568" type="curve" smooth="yes"/>
+      <point x="132" y="527" type="line"/>
+      <point x="37" y="521" type="line"/>
+      <point x="35" y="483" type="line"/>
+      <point x="132" y="483" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="205" y="483" type="line"/>
+      <point x="337" y="483" type="line"/>
+      <point x="337" y="528" type="line"/>
+      <point x="205" y="528" type="line"/>
+      <point x="205" y="568" type="line" smooth="yes"/>
+      <point x="205" y="666"/>
+      <point x="225" y="686"/>
+      <point x="292" y="686" type="curve" smooth="yes"/>
+      <point x="311" y="686"/>
+      <point x="343" y="682"/>
+      <point x="343" y="682" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>465</integer>
+	    <key>width</key>	    <integer>43</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>663</integer>
+	    <key>width</key>	    <integer>60</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>131</integer>
+	    <key>width</key>
+	    <integer>81</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>182</integer>
+    <key>rstem</key>
+      <integer>417</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

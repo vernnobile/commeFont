@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0237" format="1">
+  <advance width="275"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="155" y="528" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="118" y="528" type="line"/>
+      <point x="118" y="14" type="line" smooth="yes"/>
+      <point x="118" y="-80"/>
+      <point x="116" y="-101"/>
+      <point x="43" y="-113" type="curve"/>
+      <point x="15" y="-118" type="line"/>
+      <point x="22" y="-178" type="line"/>
+      <point x="51" y="-175" type="line" smooth="yes"/>
+      <point x="150" y="-165"/>
+      <point x="190" y="-129"/>
+      <point x="190" y="-6" type="curve" smooth="yes"/>
+      <point x="190" y="528" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-234</integer>
+	    <key>width</key>	    <integer>55</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>54</integer>
+	    <key>width</key>
+	    <integer>69</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

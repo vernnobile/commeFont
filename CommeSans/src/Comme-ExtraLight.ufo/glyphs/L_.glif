@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="1085"/>
+  <advance width="529"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="638" y="0" type="move" name="bot"/>
+      <point x="246" y="710" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="504" y="1455" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="216" y="1455" type="line"/>
-      <point x="216" y="0" type="line"/>
-      <point x="1044" y="0" type="line"/>
-      <point x="1043" y="95" type="line"/>
-      <point x="338" y="95" type="line"/>
-      <point x="338" y="1455" type="line"/>
+      <point x="105" y="710" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="510" y="0" type="line"/>
+      <point x="509" y="46" type="line"/>
+      <point x="165" y="46" type="line"/>
+      <point x="165" y="710" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -5,16 +5,16 @@
   <outline>
     <component base="Y"/>
     <contour>
-      <point x="113" y="224" type="line"/>
-      <point x="475" y="224" type="line"/>
-      <point x="475" y="273" type="line"/>
-      <point x="113" y="273" type="line"/>
+      <point x="119" y="236" type="line"/>
+      <point x="501" y="236" type="line"/>
+      <point x="501" y="288" type="line"/>
+      <point x="119" y="288" type="line"/>
     </contour>
     <contour>
-      <point x="113" y="112" type="line"/>
-      <point x="475" y="112" type="line"/>
-      <point x="475" y="161" type="line"/>
-      <point x="113" y="161" type="line"/>
+      <point x="119" y="118" type="line"/>
+      <point x="501" y="118" type="line"/>
+      <point x="501" y="170" type="line"/>
+      <point x="119" y="170" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -3,12 +3,12 @@
   <advance width="531"/>
   <unicode hex="00FE"/>
   <outline>
-    <component base="b" xOffset="-23"/>
+    <component base="b" xOffset="-24"/>
     <contour>
-      <point x="49" y="149" type="line"/>
-      <point x="49" y="-202" type="line"/>
-      <point x="126" y="-202" type="line"/>
-      <point x="126" y="149" type="line"/>
+      <point x="52" y="157" type="line"/>
+      <point x="52" y="-213" type="line"/>
+      <point x="133" y="-213" type="line"/>
+      <point x="133" y="157" type="line"/>
     </contour>
   </outline>
   <lib>

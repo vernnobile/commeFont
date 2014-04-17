@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="1">
+  <advance width="816"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="663" y="643" type="line"/>
+      <point x="582" y="643" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="256" type="line"/>
+      <point x="273" y="256" type="line"/>
+      <point x="273" y="314" type="line"/>
+      <point x="212" y="314" type="line"/>
+      <point x="212" y="643" type="line"/>
+      <point x="150" y="643" type="line"/>
+      <point x="137" y="634"/>
+      <point x="81" y="604"/>
+      <point x="61" y="594" type="curve"/>
+      <point x="61" y="536" type="line"/>
+      <point x="65" y="536"/>
+      <point x="115" y="559"/>
+      <point x="131" y="568" type="curve"/>
+      <point x="131" y="314" type="line"/>
+      <point x="65" y="314" type="line"/>
+    </contour>
+    <contour>
+      <point x="533" y="0" type="line"/>
+      <point x="768" y="0" type="line"/>
+      <point x="770" y="61" type="line"/>
+      <point x="620" y="61" type="line"/>
+      <point x="698" y="131" type="line" smooth="yes"/>
+      <point x="752" y="178"/>
+      <point x="774" y="219"/>
+      <point x="774" y="261" type="curve" smooth="yes"/>
+      <point x="774" y="322"/>
+      <point x="734" y="378"/>
+      <point x="641" y="378" type="curve" smooth="yes"/>
+      <point x="580" y="378"/>
+      <point x="530" y="344"/>
+      <point x="504" y="307" type="curve"/>
+      <point x="546" y="263" type="line"/>
+      <point x="569" y="293"/>
+      <point x="605" y="311"/>
+      <point x="639" y="311" type="curve" smooth="yes"/>
+      <point x="669" y="311"/>
+      <point x="694" y="294"/>
+      <point x="694" y="262" type="curve" smooth="yes"/>
+      <point x="694" y="238"/>
+      <point x="681" y="214"/>
+      <point x="649" y="183" type="curve" smooth="yes"/>
+      <point x="523" y="59" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

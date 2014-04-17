@@ -3,7 +3,7 @@
   <advance width="809"/>
   <unicode hex="1E41"/>
   <outline>
-    <component base="dotaccent" xOffset="340"/>
+    <component base="dotaccent" xOffset="359"/>
     <component base="m"/>
   </outline>
   <lib>

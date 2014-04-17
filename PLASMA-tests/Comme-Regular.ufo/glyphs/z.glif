@@ -4,22 +4,22 @@
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="225" y="475" type="move" name="top"/>
+      <point x="224" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="212" y="0" type="move" name="bot"/>
+      <point x="237" y="501" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="53" y="475" type="line"/>
-      <point x="56" y="418" type="line"/>
-      <point x="307" y="418" type="line"/>
-      <point x="44" y="51" type="line"/>
-      <point x="44" y="0" type="line"/>
-      <point x="395" y="0" type="line"/>
-      <point x="392" y="59" type="line"/>
-      <point x="133" y="59" type="line"/>
-      <point x="391" y="421" type="line"/>
-      <point x="391" y="475" type="line"/>
+      <point x="56" y="501" type="line"/>
+      <point x="59" y="441" type="line"/>
+      <point x="324" y="441" type="line"/>
+      <point x="46" y="54" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="417" y="0" type="line"/>
+      <point x="414" y="62" type="line"/>
+      <point x="140" y="62" type="line"/>
+      <point x="413" y="444" type="line"/>
+      <point x="413" y="501" type="line"/>
     </contour>
   </outline>
   <lib>

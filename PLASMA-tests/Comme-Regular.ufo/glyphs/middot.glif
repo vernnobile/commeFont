@@ -2,7 +2,7 @@
 <glyph name="middot" format="1">
   <advance width="264"/>
   <outline>
-    <component base="period" xOffset="-2" yOffset="225"/>
+    <component base="period" xOffset="-2" yOffset="237"/>
   </outline>
   <lib>
     <dict>

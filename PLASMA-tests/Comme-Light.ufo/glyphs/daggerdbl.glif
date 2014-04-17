@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="502"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="223" y="718" type="line"/>
+      <point x="223" y="528" type="line"/>
+      <point x="86" y="528" type="line"/>
+      <point x="86" y="486" type="line"/>
+      <point x="223" y="486" type="line"/>
+      <point x="223" y="267" type="line"/>
+      <point x="86" y="267" type="line"/>
+      <point x="86" y="226" type="line"/>
+      <point x="223" y="226" type="line"/>
+      <point x="223" y="46" type="line"/>
+      <point x="271" y="46" type="line"/>
+      <point x="271" y="226" type="line"/>
+      <point x="404" y="226" type="line"/>
+      <point x="404" y="267" type="line"/>
+      <point x="271" y="267" type="line"/>
+      <point x="271" y="486" type="line"/>
+      <point x="405" y="486" type="line"/>
+      <point x="405" y="528" type="line"/>
+      <point x="269" y="528" type="line"/>
+      <point x="269" y="718" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>daggerdbl</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1022</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
