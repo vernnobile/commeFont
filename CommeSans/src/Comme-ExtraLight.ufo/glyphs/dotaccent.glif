@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="169"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="83" y="528" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="128" y="690" type="curve" smooth="yes"/>
+      <point x="128" y="718"/>
+      <point x="113" y="734"/>
+      <point x="83" y="734" type="curve" smooth="yes"/>
+      <point x="53" y="734"/>
+      <point x="38" y="718"/>
+      <point x="38" y="690" type="curve" smooth="yes"/>
+      <point x="38" y="661"/>
+      <point x="53" y="646"/>
+      <point x="83" y="646" type="curve" smooth="yes"/>
+      <point x="113" y="646"/>
+      <point x="128" y="661"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

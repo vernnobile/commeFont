@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g" format="1">
+  <advance width="529"/>
+  <unicode hex="0067"/>
+  <outline>
+    <contour>
+      <point x="280" y="501" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="278" y="53" type="curve" smooth="yes"/>
+      <point x="183" y="53"/>
+      <point x="138" y="127"/>
+      <point x="138" y="253" type="curve" smooth="yes"/>
+      <point x="138" y="375"/>
+      <point x="186" y="451"/>
+      <point x="277" y="451" type="curve" smooth="yes"/>
+      <point x="331" y="451"/>
+      <point x="372" y="429"/>
+      <point x="403" y="387" type="curve"/>
+      <point x="403" y="108" type="line"/>
+      <point x="377" y="72"/>
+      <point x="331" y="53"/>
+    </contour>
+    <contour>
+      <point x="270" y="-8" type="curve" smooth="yes"/>
+      <point x="314" y="-8"/>
+      <point x="367" y="2"/>
+      <point x="405" y="42" type="curve"/>
+      <point x="405" y="4" type="line"/>
+      <point x="405" y="2" type="line" smooth="yes"/>
+      <point x="405" y="-121"/>
+      <point x="353" y="-159"/>
+      <point x="259" y="-159" type="curve" smooth="yes"/>
+      <point x="217" y="-159"/>
+      <point x="164" y="-150"/>
+      <point x="125" y="-134" type="curve"/>
+      <point x="114" y="-134" type="line"/>
+      <point x="107" y="-199" type="line"/>
+      <point x="147" y="-214"/>
+      <point x="203" y="-226"/>
+      <point x="260" y="-226" type="curve" smooth="yes"/>
+      <point x="424" y="-226"/>
+      <point x="486" y="-145"/>
+      <point x="486" y="23" type="curve" smooth="yes"/>
+      <point x="486" y="501" type="line"/>
+      <point x="414" y="501" type="line"/>
+      <point x="410" y="452" type="line"/>
+      <point x="382" y="487"/>
+      <point x="334" y="513"/>
+      <point x="271" y="513" type="curve" smooth="yes"/>
+      <point x="137" y="513"/>
+      <point x="53" y="411"/>
+      <point x="53" y="253" type="curve" smooth="yes"/>
+      <point x="53" y="92"/>
+      <point x="133" y="-8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-197</integer>
+	    <key>width</key>	    <integer>46</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>42</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>455</integer>
+	    <key>width</key>	    <integer>42</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>59</integer>
+	    <key>width</key>
+	    <integer>57</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>453</integer>
+	    <key>width</key>
+	    <integer>58</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>453</integer>
+	    <key>width</key>
+	    <integer>17</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
