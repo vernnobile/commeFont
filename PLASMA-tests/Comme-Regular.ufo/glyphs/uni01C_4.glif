@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C4" format="1">
-  <advance width="1181"/>
+  <advance width="1180"/>
   <unicode hex="01C4"/>
   <outline>
     <component base="D"/>
-    <component base="Z" xOffset="696"/>
-    <component base="caron" xOffset="799" yOffset="174"/>
+    <component base="Z" xOffset="658"/>
+    <component base="caron" xOffset="760" yOffset="175"/>
   </outline>
   <lib>
     <dict>
-    <key>org.pippin.gimp.org.kernagic</key>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-    <key>lstem</key>
-      <integer>0</integer>
-    <key>rstem</key>
-      <integer>0</integer>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

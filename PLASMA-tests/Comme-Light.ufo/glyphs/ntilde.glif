@@ -4,61 +4,65 @@
   <unicode hex="00F1"/>
   <outline>
     <component base="n"/>
-    <component base="tilde" xOffset="92" yOffset="10"/>
+    <component base="tilde" xOffset="91" yOffset="9"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>479</integer>
-	    <key>width</key>	    <integer>45</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>617</integer>
-	    <key>width</key>	    <integer>43</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>665</integer>
-	    <key>width</key>	    <integer>39</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>94</integer>
-	    <key>width</key>
-	    <integer>60</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>170</integer>
-	    <key>width</key>
-	    <integer>31</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>408</integer>
-	    <key>width</key>
-	    <integer>33</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>441</integer>
-	    <key>width</key>
-	    <integer>60</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>479</integer>
+            <key>width</key>
+            <integer>45</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>617</integer>
+            <key>width</key>
+            <integer>43</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>665</integer>
+            <key>width</key>
+            <integer>39</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>94</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>170</integer>
+            <key>width</key>
+            <integer>31</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>408</integer>
+            <key>width</key>
+            <integer>33</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>441</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+        </array>
       </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

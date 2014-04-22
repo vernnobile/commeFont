@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C9" format="1">
-  <advance width="599"/>
+  <advance width="594"/>
   <unicode hex="01C9"/>
   <outline>
-    <component base="j" xOffset="316"/>
-    <component base="l" xOffset="18"/>
+    <component base="j"/>
+    <component base="l" xOffset="283"/>
   </outline>
   <lib>
     <dict>
-    <key>org.pippin.gimp.org.kernagic</key>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-    <key>lstem</key>
-      <integer>0</integer>
-    <key>rstem</key>
-      <integer>0</integer>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

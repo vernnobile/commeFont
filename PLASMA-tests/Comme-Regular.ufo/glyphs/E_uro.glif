@@ -3,7 +3,6 @@
   <advance width="611"/>
   <unicode hex="20AC"/>
   <outline>
-    <component base="C" xOffset="-35"/>
     <contour>
       <point x="-24" y="245" type="line"/>
       <point x="376" y="245" type="line"/>
@@ -18,44 +17,39 @@
       <point x="57" y="299" type="line"/>
       <point x="-21" y="299" type="line"/>
     </contour>
+    <component base="C" xOffset="-35"/>
   </outline>
   <lib>
     <dict>
-    <key>org.pippin.gimp.org.kernagic</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-    <key>lstem</key>
-      <integer>0</integer>
-    <key>rstem</key>
-      <integer>0</integer>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>Euro</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1391</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>Euro</string>
-    <key>lib</key>
-      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1391</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

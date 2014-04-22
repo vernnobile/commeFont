@@ -4,9 +4,6 @@
   <unicode hex="0068"/>
   <outline>
     <contour>
-      <point x="308" y="648" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="78" y="0" type="line"/>
       <point x="161" y="0" type="line"/>
       <point x="161" y="277" type="line" smooth="yes"/>
@@ -29,47 +26,50 @@
       <point x="161" y="724" type="line"/>
       <point x="78" y="715" type="line"/>
     </contour>
+    <contour>
+      <point x="308" y="648" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>455</integer>
-	    <key>width</key>	    <integer>42</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>90</integer>
-	    <key>width</key>
-	    <integer>57</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>422</integer>
-	    <key>width</key>
-	    <integer>57</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>455</integer>
+            <key>width</key>
+            <integer>42</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>90</integer>
+            <key>width</key>
+            <integer>57</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>422</integer>
+            <key>width</key>
+            <integer>57</integer>
+          </dict>
+        </array>
       </dict>
-    <key>org.pippin.gimp.org.kernagic</key>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-    <key>lstem</key>
-      <integer>0</integer>
-    <key>rstem</key>
-      <integer>0</integer>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

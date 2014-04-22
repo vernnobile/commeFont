@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar" format="1">
-  <advance width="527"/>
+  <advance width="523"/>
   <unicode hex="0127"/>
   <outline>
     <component base="h"/>
-    <component base="macron" xOffset="-96" yOffset="-46"/>
+    <component base="macron" xOffset="33" yOffset="151"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

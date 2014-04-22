@@ -4,16 +4,14 @@
   <unicode hex="0105"/>
   <outline>
     <component base="a"/>
-    <component base="ogonek" xOffset="173" yOffset="-3.8"/>
+    <component base="ogonek" xOffset="173" yOffset="-4"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

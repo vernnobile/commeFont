@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFB04" format="1">
-  <advance width="1011"/>
+  <advance width="1009"/>
   <unicode hex="FB04"/>
   <outline>
-    <component base="f" xOffset="-14"/>
-    <component base="f" xOffset="336"/>
-    <component base="l" xOffset="682"/>
+    <component base="f"/>
+    <component base="f" xOffset="349"/>
+    <component base="l" xOffset="698"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>
