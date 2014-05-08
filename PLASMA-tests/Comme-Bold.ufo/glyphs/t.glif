@@ -4,6 +4,12 @@
   <unicode hex="0074"/>
   <outline>
     <contour>
+      <point x="216" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="171" y="574" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="267" y="-4" type="curve"/>
       <point x="344" y="-2" type="line"/>
       <point x="348" y="84" type="line"/>
@@ -25,53 +31,47 @@
       <point x="89" y="51"/>
       <point x="111" y="-4"/>
     </contour>
-    <contour>
-      <point x="171" y="574" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="216" y="0" type="move" name="bot"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-4</integer>
-            <key>width</key>
-            <integer>36</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>104</integer>
-            <key>width</key>
-            <integer>53</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>123</integer>
-            <key>width</key>
-            <integer>34</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-4</integer>
+	    <key>width</key>	    <integer>36</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>104</integer>
+	    <key>width</key>
+	    <integer>53</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>123</integer>
+	    <key>width</key>
+	    <integer>34</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>189</integer>
-        <key>rstem</key>
-        <integer>480</integer>
+    <key>lstem</key>
+      <integer>189</integer>
+    <key>rstem</key>
+      <integer>480</integer>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

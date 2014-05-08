@@ -4,6 +4,12 @@
   <unicode hex="006E"/>
   <outline>
     <contour>
+      <point x="334" y="528" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="292" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
       <point x="84" y="0" type="line"/>
       <point x="157" y="0" type="line"/>
       <point x="157" y="304" type="line" smooth="yes"/>
@@ -25,65 +31,55 @@
       <point x="145" y="528" type="line"/>
       <point x="84" y="528" type="line"/>
     </contour>
-    <contour>
-      <point x="292" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="334" y="528" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>11</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>479</integer>
-            <key>width</key>
-            <integer>45</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>505</integer>
-            <key>width</key>
-            <integer>10</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>94</integer>
-            <key>width</key>
-            <integer>60</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>441</integer>
-            <key>width</key>
-            <integer>60</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>11</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>479</integer>
+	    <key>width</key>	    <integer>45</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>505</integer>
+	    <key>width</key>	    <integer>10</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>94</integer>
+	    <key>width</key>
+	    <integer>60</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>441</integer>
+	    <key>width</key>
+	    <integer>60</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

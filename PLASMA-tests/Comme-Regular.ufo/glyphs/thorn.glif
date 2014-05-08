@@ -3,45 +3,51 @@
   <advance width="531"/>
   <unicode hex="00FE"/>
   <outline>
+    <component base="b" xOffset="-24"/>
     <contour>
       <point x="52" y="157" type="line"/>
       <point x="52" y="-213" type="line"/>
       <point x="133" y="-213" type="line"/>
       <point x="133" y="157" type="line"/>
     </contour>
-    <component base="b" xOffset="-24"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>thorn</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>1221</integer>
-        </dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>thorn</string>
+    <key>lib</key>
+      <dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1221</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

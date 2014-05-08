@@ -20,7 +20,7 @@
     <contour>
       <point x="143" y="0" type="line"/>
       <point x="284" y="0" type="line"/>
-      <point x="450" y="229" type="line"/>
+      <point x="450" y="229" type="line" smooth="yes"/>
       <point x="496" y="291"/>
       <point x="526" y="349"/>
       <point x="526" y="429" type="curve" smooth="yes"/>
@@ -43,17 +43,19 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

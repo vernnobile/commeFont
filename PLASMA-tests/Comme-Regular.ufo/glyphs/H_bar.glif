@@ -3,27 +3,29 @@
   <advance width="652"/>
   <unicode hex="0126"/>
   <outline>
+    <component base="H"/>
     <contour>
       <point x="30" y="593" type="line"/>
       <point x="30" y="536" type="line"/>
       <point x="655" y="536" type="line"/>
       <point x="655" y="593" type="line"/>
     </contour>
-    <component base="H"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>0</integer>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>0</integer>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

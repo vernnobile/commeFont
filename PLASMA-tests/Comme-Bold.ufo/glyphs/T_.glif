@@ -4,6 +4,12 @@
   <unicode hex="0054"/>
   <outline>
     <contour>
+      <point x="269" y="2" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="269" y="626" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="13" y="626" type="line"/>
       <point x="13" y="536" type="line"/>
       <point x="197" y="536" type="line"/>
@@ -13,26 +19,22 @@
       <point x="518" y="536" type="line"/>
       <point x="518" y="626" type="line"/>
     </contour>
-    <contour>
-      <point x="269" y="626" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="269" y="2" type="move" name="bot"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.pippin.gimp.org.kernagic</key>
+    <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-        <key>lstem</key>
-        <integer>285</integer>
-        <key>rstem</key>
-        <integer>844</integer>
+    <key>lstem</key>
+      <integer>285</integer>
+    <key>rstem</key>
+      <integer>844</integer>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

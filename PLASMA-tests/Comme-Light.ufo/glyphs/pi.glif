@@ -36,7 +36,7 @@
       <point x="60" y="2" type="line"/>
       <point x="225" y="2"/>
       <point x="258" y="54"/>
-      <point x="264" y="163" type="curve"/>
+      <point x="264" y="163" type="curve" smooth="yes"/>
       <point x="282" y="455" type="line"/>
       <point x="473" y="455" type="line"/>
       <point x="456" y="331"/>
@@ -48,10 +48,12 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

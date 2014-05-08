@@ -4,6 +4,12 @@
   <unicode hex="0063"/>
   <outline>
     <contour>
+      <point x="260" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="265" y="465" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="370" y="124" type="line"/>
       <point x="351" y="86"/>
       <point x="321" y="59"/>
@@ -34,92 +40,84 @@
       <point x="434" y="93" type="curve"/>
       <point x="376" y="124" type="line"/>
     </contour>
-    <contour>
-      <point x="265" y="465" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="260" y="0" type="move" name="bot"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-8</integer>
-            <key>width</key>
-            <integer>40</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>421</integer>
-            <key>width</key>
-            <integer>40</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>54</integer>
-            <key>width</key>
-            <integer>52</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-8</integer>
+	    <key>width</key>	    <integer>40</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>421</integer>
+	    <key>width</key>	    <integer>40</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>54</integer>
+	    <key>width</key>
+	    <integer>52</integer>
+	  </dict>
+	</array>
       </dict>
-      <key>com.typemytype.robofont.guides</key>
+    <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+    <key>lstem</key>
+      <integer>0</integer>
+    <key>rstem</key>
+      <integer>696</integer>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
-          <key>angle</key>
-          <real>90</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>962</integer>
-          <key>y</key>
-          <integer>417</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>565</integer>
-          <key>y</key>
-          <integer>1020</integer>
-        </dict>
-        <dict>
-          <key>angle</key>
-          <real>90</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>572</integer>
-          <key>y</key>
-          <integer>994</integer>
-        </dict>
-      </array>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-      <key>org.pippin.gimp.org.kernagic</key>
-      <dict>
-        <key>lstem</key>
-        <integer>0</integer>
-        <key>rstem</key>
-        <integer>696</integer>
+    <key>y</key>
+      <integer>417</integer>
+    <key>x</key>
+      <integer>962</integer>
+    <key>magnetic</key>
+      <integer>5</integer>
+    <key>angle</key>
+      <real>90</real>
+    <key>isGlobal</key>
+      <false/>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+        <dict>
+    <key>y</key>
+      <integer>1020</integer>
+    <key>x</key>
+      <integer>565</integer>
+    <key>magnetic</key>
+      <integer>5</integer>
+    <key>angle</key>
+      <real>90</real>
+    <key>isGlobal</key>
+      <false/>
+      </dict>
+        <dict>
+    <key>y</key>
+      <integer>994</integer>
+    <key>x</key>
+      <integer>572</integer>
+    <key>magnetic</key>
+      <integer>5</integer>
+    <key>angle</key>
+      <real>90</real>
+    <key>isGlobal</key>
+      <false/>
+      </dict>
+      </array>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

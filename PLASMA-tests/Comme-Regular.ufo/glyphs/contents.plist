@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
+    <dict>
 	<key>A</key>
 	<string>A_.glif</string>
 	<key>AE</key>
@@ -708,30 +708,30 @@
 	<string>uni00B_3.glif</string>
 	<key>uni00B9</key>
 	<string>uni00B_9.glif</string>
-	<key>uni0122</key>
-	<string>uni0122.glif</string>
-	<key>uni0123</key>
-	<string>uni0123.glif</string>
-	<key>uni0136</key>
-	<string>uni0136.glif</string>
-	<key>uni0137</key>
-	<string>uni0137.glif</string>
-	<key>uni013B</key>
-	<string>uni013B_.glif</string>
-	<key>uni013C</key>
-	<string>uni013C_.glif</string>
-	<key>uni0145</key>
-	<string>uni0145.glif</string>
-	<key>uni0146</key>
-	<string>uni0146.glif</string>
-	<key>uni0156</key>
-	<string>uni0156.glif</string>
-	<key>uni0157</key>
-	<string>uni0157.glif</string>
-	<key>uni0162</key>
-	<string>uni0162.glif</string>
-	<key>uni0163</key>
-	<string>uni0163.glif</string>
+	<key>Gcommaaccent</key>
+	<string>G_commaaccent.glif</string>
+	<key>gcommaaccent</key>
+	<string>gcommaaccent.glif</string>
+	<key>Kcommaaccent</key>
+	<string>K_commaaccent.glif</string>
+	<key>kcommaaccent</key>
+	<string>kcommaaccent.glif</string>
+	<key>Lcommaaccent</key>
+	<string>L_commaaccent.glif</string>
+	<key>lcommaaccent</key>
+	<string>lcommaaccent.glif</string>
+	<key>Ncommaaccent</key>
+	<string>N_commaaccent.glif</string>
+	<key>ncommaaccent</key>
+	<string>ncommaaccent.glif</string>
+	<key>Rcommaaccent</key>
+	<string>R_commaaccent.glif</string>
+	<key>rcommaaccent</key>
+	<string>rcommaaccent.glif</string>
+	<key>Tcommaaccent</key>
+	<string>T_commaaccent.glif</string>
+	<key>tcommaaccent</key>
+	<string>tcommaaccent.glif</string>
 	<key>uni01C4</key>
 	<string>uni01C_4.glif</string>
 	<key>uni01C5</key>
@@ -842,10 +842,10 @@
 	<string>uni0216.glif</string>
 	<key>uni0217</key>
 	<string>uni0217.glif</string>
-	<key>uni0218</key>
-	<string>uni0218.glif</string>
-	<key>uni0219</key>
-	<string>uni0219.glif</string>
+	<key>Scommaaccent</key>
+	<string>S_commaaccent.glif</string>
+	<key>scommaaccent</key>
+	<string>scommaaccent.glif</string>
 	<key>uni021A</key>
 	<string>uni021A_.glif</string>
 	<key>uni021B</key>
@@ -874,8 +874,8 @@
 	<string>uni0237.glif</string>
 	<key>uni0259</key>
 	<string>uni0259.glif</string>
-	<key>uni02BC</key>
-	<string>uni02B_C_.glif</string>
+	<key>afii57929</key>
+	<string>afii57929.glif</string>
 	<key>uni02C9</key>
 	<string>uni02C_9.glif</string>
 	<key>uni0307</key>
@@ -934,8 +934,8 @@
 	<string>uni1E_F_9.glif</string>
 	<key>uni2074</key>
 	<string>uni2074.glif</string>
-	<key>uni2113</key>
-	<string>uni2113.glif</string>
+	<key>afii61289</key>
+	<string>afii61289.glif</string>
 	<key>uni2215</key>
 	<string>uni2215.glif</string>
 	<key>uni2219</key>
@@ -992,5 +992,11 @@
 	<string>zdotaccent.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
-</dict>
+	<key>uniEFFD</key>
+	<string>uniE_F_F_D_.glif</string>
+	<key>uniE0FF</key>
+	<string>uniE_0F_F_.glif</string>
+	<key>uniF000</key>
+	<string>uniF_000.glif</string>
+    </dict>
 </plist>
