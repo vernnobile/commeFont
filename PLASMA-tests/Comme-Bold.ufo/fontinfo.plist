@@ -1,44 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-	<key>familyName</key>
-	<string>Comme</string>
-	<key>styleName</key>
-	<string>Bold</string>
-	<key>copyright</key>
-	<string>Digitized data Copyright (c) 2011-2014, vernon adams.</string>
-	<key>trademark</key>
-	<string>Comme is a trademark of Vernon Adams and may be registered in certain jurisdictions.</string>
-	<key>unitsPerEm</key>
-	<integer>1000</integer>
-	<key>xHeight</key>
-	<integer>464</integer>
-	<key>capHeight</key>
-	<integer>626</integer>
+<dict>
 	<key>ascender</key>
 	<integer>761</integer>
+	<key>capHeight</key>
+	<integer>626</integer>
+	<key>copyright</key>
+	<string>Digitized data Copyright (c) 2011-2014, vernon adams.</string>
 	<key>descender</key>
 	<integer>-271</integer>
-	<key>italicAngle</key>
-	<real>0</real>
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2014/05/08 20:50:36</string>
-	<key>openTypeHheaAscender</key>
-	<integer>888</integer>
-	<key>openTypeHheaDescender</key>
-	<integer>-235</integer>
-	<key>openTypeHheaLineGap</key>
-	<integer>0</integer>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
-	<string>newtypography.co.uk</string>
-	<key>openTypeNameManufacturer</key>
-	<string>newtypography</string>
-	<key>openTypeNameManufacturerURL</key>
 	<string>newtypography.co.uk</string>
 	<key>openTypeNameLicense</key>
 	<string>Copyright (c) 2014, vernon adams.
@@ -49,42 +27,54 @@ http://scripts.sil.org/OFL
 </string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
-	<key>openTypeNameVersion</key>
-	<string>Version 2</string>
+	<key>openTypeNameManufacturer</key>
+	<string>newtypography</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>newtypography.co.uk</string>
 	<key>openTypeNamePreferedFamilyName</key>
 	<string>Comme</string>
 	<key>openTypeNamePreferedSubfamilyName</key>
 	<string>Bold</string>
-	<key>openTypeOS2WidthClass</key>
-	<integer>5</integer>
-	<key>openTypeOS2WeightClass</key>
-	<integer>700</integer>
-	<key>openTypeOS2VendorID</key>
-	<string>NeWT</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Comme</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Bold</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 2</string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
 		<integer>0</integer>
 	</array>
-	<key>openTypeOS2TypoAscender</key>
-	<integer>800</integer>
-	<key>openTypeOS2TypoDescender</key>
-	<integer>200</integer>
-	<key>openTypeOS2TypoLineGap</key>
-	<integer>0</integer>
-	<key>openTypeOS2WinAscent</key>
-	<integer>888</integer>
-	<key>openTypeOS2WinDescent</key>
-	<integer>-235</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>NeWT</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>700</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
 	<key>postscriptFontName</key>
 	<string>Comme-Bold</string>
 	<key>postscriptFullName</key>
 	<string>Comme Bold</string>
-	<key>postscriptWeightName</key>
-	<string>Bold</string>
-	<key>postscriptUnderlineThickness</key>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>trademark</key>
+	<string>Comme is a trademark of Vernon Adams and may be registered in certain jurisdictions.</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
 	<integer>0</integer>
-	<key>postscriptUnderlinePosition</key>
-	<integer>0</integer>
-    </dict>
+	<key>xHeight</key>
+	<integer>464</integer>
+</dict>
 </plist>

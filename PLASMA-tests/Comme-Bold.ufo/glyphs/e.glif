@@ -4,12 +4,6 @@
   <unicode hex="0065"/>
   <outline>
     <contour>
-      <point x="278" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="268" y="464" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="171" y="268" type="line"/>
       <point x="176" y="350"/>
       <point x="216" y="388"/>
@@ -44,36 +38,44 @@
       <point x="38" y="84"/>
       <point x="135" y="-10"/>
     </contour>
+    <contour>
+      <point x="278" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="268" y="464" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-8</integer>
-	    <key>width</key>	    <integer>40</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>421</integer>
-	    <key>width</key>	    <integer>40</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-8</integer>
+            <key>width</key>
+            <integer>40</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>421</integer>
+            <key>width</key>
+            <integer>40</integer>
+          </dict>
+        </array>
       </dict>
-    <key>org.pippin.gimp.org.kernagic</key>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-    <key>lstem</key>
-      <integer>0</integer>
-    <key>rstem</key>
-      <integer>747</integer>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>747</integer>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

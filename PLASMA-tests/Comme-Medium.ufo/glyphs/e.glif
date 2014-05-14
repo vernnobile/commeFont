@@ -4,12 +4,6 @@
   <unicode hex="0065"/>
   <outline>
     <contour>
-      <point x="271" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="266" y="464" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="142" y="269" type="line"/>
       <point x="149" y="358"/>
       <point x="198" y="409"/>
@@ -44,36 +38,44 @@
       <point x="148" y="105"/>
       <point x="141" y="212" type="curve"/>
     </contour>
+    <contour>
+      <point x="271" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="266" y="464" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-8</integer>
-	    <key>width</key>	    <integer>40</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>421</integer>
-	    <key>width</key>	    <integer>40</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-8</integer>
+            <key>width</key>
+            <integer>40</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>421</integer>
+            <key>width</key>
+            <integer>40</integer>
+          </dict>
+        </array>
       </dict>
-    <key>org.pippin.gimp.org.kernagic</key>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.pippin.gimp.org.kernagic</key>
       <dict>
-    <key>lstem</key>
-      <integer>0</integer>
-    <key>rstem</key>
-      <integer>747</integer>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>747</integer>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>
